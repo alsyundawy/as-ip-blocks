@@ -67,6 +67,7 @@ Available formats: JSON and plaintext
 
 ## Update notes
 
+- **2026-01-17**: Added bulk download archive in [releases](https://github.com/ipverse/as-ip-blocks/releases/latest)
 - **2026-01-08**: AS directories are now removed if no prefixes have been announced in the last 90 days. Historical metadata for removed AS may still be available in [as-metadata](https://github.com/ipverse/as-metadata).
 - **2026-01-05**: Removed `lastAnnounced` field to reduce git delta size. This field is still available in [as-metadata](https://github.com/ipverse/as-metadata).
 - **2026-01-03**: Repository renamed to `as-ip-blocks`, JSON format changed (`subnets` → `prefixes`, metadata nested). See [MIGRATION.md](MIGRATION.md) for details.
@@ -90,6 +91,14 @@ curl https://raw.githubusercontent.com/ipverse/as-ip-blocks/master/as/1234/ipv4-
 **AS1234 IPv6 addresses:**
 ```bash
 curl https://raw.githubusercontent.com/ipverse/as-ip-blocks/master/as/1234/ipv6-aggregated.txt
+```
+
+### Bulk download
+
+Download all AS data in a single archive from the [latest release](https://github.com/ipverse/as-ip-blocks/releases/latest):
+```bash
+curl -LO https://github.com/ipverse/as-ip-blocks/releases/latest/download/as-ip-blocks.tar.gz
+tar -xzf as-ip-blocks.tar.gz
 ```
 
 For AS metadata (ASN, handle, description, country code), see [as-metadata](https://github.com/ipverse/as-metadata).
