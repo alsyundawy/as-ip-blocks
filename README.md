@@ -3,6 +3,12 @@
 > **📢 New and improved:** This repo has been upgraded with a clearer name (`as-ip-blocks`) and enhanced JSON format. 
 > Check out [MIGRATION.md](MIGRATION.md) for the quick changes needed (plaintext files are unchanged).
 
+## 🔍 Try it online
+
+Look up any AS or IP prefix at **[Lens by ipverse](https://lens.ipverse.net)** to explore announced prefixes and metadata.
+
+## Overview
+
 Daily-updated datasets of autonomous systems (AS) with active BGP prefix announcements.
 Only includes AS that have announced at least one prefix within the last 90 days.
 No APIs, no databases - just simple file downloads.
@@ -109,10 +115,6 @@ If you plan to use the routing data for firewalling purposes, have a look at:
 
 - [ipset-blacklist](https://github.com/trick77/ipset-blacklist) - ipset/iptables based Bash script, IPv4 only
 - [ipverse-tools-crowdsec](https://github.com/ipverse/tools/blob/main/crowdsec/README.md) - Ban prefixes using Crowdsec's `cscli` command
-
-### How do I get the ASN for an IP address?
-
-Check out this blog post: https://blog.jiayu.co/2018/10/quick-url-to-asn-lookups/
 
 ## Use cases
 - Block entire AS at the firewall (goodbye spam-friendly hosting providers)
