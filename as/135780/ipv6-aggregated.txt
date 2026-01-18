@@ -1,4 +1,5 @@
 # AS135780 (AIRFIBER-AS)
 # AirFiber Networks Pvt Ltd
 #
-2404:8ec0::/32
+2404:8ec0::/33
+2404:8ec0:8000::/34
