@@ -1,14 +1,16 @@
 {
-  "asn": 204902,
-  "metadata": {
-    "handle": "XIWO-CLOUD",
-    "description": "XIWO CLOUD SAS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 204902,
+  "metadata" : {
+    "handle" : "XIWO-CLOUD",
+    "description" : "XIWO CLOUD SAS",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "162.12.217.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

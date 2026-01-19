@@ -1,14 +1,16 @@
 {
-  "asn": 58232,
-  "metadata": {
-    "handle": "HADERAN",
-    "description": "Parsun Network Solutions PTY LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 58232,
+  "metadata" : {
+    "handle" : "HADERAN",
+    "description" : "Parsun Network Solutions PTY LTD",
+    "countryCode" : "AU",
+    "country" : "Australia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "195.24.237.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }
