@@ -1,14 +1,16 @@
 {
-  "asn": 150159,
-  "metadata": {
-    "handle": "BDCL-AP",
-    "description": "BRAINWAVE DATA COMPANY LIMITED",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 150159,
+  "metadata" : {
+    "handle" : "BDCL-AS-AP",
+    "description" : "BRAINWAVE DATA COMPANY LIMITED",
+    "countryCode" : "MM",
+    "country" : "Myanmar (Burma)",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "103.124.184.0/23"
+    ],
+    "ipv6" : [ ]
   }
 }

@@ -2,7 +2,7 @@
   "asn" : 197205,
   "metadata" : {
     "handle" : "NUMBERLY-AS",
-    "description" : "Numberly SASU",
+    "description" : "Numberly SAS",
     "countryCode" : "FR",
     "country" : "France",
     "origin" : "authoritative"
@@ -12,7 +12,8 @@
       "83.150.244.0/22",
       "154.45.215.0/24",
       "154.52.128.0/24",
-      "195.66.82.0/24"
+      "195.66.82.0/24",
+      "213.232.255.0/24"
     ],
     "ipv6" : [
       "2a09:1f00::/29"

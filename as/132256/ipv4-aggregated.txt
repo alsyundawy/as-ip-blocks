@@ -2,4 +2,3 @@
 # CGI Technologies and Solutions Australia Pty Ltd
 #
 103.71.206.0/24
-202.127.211.0/24

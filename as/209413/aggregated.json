@@ -1,0 +1,16 @@
+{
+  "asn" : 209413,
+  "metadata" : {
+    "handle" : "DEDIK-CH",
+    "description" : "DEDIK SERVICES LIMITED",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "176.65.144.0/24"
+    ],
+    "ipv6" : [ ]
+  }
+}

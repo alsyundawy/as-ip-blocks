@@ -1,4 +1,5 @@
 # AS35131 (YDEA)
 # Giuliano Claudio Peritore trading as Panservice s.a.s. di Cuseo Fabrizio & C.
 #
+45.145.24.0/24
 45.145.27.0/24

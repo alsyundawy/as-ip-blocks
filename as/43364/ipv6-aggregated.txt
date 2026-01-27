@@ -1,4 +1,4 @@
 # AS43364 (MEDIANET-AS)
-# Medi@net S.r.l.
+# MEDIANET S.R.L.
 #
 2a0f:d80::/32

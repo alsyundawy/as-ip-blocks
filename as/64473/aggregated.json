@@ -2,13 +2,15 @@
   "asn" : 64473,
   "metadata" : {
     "handle" : "STACLAR-CLOUD",
-    "description" : "Staclar Inc.",
-    "countryCode" : "US",
-    "country" : "United States",
+    "description" : "Maria Merkel",
+    "countryCode" : "DE",
+    "country" : "Germany",
     "origin" : "authoritative"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [
+      "107.150.174.0/24"
+    ],
     "ipv6" : [
       "2a07:22c0:c100::/40"
     ]

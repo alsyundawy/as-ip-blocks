@@ -1,0 +1,19 @@
+{
+  "asn" : 204208,
+  "metadata" : {
+    "handle" : "PERAVIX",
+    "description" : "Peravix Group LTD",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [
+      "31.42.123.0/24"
+    ],
+    "ipv6" : [
+      "2a05:dfc3::/40",
+      "2a0c:9a40:8e60::/44"
+    ]
+  }
+}

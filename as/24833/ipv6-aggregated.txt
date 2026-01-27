@@ -1,4 +1,4 @@
-# AS24833 (LBS-WEST-NET)
+# AS24833 (LBS-NW-NET)
 # LBS Landesbausparkasse NordWest
 #
 2a00:7460::/32

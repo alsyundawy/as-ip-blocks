@@ -1,14 +1,16 @@
 {
-  "asn": 23119,
-  "metadata": {
-    "handle": "TERRA-US-AS01",
-    "description": "TerraMobile North America",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 23119,
+  "metadata" : {
+    "handle" : "TERRA-US-AS01",
+    "description" : "TerraMobile North America",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "154.22.18.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

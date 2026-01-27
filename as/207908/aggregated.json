@@ -2,14 +2,14 @@
   "asn" : 207908,
   "metadata" : {
     "handle" : "BLAHAJ",
-    "description" : "Maria Felicitas Annika Merkel",
+    "description" : "Maria Merkel",
     "countryCode" : "DE",
     "country" : "Germany",
     "origin" : "authoritative"
   },
   "prefixes" : {
     "ipv4" : [
-      "45.151.214.0/24"
+      "45.151.214.0/23"
     ],
     "ipv6" : [
       "2001:678:d84::/48"

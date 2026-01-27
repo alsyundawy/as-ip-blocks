@@ -1,14 +1,17 @@
 {
-  "asn": 205962,
-  "metadata": {
-    "handle": "KTS",
-    "description": "Kabelnie Telecomunikatsionnie Sistemy LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 205962,
+  "metadata" : {
+    "handle" : "ORANGE-DOG-AS",
+    "description" : "Orange dog d.o.o.",
+    "countryCode" : "SI",
+    "country" : "Slovenia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "151.247.33.0/24",
+      "178.83.89.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

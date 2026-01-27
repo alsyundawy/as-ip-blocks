@@ -1,3 +1,3 @@
-# AS205962 (KTS)
-# Kabelnie Telecomunikatsionnie Sistemy LLC
+# AS205962 (ORANGE-DOG-AS)
+# Orange dog d.o.o.
 #

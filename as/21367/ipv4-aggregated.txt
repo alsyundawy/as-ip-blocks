@@ -1,5 +1,5 @@
 # AS21367 (WILAND-AS)
-# Wiland Ltd
+# TrunkMobile JSC
 #
 5.134.216.0/21
 31.22.32.0/21

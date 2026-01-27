@@ -1,4 +1,4 @@
 # AS57854 (ALTERNA-AS)
-# UNISTAR LC do.o.
+# ACTUAL I.T. d.d.
 #
 91.235.242.0/24

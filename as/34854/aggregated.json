@@ -2,13 +2,15 @@
   "asn" : 34854,
   "metadata" : {
     "handle" : "STACLAR-CARRIER",
-    "description" : "Staclar Carrier Ltd.",
-    "countryCode" : "GB",
-    "country" : "United Kingdom",
+    "description" : "Maria Merkel",
+    "countryCode" : "DE",
+    "country" : "Germany",
     "origin" : "authoritative"
   },
   "prefixes" : {
-    "ipv4" : [ ],
+    "ipv4" : [
+      "45.13.118.0/24"
+    ],
     "ipv6" : [
       "2a07:22c0::/48"
     ]

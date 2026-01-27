@@ -2,3 +2,4 @@
 # Thomas Sebastiaan Viet trading as Wasabi Hosting
 #
 45.154.34.0/24
+155.117.255.0/24
