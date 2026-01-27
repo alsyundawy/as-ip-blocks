@@ -15,10 +15,21 @@ No APIs, no databases - just simple file downloads.
 
 Each AS gets its own directory with aggregated IPv4 and IPv6 prefixes in both JSON and plaintext formats.
 Prefixes are aggregated (adjacent and overlapping CIDR blocks are merged into larger blocks where possible). 
-Perfect for firewall rules, network analysis, or tracking what IP ranges belong to specific organizations. 
+Perfect for firewall rules, network analysis, or tracking what IP ranges belong to specific organizations.
 Git history lets you see how an AS's announcements change over time.
 
-Available formats: JSON and plaintext
+## Update notes
+
+- **2026-01-17**: Added bulk download archive in [releases](https://github.com/ipverse/as-ip-blocks/releases/latest)
+- **2026-01-08**: AS directories are now removed if no prefixes have been announced in the last 90 days. Historical metadata for removed AS may still be available in [as-metadata](https://github.com/ipverse/as-metadata).
+- **2026-01-05**: Removed `lastAnnounced` field to reduce git delta size. This field is still available in [as-metadata](https://github.com/ipverse/as-metadata).
+- **2026-01-03**: Repository renamed to `as-ip-blocks`, JSON format changed (`subnets` → `prefixes`, metadata nested). See [MIGRATION.md](MIGRATION.md) for details.
+- 2025-08-03: Removed opinionated handle cleanup
+- 2023-09-03: Removed PEM certificates from description field
+
+## Available formats
+
+JSON and plaintext
 
 **JSON format** (includes both IPv4 and IPv6):
 ```json
@@ -70,15 +81,6 @@ Available formats: JSON and plaintext
   - `inferred`: Inferred from routing information; may be inaccurate
   - `overlaid`: Metadata overlay from [as-overlay](https://github.com/ipverse/as-overlay) applied
   - `none`: No metadata available
-
-## Update notes
-
-- **2026-01-17**: Added bulk download archive in [releases](https://github.com/ipverse/as-ip-blocks/releases/latest)
-- **2026-01-08**: AS directories are now removed if no prefixes have been announced in the last 90 days. Historical metadata for removed AS may still be available in [as-metadata](https://github.com/ipverse/as-metadata).
-- **2026-01-05**: Removed `lastAnnounced` field to reduce git delta size. This field is still available in [as-metadata](https://github.com/ipverse/as-metadata).
-- **2026-01-03**: Repository renamed to `as-ip-blocks`, JSON format changed (`subnets` → `prefixes`, metadata nested). See [MIGRATION.md](MIGRATION.md) for details.
-- 2025-08-03: Removed opinionated handle cleanup
-- 2023-09-03: Removed PEM certificates from description field
 
 ## How to use
 
