@@ -1,4 +1,3 @@
 # AS150143 (IOTMEDIALAB-AS-AP)
 # IotMedia Lab
 #
-103.20.198.0/23

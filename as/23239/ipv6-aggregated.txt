@@ -1,3 +1,6 @@
-# AS23239 (EVO)
-# EVO Merchant Services, LLC
+# AS23239 (JAVELINA)
+# Irongrove LLC
 #
+2602:f484:1::/48
+2602:f484:2::/47
+2602:f484:4::/48

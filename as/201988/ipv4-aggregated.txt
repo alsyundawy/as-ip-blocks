@@ -1,0 +1,4 @@
+# AS201988 (VPSPAY-ASN)
+# VPSPay Networks LTD
+#
+144.31.238.0/24

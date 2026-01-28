@@ -2,4 +2,3 @@
 # CNISP-Union Technology (Beijing) Co. Ltd
 #
 103.249.244.0/24
-218.245.18.0/23

@@ -1,0 +1,16 @@
+{
+  "asn" : 275619,
+  "metadata" : {
+    "handle" : "APOIO-DIGITAL-TI",
+    "description" : "Apoio Digital Ti",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2804:9760::/32"
+    ]
+  }
+}

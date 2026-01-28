@@ -1,4 +1,3 @@
 # AS266404 (WINDX-TELECOMUNICACOES)
 # Windx Telecomunicações
 #
-170.81.114.0/23

@@ -1,14 +1,18 @@
 {
-  "asn": 203989,
-  "metadata": {
-    "handle": "BLUEPHONE",
-    "description": "Bluephone SL",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 203989,
+  "metadata" : {
+    "handle" : "LHM-PAED",
+    "description" : "Landeshauptstadt Muenchen it@M",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "194.113.41.0/24"
+    ],
+    "ipv6" : [
+      "2a00:1830::/44"
+    ]
   }
 }

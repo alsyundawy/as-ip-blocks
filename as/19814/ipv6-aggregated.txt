@@ -2,3 +2,5 @@
 # Foundability Technologies Inc
 #
 2602:f805::/48
+2602:f805:b00::/48
+2602:f805:e00::/48

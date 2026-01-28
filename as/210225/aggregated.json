@@ -1,14 +1,16 @@
 {
-  "asn": 210225,
-  "metadata": {
-    "handle": "CATVROCIANA",
-    "description": "AVATEL TELECOM, SA",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 210225,
+  "metadata" : {
+    "handle" : "DINGS-AS",
+    "description" : "David Dings",
+    "countryCode" : "NL",
+    "country" : "Netherlands",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2001:67c:1710::/48"
+    ]
   }
 }

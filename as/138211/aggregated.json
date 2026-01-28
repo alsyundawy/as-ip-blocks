@@ -1,14 +1,16 @@
 {
-  "asn": 138211,
-  "metadata": {
-    "handle": "RESERVED",
-    "description": "APNIC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 138211,
+  "metadata" : {
+    "handle" : "TUPLENET-AS-AP",
+    "description" : "TupleTech Corporation",
+    "countryCode" : "CN",
+    "country" : "China",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2406:840:f889::/48"
+    ]
   }
 }

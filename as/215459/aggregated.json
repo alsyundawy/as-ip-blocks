@@ -1,14 +1,16 @@
 {
-  "asn": 215459,
-  "metadata": {
-    "handle": "PASCAL-KUTSCHA-AS",
-    "description": "Pascal Kutscha",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 215459,
+  "metadata" : {
+    "handle" : "PASCAL-KUTSCHA-AS",
+    "description" : "Pascal Kutscha",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a07:54c4:19a0::/47"
+    ]
   }
 }

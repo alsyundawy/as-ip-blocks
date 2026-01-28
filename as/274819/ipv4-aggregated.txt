@@ -1,5 +1,4 @@
 # AS274819 (GUAPNET-SERVICOS-EM)
 # Guapnet Servicos em Telecomunicacoes Ltd
 #
-177.46.35.0/24
 187.86.15.0/24

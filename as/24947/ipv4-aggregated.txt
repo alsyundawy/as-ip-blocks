@@ -2,4 +2,3 @@
 # Parsun Network Solutions PTY LTD
 #
 185.84.159.0/24
-194.88.232.0/24

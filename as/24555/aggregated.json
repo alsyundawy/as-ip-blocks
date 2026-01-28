@@ -1,14 +1,18 @@
 {
-  "asn": 24555,
-  "metadata": {
-    "handle": "APRICOT-APNIC-ASN",
-    "description": "Asia Pacific Network Information Centre",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 24555,
+  "metadata" : {
+    "handle" : "APRICOT-APNIC-ASN",
+    "description" : "Asia Pacific Network Information Centre",
+    "countryCode" : "AU",
+    "country" : "Australia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "220.247.144.0/20"
+    ],
+    "ipv6" : [
+      "2001:df9::/32"
+    ]
   }
 }

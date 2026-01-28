@@ -1,14 +1,16 @@
 {
-  "asn": 44508,
-  "metadata": {
-    "handle": "GLOBALCONNECT-TESTLAB-NETWORK",
-    "description": "GlobalConnect A/S",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 44508,
+  "metadata" : {
+    "handle" : "GLOBALCONNECT-TESTLAB-NETWORK",
+    "description" : "GlobalConnect A/S",
+    "countryCode" : "DK",
+    "country" : "Denmark",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a02:460::/32"
+    ]
   }
 }

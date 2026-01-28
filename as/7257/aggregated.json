@@ -1,14 +1,16 @@
 {
-  "asn": 7257,
-  "metadata": {
-    "handle": "GPC",
-    "description": "ITSUDATTE INC.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 7257,
+  "metadata" : {
+    "handle" : "JP-MARU-20250124",
+    "description" : "OTO GK",
+    "countryCode" : "JP",
+    "country" : "Japan",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [
+      "2a06:40::/29"
+    ]
   }
 }

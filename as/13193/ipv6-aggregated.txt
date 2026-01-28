@@ -1,5 +1,5 @@
 # AS13193 (ASN-NERIM)
-# KEYYO SA
+# Keyyo SA
 #
 2001:7a8::/32
 2a01:68::/32

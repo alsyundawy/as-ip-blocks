@@ -1,14 +1,16 @@
 {
-  "asn": 47555,
-  "metadata": {
-    "handle": "EURASERV-L1",
-    "description": "Diogenius SPRL",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 47555,
+  "metadata" : {
+    "handle" : "THGNET-VLB",
+    "description" : "Diogenius SPRL",
+    "countryCode" : "BE",
+    "country" : "Belgium",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "45.148.49.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

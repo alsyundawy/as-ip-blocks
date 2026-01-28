@@ -1,14 +1,17 @@
 {
-  "asn": 399368,
-  "metadata": {
-    "handle": "KIRKLAND-ELLIS-RY",
-    "description": "Kirkland & Ellis LLP",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 399368,
+  "metadata" : {
+    "handle" : "KIRKLAND-ELLIS-RY",
+    "description" : "Kirkland & Ellis LLP",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "137.169.53.0/24",
+      "137.169.54.0/24"
+    ],
+    "ipv6" : [ ]
   }
 }

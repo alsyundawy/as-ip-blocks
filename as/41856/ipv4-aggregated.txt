@@ -2,4 +2,3 @@
 # Pardazesh Rayaneh Bita Co.Ltd
 #
 185.89.112.0/22
-185.163.88.0/22

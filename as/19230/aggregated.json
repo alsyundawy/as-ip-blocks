@@ -1,14 +1,18 @@
 {
-  "asn": 19230,
-  "metadata": {
-    "handle": "NANOG",
-    "description": "NANOG",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 19230,
+  "metadata" : {
+    "handle" : "NANOG",
+    "description" : "NANOG",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [
+      "192.252.240.0/20"
+    ],
+    "ipv6" : [
+      "2620:0:ce0::/48"
+    ]
   }
 }

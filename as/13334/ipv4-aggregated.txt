@@ -1,4 +1,3 @@
 # AS13334 (RAPIDZONE)
 # Rapidzone
 #
-44.30.46.0/24
