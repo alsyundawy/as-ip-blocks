@@ -1,0 +1,14 @@
+{
+  "asn" : 142253,
+  "metadata" : {
+    "handle" : "EISPL-AS-AP",
+    "description" : "EBLISS INFO SYSTEMS PRIVATE LIMITED",
+    "countryCode" : "IN",
+    "country" : "India",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "151.158.115.0/24" ],
+    "ipv6" : [ ]
+  }
+}

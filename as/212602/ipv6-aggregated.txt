@@ -1,4 +1,4 @@
 # AS212602 (CONNECTLIFE)
-# ConnectLife S.r.l
+# CONNECTLIFE SPA
 #
 2a10:7040::/29

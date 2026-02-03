@@ -1,14 +1,14 @@
 {
-  "asn": 203048,
-  "metadata": {
-    "handle": "JOBSBG",
-    "description": "JOBS.BG Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 203048,
+  "metadata" : {
+    "handle" : "ORG-BNL44-RIPE",
+    "description" : "BritNeighbour Net Ltd",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "64.81.185.0/24", "66.92.253.0/24" ],
+    "ipv6" : [ ]
   }
 }

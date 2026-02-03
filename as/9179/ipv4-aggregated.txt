@@ -1,4 +1,4 @@
 # AS9179 (FIDO-ANYCAST)
-# BINK GROUP LTD
+# Bink Group Ltd
 #
 192.88.83.0/24

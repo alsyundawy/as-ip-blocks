@@ -1,14 +1,14 @@
 {
-  "asn": 54055,
-  "metadata": {
-    "handle": "RSNB-01",
-    "description": "RSNB Bank",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 54055,
+  "metadata" : {
+    "handle" : "RSNB-01",
+    "description" : "RSNB Bank",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "204.77.27.0/24" ],
+    "ipv6" : [ ]
   }
 }

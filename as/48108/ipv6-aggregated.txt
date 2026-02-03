@@ -2,6 +2,7 @@
 # Dmitrii Vladimirovich Malkov
 #
 2a06:c3c0:1::/48
+2a0a:2e82::/32
 2a0d:d940:1400::/38
 2a11:7e40:1::/48
 2a11:7e40:4::/48

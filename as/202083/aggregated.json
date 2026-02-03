@@ -1,0 +1,14 @@
+{
+  "asn" : 202083,
+  "metadata" : {
+    "handle" : "DSUA",
+    "description" : "Gigacloud LLC",
+    "countryCode" : "UA",
+    "country" : "Ukraine",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "193.107.139.0/24" ],
+    "ipv6" : [ ]
+  }
+}

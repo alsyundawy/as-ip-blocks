@@ -1,0 +1,14 @@
+{
+  "asn" : 402146,
+  "metadata" : {
+    "handle" : "EXE-DEV",
+    "description" : "Bold Software Inc",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "161.210.46.0/24" ],
+    "ipv6" : [ ]
+  }
+}

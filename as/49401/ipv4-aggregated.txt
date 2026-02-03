@@ -1,5 +1,5 @@
 # AS49401 (BINKNET)
-# BINK GROUP LTD
+# Bink Group Ltd
 #
 80.252.119.0/24
 194.60.196.0/23

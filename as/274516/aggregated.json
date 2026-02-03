@@ -1,14 +1,14 @@
 {
-  "asn": 274516,
-  "metadata": {
-    "handle": "WIUP-INTERNET",
-    "description": "WIUP Internet LTDA",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 274516,
+  "metadata" : {
+    "handle" : "WIUP-INTERNET",
+    "description" : "WIUP Internet LTDA",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "160.238.216.0/22" ],
+    "ipv6" : [ "2804:955c::/32" ]
   }
 }

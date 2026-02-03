@@ -1,14 +1,14 @@
 {
-  "asn": 212022,
-  "metadata": {
-    "handle": "REDNETWORK",
-    "description": "Jonathan DEBETAZ",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 212022,
+  "metadata" : {
+    "handle" : "LINK-LIFE-AS",
+    "description" : "LLC LinkLife",
+    "countryCode" : "RU",
+    "country" : "Russia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "93.170.142.0/24" ],
+    "ipv6" : [ ]
   }
 }

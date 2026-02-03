@@ -1,0 +1,14 @@
+{
+  "asn" : 45621,
+  "metadata" : {
+    "handle" : "ICONNECT-BD",
+    "description" : "IT Connect Ltd",
+    "countryCode" : "BD",
+    "country" : "Bangladesh",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "112.137.0.0/20" ],
+    "ipv6" : [ ]
+  }
+}

@@ -1,14 +1,14 @@
 {
-  "asn": 213267,
-  "metadata": {
-    "handle": "LUMINORLV",
-    "description": "Luminor Bank AS",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 213267,
+  "metadata" : {
+    "handle" : "LUMINORLV",
+    "description" : "Luminor Bank AS",
+    "countryCode" : "EE",
+    "country" : "Estonia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "87.246.160.0/24" ],
+    "ipv6" : [ ]
   }
 }

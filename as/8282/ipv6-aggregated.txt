@@ -1,4 +1,4 @@
 # AS8282 (BINK)
-# BINK GROUP LTD
+# Bink Group Ltd
 #
 2a01:2c0::/32

@@ -1,3 +1,5 @@
-# AS203048 (JOBSBG)
-# JOBS.BG Ltd.
+# AS203048 (ORG-BNL44-RIPE)
+# BritNeighbour Net Ltd
 #
+64.81.185.0/24
+66.92.253.0/24

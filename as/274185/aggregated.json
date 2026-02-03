@@ -1,0 +1,14 @@
+{
+  "asn" : 274185,
+  "metadata" : {
+    "handle" : "MARTIN-TARICO-MATIAS",
+    "description" : "MARTIN TARICO MATIAS (MM Networks)",
+    "countryCode" : "AR",
+    "country" : "Argentina",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2803:4dd0::/32" ]
+  }
+}

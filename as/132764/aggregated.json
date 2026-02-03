@@ -1,14 +1,14 @@
 {
-  "asn": 132764,
-  "metadata": {
-    "handle": "PINKEYIT",
-    "description": "Pinkey Internet",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 132764,
+  "metadata" : {
+    "handle" : "PINKEYIT-AS",
+    "description" : "Pinkey Internet",
+    "countryCode" : "IN",
+    "country" : "India",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "110.44.8.0/24" ],
+    "ipv6" : [ ]
   }
 }

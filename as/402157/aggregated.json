@@ -1,0 +1,14 @@
+{
+  "asn" : 402157,
+  "metadata" : {
+    "handle" : "PUPPYGIRL-LABS",
+    "description" : "Puppygirl Labs LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2602:fefd:100::/48", "2602:fefd:e20::/48" ]
+  }
+}

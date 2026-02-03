@@ -1,5 +1,5 @@
 # AS8282 (BINK)
-# BINK GROUP LTD
+# Bink Group Ltd
 #
 80.252.116.0/24
 80.252.125.0/24

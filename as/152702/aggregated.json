@@ -1,0 +1,14 @@
+{
+  "asn" : 152702,
+  "metadata" : {
+    "handle" : "FLEXCLOUDSERVICES-AS-AP",
+    "description" : "FLEXCLOUD SERVICES",
+    "countryCode" : "IN",
+    "country" : "India",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "202.71.185.0/24" ],
+    "ipv6" : [ ]
+  }
+}
