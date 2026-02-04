@@ -1,0 +1,14 @@
+{
+  "asn" : 18044,
+  "metadata" : {
+    "handle" : "KANRAYS-AS-TW",
+    "description" : "Kanrays Technology Co. Ltd.",
+    "countryCode" : "TW",
+    "country" : "Taiwan",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "151.158.26.0/23" ],
+    "ipv6" : [ "2402:4920::/32" ]
+  }
+}

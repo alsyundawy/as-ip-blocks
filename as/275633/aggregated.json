@@ -1,0 +1,14 @@
+{
+  "asn" : 275633,
+  "metadata" : {
+    "handle" : "AAF-INTERNET-EIRELI",
+    "description" : "AAF INTERNET EIRELI",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2804:9798::/32" ]
+  }
+}

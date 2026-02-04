@@ -1,4 +1,4 @@
 # AS197556 (TNS)
-# TNS-Plus LLP
+# Kar-Tel LLC
 #
 2a0d:b200::/31

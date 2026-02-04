@@ -1,14 +1,14 @@
 {
-  "asn": 396063,
-  "metadata": {
-    "handle": "AVENTCLOUD",
-    "description": "Avent Cloud Inc",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 396063,
+  "metadata" : {
+    "handle" : "APJ-PUBLIC",
+    "description" : "HEWLETT PACKARD ENTERPRISE COMPANY",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "16.10.12.0/23" ],
+    "ipv6" : [ ]
   }
 }

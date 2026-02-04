@@ -1,0 +1,14 @@
+{
+  "asn" : 142245,
+  "metadata" : {
+    "handle" : "KASTLEFIJIPTELTD-AS-AP",
+    "description" : "Kastle (Fiji) Pte Ltd",
+    "countryCode" : "FJ",
+    "country" : "Fiji",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "198.15.17.0/24" ],
+    "ipv6" : [ ]
+  }
+}

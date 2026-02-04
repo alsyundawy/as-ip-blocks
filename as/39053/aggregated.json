@@ -1,14 +1,14 @@
 {
-  "asn": 39053,
-  "metadata": {
-    "handle": "IPFIX",
-    "description": "IPFIX SASU",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 39053,
+  "metadata" : {
+    "handle" : "IPFIX",
+    "description" : "IPFIX SASU",
+    "countryCode" : "FR",
+    "country" : "France",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "193.176.68.0/22" ],
+    "ipv6" : [ ]
   }
 }

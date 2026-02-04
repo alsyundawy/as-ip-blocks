@@ -1,0 +1,14 @@
+{
+  "asn" : 208866,
+  "metadata" : {
+    "handle" : "KNOWLEGE",
+    "description" : "Knowledge Land Company Ltd.",
+    "countryCode" : "IQ",
+    "country" : "Iraq",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "45.82.63.0/24" ],
+    "ipv6" : [ ]
+  }
+}

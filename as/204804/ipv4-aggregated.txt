@@ -1,4 +1,3 @@
 # AS204804 (ASMEGANET)
 # Meganet LLP
 #
-185.239.146.0/24

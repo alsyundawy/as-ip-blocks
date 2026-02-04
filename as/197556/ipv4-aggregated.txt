@@ -1,5 +1,5 @@
 # AS197556 (TNS)
-# TNS-Plus LLP
+# Kar-Tel LLC
 #
 5.34.16.0/20
 31.132.80.0/20

@@ -1,5 +1,5 @@
 # AS205447 (NETVIL-AS)
-# Netvil Rafal Pietrusiak
+# Cyberio Sp. z o.o.
 #
 94.240.27.0/24
 109.207.70.0/24

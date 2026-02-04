@@ -1,4 +1,4 @@
 # AS210475 (VANVIK-DC)
-# Jon Arve Vanvik
+# Jon Vanvik trading as Vanvik Internet
 #
 2001:67c:2ff8::/48

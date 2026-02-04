@@ -1,14 +1,14 @@
 {
-  "asn": 53730,
-  "metadata": {
-    "handle": "RAILHEAD",
-    "description": "Railhead, Inc",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 53730,
+  "metadata" : {
+    "handle" : "RAILHEAD",
+    "description" : "Railhead Inc",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "184.94.208.0/22", "184.94.216.0/21" ],
+    "ipv6" : [ "2604:b300::/32" ]
   }
 }

@@ -1,3 +1,4 @@
 # AS16581 (DEEPINFRA-01)
 # Deep Infra Inc.
 #
+2602:817:6001::/48

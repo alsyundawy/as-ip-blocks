@@ -1,4 +1,5 @@
 # AS36124 (BIZVOX)
 # BizVox Communications Inc
 #
-136.175.48.0/22
+136.175.49.0/24
+136.175.50.0/23

@@ -1,5 +1,5 @@
 # AS211600 (SECUCARD)
-# secucard GmbH
+# SECUPAY AG
 #
 46.243.72.0/24
 46.243.74.0/23

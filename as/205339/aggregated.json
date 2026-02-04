@@ -1,14 +1,14 @@
 {
-  "asn": 205339,
-  "metadata": {
-    "handle": "STEVE-REINHOLD",
-    "description": "Steve Reinhold",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 205339,
+  "metadata" : {
+    "handle" : "STEVE-REINHOLD",
+    "description" : "Steve Reinhold",
+    "countryCode" : "SE",
+    "country" : "Sweden",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2001:678:524::/48" ]
   }
 }

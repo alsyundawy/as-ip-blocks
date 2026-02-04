@@ -1,14 +1,14 @@
 {
-  "asn": 215126,
-  "metadata": {
-    "handle": "ROTELECOM",
-    "description": "Pedpec GRUP S.R.L.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 215126,
+  "metadata" : {
+    "handle" : "ITDATATELECOM",
+    "description" : "Pedpec GRUP S.R.L.",
+    "countryCode" : "RO",
+    "country" : "Romania",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2a14:7581:7100::/48" ]
   }
 }

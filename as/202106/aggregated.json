@@ -1,0 +1,14 @@
+{
+  "asn" : 202106,
+  "metadata" : {
+    "handle" : "GAMETECH",
+    "description" : "GAMETECH DIJITAL TEKNOLOJI ANONIM SIRKETI",
+    "countryCode" : "TR",
+    "country" : "Türkiye",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "185.129.17.0/24" ],
+    "ipv6" : [ ]
+  }
+}

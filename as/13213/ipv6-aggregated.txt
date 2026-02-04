@@ -1,5 +1,5 @@
 # AS13213 (UK2NET-AS)
-# UK-2 Limited
+# THG HOSTING LIMITED
 #
 2602:f916::/48
 2602:fad4:1::/48

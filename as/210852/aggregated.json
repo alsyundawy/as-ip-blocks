@@ -1,0 +1,14 @@
+{
+  "asn" : 210852,
+  "metadata" : {
+    "handle" : "LAYER7-MSP",
+    "description" : "Layer7 GmbH",
+    "countryCode" : "DE",
+    "country" : "Germany",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "45.10.129.0/24", "46.253.139.0/24" ],
+    "ipv6" : [ ]
+  }
+}

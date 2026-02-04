@@ -1,0 +1,14 @@
+{
+  "asn" : 396159,
+  "metadata" : {
+    "handle" : "PUD3-WA",
+    "description" : "PUD3",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "167.94.5.0/24" ],
+    "ipv6" : [ ]
+  }
+}

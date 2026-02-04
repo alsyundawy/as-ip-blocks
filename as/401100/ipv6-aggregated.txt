@@ -1,5 +1,4 @@
 # AS401100 (BMUS-ISP-AS01)
 # Bradley Morrissey (US) LLC
 #
-2602:f972:fd::/48
-2602:f972:fe::/47
+2602:f972:ff::/48
