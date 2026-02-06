@@ -1,4 +1,4 @@
 # AS214929 (LASTRESPONSE)
-# Lukas Wenzl trading as LastResponse
+# Lukas Wenzl trading as LastResponse e.U
 #
 94.249.228.0/24

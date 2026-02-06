@@ -1,5 +1,5 @@
-# AS149440 (EVOXTENTERPRISE-AS-AP)
-# Evoxt Enterprise
+# AS149440 (EVOXTSDNBHD-AS-AP)
+# Evoxt Sdn. Bhd.
 #
 2400:8d60:1::/48
 2400:8d60:2::/47

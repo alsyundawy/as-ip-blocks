@@ -1,0 +1,14 @@
+{
+  "asn" : 210714,
+  "metadata" : {
+    "handle" : "TURKAN-ORHAN",
+    "description" : "Orhan Turkan",
+    "countryCode" : "TR",
+    "country" : "Türkiye",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "185.148.241.0/24" ],
+    "ipv6" : [ ]
+  }
+}

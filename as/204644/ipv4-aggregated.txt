@@ -1,3 +1,4 @@
-# AS204644 (STUMPNERNET)
-# Stumpner Netservice UG (haftungsbeschraenkt)
+# AS204644 (PDQ-RIPE)
+# PDQ.COM CORPORATION
 #
+89.127.240.0/24

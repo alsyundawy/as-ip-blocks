@@ -1,4 +1,3 @@
 # AS267959 (A-SOUZA-FREITAS-COMERCIO)
 # A. de Souza Freitas - Comércio
 #
-2804:8f04::/32

@@ -1,5 +1,5 @@
 # AS214929 (LASTRESPONSE)
-# Lukas Wenzl trading as LastResponse
+# Lukas Wenzl trading as LastResponse e.U
 #
 2602:f9ba:b1::/48
 2a06:9f41:200::/40

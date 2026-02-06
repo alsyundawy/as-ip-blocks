@@ -1,4 +1,3 @@
 # AS25730 (LAYERSIX)
 # Quixly
 #
-2604:2d60::/32

@@ -1,0 +1,4 @@
+# AS210714 (TURKAN-ORHAN)
+# Orhan Turkan
+#
+185.148.241.0/24

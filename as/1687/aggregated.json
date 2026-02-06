@@ -1,0 +1,14 @@
+{
+  "asn" : 1687,
+  "metadata" : {
+    "handle" : "ANS-1687-AS",
+    "description" : "Verizon Business",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "63.36.0.0/14" ],
+    "ipv6" : [ ]
+  }
+}

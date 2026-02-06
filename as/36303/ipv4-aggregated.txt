@@ -1,5 +1,5 @@
 # AS36303 (VICKERY-INTERNET)
-# Vickery IT
+# Vickery Internet
 #
 23.169.104.0/24
 167.253.29.0/24

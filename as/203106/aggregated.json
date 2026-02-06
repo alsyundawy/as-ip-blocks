@@ -1,14 +1,14 @@
 {
-  "asn": 203106,
-  "metadata": {
-    "handle": "RESERVED",
-    "description": "RIPE NCC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 203106,
+  "metadata" : {
+    "handle" : "ORG-CFL10-RIPE",
+    "description" : "ClearNet Fibre Ltd",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "64.22.73.0/24", "74.81.64.0/24", "142.252.21.0/24", "162.223.196.0/24" ],
+    "ipv6" : [ ]
   }
 }

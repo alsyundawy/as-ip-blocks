@@ -1,14 +1,14 @@
 {
-  "asn": 395477,
-  "metadata": {
-    "handle": "CORN-COM01",
-    "description": "Cornwall Communication Limited",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 395477,
+  "metadata" : {
+    "handle" : "CORN-COM01",
+    "description" : "Cornwall Communication Limited",
+    "countryCode" : "JM",
+    "country" : "Jamaica",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "45.194.71.0/24" ],
+    "ipv6" : [ ]
   }
 }

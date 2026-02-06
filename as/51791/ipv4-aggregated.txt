@@ -1,5 +1,5 @@
 # AS51791 (VENTURES-DC-VERI-MERKEZI)
-# Remzi Toker trading as VENTURESDC Veri Merkezi Hizmetleri
+# Remzi Toker
 #
 153.56.129.0/24
 181.215.193.0/24

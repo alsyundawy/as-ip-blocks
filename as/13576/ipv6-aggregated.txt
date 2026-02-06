@@ -1,5 +1,5 @@
 # AS13576 (SDNW-13576)
-# SOUTH DAKOTA NETWORK
+# SDN Communications
 #
 2605:4900::/32
 2607:fc00::/32

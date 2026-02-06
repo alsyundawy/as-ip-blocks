@@ -2,3 +2,4 @@
 # tc conecta serviços de telecomunicações e provedor
 #
 177.85.136.0/21
+190.89.159.0/24

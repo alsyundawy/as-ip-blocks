@@ -1,4 +1,4 @@
 # AS34854 (BLAHAJ-CLOUD)
 # Maria Merkel
 #
-2a07:22c0::/48
+2a0c:6500:100::/40

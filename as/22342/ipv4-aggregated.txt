@@ -1,4 +1,4 @@
-# AS22342 (TCMC)
-# Geisinger Commonwealth School of Medicine
+# AS22342 (GCSOM)
+# Geisinger System Services
 #
 204.139.52.0/22

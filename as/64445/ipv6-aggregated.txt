@@ -1,5 +1,6 @@
 # AS64445 (AS-NETJOIN)
 # Michele Pietravalle trading as NetJoin
 #
+2a04:68c0::/32
 2a12:e6c0::/47
 2a12:e6c0:c50::/48

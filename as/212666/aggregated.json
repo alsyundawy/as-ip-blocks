@@ -1,14 +1,14 @@
 {
-  "asn": 212666,
-  "metadata": {
-    "handle": "IPV4-NET",
-    "description": "Sabire Irmak Mala",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 212666,
+  "metadata" : {
+    "handle" : "IPV4-NET",
+    "description" : "Sabire Irmak Mala",
+    "countryCode" : "TR",
+    "country" : "Türkiye",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "45.133.38.0/24" ],
+    "ipv6" : [ ]
   }
 }

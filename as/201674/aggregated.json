@@ -1,0 +1,14 @@
+{
+  "asn" : 201674,
+  "metadata" : {
+    "handle" : "WENZHANGYU",
+    "description" : "Wen ZhangYu",
+    "countryCode" : "CN",
+    "country" : "China",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2a06:9801:20::/48" ]
+  }
+}

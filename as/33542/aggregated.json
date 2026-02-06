@@ -1,0 +1,14 @@
+{
+  "asn" : 33542,
+  "metadata" : {
+    "handle" : "COMCAST-TELECOMM-3",
+    "description" : "Comcast Cable Communications LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "96.171.0.0/16" ],
+    "ipv6" : [ ]
+  }
+}

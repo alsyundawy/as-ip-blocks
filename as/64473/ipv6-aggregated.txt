@@ -1,5 +1,4 @@
 # AS64473 (BLAHAJ-CLOUD-ANYCAST)
 # Maria Merkel
 #
-2a07:22c0:c100::/40
 2a0c:6500::/48

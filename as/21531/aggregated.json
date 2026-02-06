@@ -1,0 +1,14 @@
+{
+  "asn" : 21531,
+  "metadata" : {
+    "handle" : "QLRASN-1",
+    "description" : "Quantum Leap Research LLC",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "192.219.29.0/24" ],
+    "ipv6" : [ ]
+  }
+}

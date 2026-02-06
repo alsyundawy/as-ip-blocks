@@ -1,4 +1,3 @@
 # AS273780 (PLUSS-TECNOLOGIA)
 # Pluss Tecnologia Ltda
 #
-38.210.97.0/24

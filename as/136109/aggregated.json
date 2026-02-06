@@ -1,14 +1,14 @@
 {
-  "asn": 136109,
-  "metadata": {
-    "handle": "IDNIC-IPNETSOLUSINDO-AS-ID",
-    "description": "PT IP NETWORK SOLUSINDO",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 136109,
+  "metadata" : {
+    "handle" : "IDNIC-IPNETSOLUSINDO-AS-ID",
+    "description" : "PT IP NETWORK SOLUSINDO",
+    "countryCode" : "ID",
+    "country" : "Indonesia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "103.92.104.0/24" ],
+    "ipv6" : [ ]
   }
 }
