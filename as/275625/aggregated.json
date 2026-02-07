@@ -1,0 +1,14 @@
+{
+  "asn" : 275625,
+  "metadata" : {
+    "handle" : "A-M-GUERREIRO",
+    "description" : "A M GUERREIRO COMERCIO E SERVICOS DE C M SCM LTDA",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2804:9774::/32" ]
+  }
+}

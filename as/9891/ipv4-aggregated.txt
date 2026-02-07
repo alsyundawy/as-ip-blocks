@@ -1,6 +1,8 @@
 # AS9891 (CSLOX-IDC-AS-AP)
 # CS Loxinfo Public Company Limited
 #
+14.207.141.0/24
+14.207.142.0/23
 27.254.26.0/24
 27.254.32.0/19
 27.254.64.0/21

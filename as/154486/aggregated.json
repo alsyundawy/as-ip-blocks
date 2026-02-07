@@ -1,0 +1,14 @@
+{
+  "asn" : 154486,
+  "metadata" : {
+    "handle" : "LESSISMORE-AS-AP",
+    "description" : "REI MIMURA",
+    "countryCode" : "JP",
+    "country" : "Japan",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2a06:41:2000::/40" ]
+  }
+}

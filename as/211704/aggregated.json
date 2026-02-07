@@ -1,14 +1,14 @@
 {
-  "asn": 211704,
-  "metadata": {
-    "handle": "SCHWZR",
-    "description": "Simon Schweizer",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 211704,
+  "metadata" : {
+    "handle" : "CEC-AM-AS",
+    "description" : "CENTRAL ELECTORAL COMMISION OF THE REPUBLIC OF ARMENIA",
+    "countryCode" : "AM",
+    "country" : "Armenia",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "130.193.27.0/24" ],
+    "ipv6" : [ ]
   }
 }

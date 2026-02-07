@@ -1,14 +1,14 @@
 {
-  "asn": 57544,
-  "metadata": {
-    "handle": "ZFORT",
-    "description": "ZFORT GROUP LTD",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 57544,
+  "metadata" : {
+    "handle" : "ZFORT-AS",
+    "description" : "Zfort LLC",
+    "countryCode" : "UA",
+    "country" : "Ukraine",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "91.232.178.0/23" ],
+    "ipv6" : [ ]
   }
 }

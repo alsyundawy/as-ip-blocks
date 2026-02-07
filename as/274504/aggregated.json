@@ -1,0 +1,14 @@
+{
+  "asn" : 274504,
+  "metadata" : {
+    "handle" : "CUNHA-INSTALACOES-TELEFONICAS",
+    "description" : "CUNHA INSTALACOES TELEFONICAS LTDA ME",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2804:9530::/32" ]
+  }
+}

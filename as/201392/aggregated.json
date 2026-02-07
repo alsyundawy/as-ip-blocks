@@ -1,0 +1,14 @@
+{
+  "asn" : 201392,
+  "metadata" : {
+    "handle" : "COZY-CRITTERS-SOCIETY",
+    "description" : "Cozy Critters Society",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2a06:9801:17::/48" ]
+  }
+}

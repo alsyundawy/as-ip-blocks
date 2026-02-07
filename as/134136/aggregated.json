@@ -1,8 +1,8 @@
 {
   "asn" : 134136,
   "metadata" : {
-    "handle" : "BICCAMBODIABANKPLC-AS-AP",
-    "description" : "B.I.C (Cambodia) Bank PLC",
+    "handle" : "IBANK-AS-AP",
+    "description" : "IBANK (CAMBODIA) PLC",
     "countryCode" : "KH",
     "country" : "Cambodia",
     "origin" : "authoritative"

@@ -1,4 +1,5 @@
 # AS202831 (ABLAYKHANSHAN)
 # Ablaykhan Akylbekovich Sharimov
 #
+144.31.222.0/24
 212.115.52.0/24

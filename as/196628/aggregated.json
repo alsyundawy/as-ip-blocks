@@ -1,14 +1,14 @@
 {
-  "asn": 196628,
-  "metadata": {
-    "handle": "EURO-POP-1",
-    "description": "Southern Communications Ltd",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 196628,
+  "metadata" : {
+    "handle" : "EFAR-MANCHESTER",
+    "description" : "Southern Communications Ltd",
+    "countryCode" : "GB",
+    "country" : "United Kingdom",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "154.51.129.0/24", "154.51.160.0/24" ],
+    "ipv6" : [ ]
   }
 }

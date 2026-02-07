@@ -1,0 +1,14 @@
+{
+  "asn" : 58746,
+  "metadata" : {
+    "handle" : "CYBERNET-AS-AP",
+    "description" : "Cyber Internet Services (Private) Limited",
+    "countryCode" : "PK",
+    "country" : "Pakistan",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "203.101.173.0/24" ],
+    "ipv6" : [ ]
+  }
+}

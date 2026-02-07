@@ -1,14 +1,14 @@
 {
-  "asn": 207383,
-  "metadata": {
-    "handle": "FLUXCDN",
-    "description": "FluxCDN, Unipessoal Lda",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 207383,
+  "metadata" : {
+    "handle" : "GENERALSTELECOM",
+    "description" : "AbziCom LLP",
+    "countryCode" : "KZ",
+    "country" : "Kazakhstan",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "194.26.98.0/24" ],
+    "ipv6" : [ ]
   }
 }

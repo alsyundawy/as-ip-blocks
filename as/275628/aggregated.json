@@ -1,0 +1,14 @@
+{
+  "asn" : 275628,
+  "metadata" : {
+    "handle" : "MEGANET-TELECOMUNICACOES",
+    "description" : "MEGANET TELECOMUNICACOES LTDA",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "38.250.95.0/24" ],
+    "ipv6" : [ ]
+  }
+}

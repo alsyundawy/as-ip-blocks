@@ -1,0 +1,14 @@
+{
+  "asn" : 15315,
+  "metadata" : {
+    "handle" : "IVANET-LISBON",
+    "description" : "IBASIS INC.",
+    "countryCode" : "US",
+    "country" : "United States",
+    "origin" : "authoritative"
+  },
+  "prefixes" : {
+    "ipv4" : [ "62.93.148.0/24" ],
+    "ipv6" : [ ]
+  }
+}

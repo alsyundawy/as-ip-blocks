@@ -1,4 +1,4 @@
 # AS264574 (ELITE-TELECOMUNICACOES)
-# Elite Telecomunicaçoes LTDA ME
+# Elite Internet e Servicos Ltda
 #
 138.36.108.0/22

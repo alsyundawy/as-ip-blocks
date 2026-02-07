@@ -1,14 +1,14 @@
 {
-  "asn": 271037,
-  "metadata": {
-    "handle": "SL7-TELECOMUNICACOES-EIRELI",
-    "description": "SL7 TELECOMUNICACOES - EIRELI",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 271037,
+  "metadata" : {
+    "handle" : "SL7-TELECOMUNICACOES-EIRELI",
+    "description" : "SL7 TELECOMUNICACOES - EIRELI",
+    "countryCode" : "BR",
+    "country" : "Brazil",
+    "origin" : "authoritative"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "177.72.16.0/22" ],
+    "ipv6" : [ ]
   }
 }

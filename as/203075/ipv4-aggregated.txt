@@ -1,3 +1,6 @@
-# AS203075 (DUCKCLOUD-NETWORK)
-# DuckCloud Network INC.
+# AS203075 (ORG-LFL9-RIPE)
+# LocalLink Fibre Ltd
 #
+5.199.44.0/24
+168.222.120.0/24
+212.74.58.0/24
