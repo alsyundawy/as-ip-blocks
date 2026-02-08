@@ -76,16 +76,7 @@ JSON and plaintext
 2405:1800::/32
 ```
 
-**Metadata fields:**
-- **countryCode**: ISO 3166-1 alpha-2 country code (may be `null` if unknown)
-- **country**: Country name in English (may be `null` if unknown)
-- **origin**: Metadata source indicator
-  - `authoritative`: From authoritative source
-  - `inferred`: Inferred from routing information; may be inaccurate
-  - `overlaid`: Metadata overlay from [as-overlay](https://github.com/ipverse/as-overlay) applied
-  - `none`: No metadata available
-- **category**: AS classification (`isp`, `hosting`, `business`, `education_research`, `government`); `null` if unclassified
-- **networkRole**: Network role (`tier1_transit`, `major_transit`, `midsize_transit`, `access_provider`, `content_network`, `stub`); `null` if unknown
+See [as-metadata](https://github.com/ipverse/as-metadata) for metadata field descriptions and possible values.
 
 ## How to use
 
@@ -114,7 +105,7 @@ curl -LO https://github.com/ipverse/as-ip-blocks/releases/latest/download/as-ip-
 tar -xzf as-ip-blocks.tar.gz
 ```
 
-For AS metadata (ASN, handle, description, country code), see [as-metadata](https://github.com/ipverse/as-metadata).
+For the complete AS metadata dataset and field documentation, see [as-metadata](https://github.com/ipverse/as-metadata).
 
 ### Firewall integration
 
