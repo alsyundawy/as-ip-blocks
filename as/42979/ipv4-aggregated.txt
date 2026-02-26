@@ -1,4 +1,3 @@
 # AS42979 (ASGLBLCOM)
 # UAB Baltnetos komunikacijos
 #
-85.254.1.0/24

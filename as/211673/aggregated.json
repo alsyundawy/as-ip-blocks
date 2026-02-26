@@ -2,11 +2,11 @@
   "asn" : 211673,
   "metadata" : {
     "handle" : "MYNYMBOX",
-    "description" : "Mynymbox LLC",
-    "countryCode" : "US",
-    "country" : "United States",
+    "description" : "Mynymbox Hosting LLC",
+    "countryCode" : "KN",
+    "country" : "St. Kitts & Nevis",
     "origin" : "authoritative",
-    "category" : "business",
+    "category" : "hosting",
     "networkRole" : "stub"
   },
   "prefixes" : {

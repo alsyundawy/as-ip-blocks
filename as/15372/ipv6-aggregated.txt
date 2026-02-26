@@ -1,5 +1,5 @@
 # AS15372 (IBH-AS)
-# IBH IT-Service GmbH
+# IBH connect GmbH
 #
 2001:67c:12b8::/48
 2a01:7700::/32

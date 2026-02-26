@@ -1,4 +1,4 @@
 # AS152721 (LG-AS-AP)
-# L G Electronics India Pvt. Ltd.
+# LG Electronics India Limited
 #
 202.50.48.0/24

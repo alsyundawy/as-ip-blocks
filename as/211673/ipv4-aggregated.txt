@@ -1,5 +1,5 @@
 # AS211673 (MYNYMBOX)
-# Mynymbox LLC
+# Mynymbox Hosting LLC
 #
 5.181.181.0/24
 80.71.235.0/24

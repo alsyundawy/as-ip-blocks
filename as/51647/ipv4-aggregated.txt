@@ -1,3 +1,4 @@
 # AS51647 (GEMEENTE-AMSTERDAM)
 # Gemeente Amsterdam
 #
+194.104.80.0/22
