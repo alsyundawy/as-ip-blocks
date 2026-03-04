@@ -1,14 +1,16 @@
 {
-  "asn": 272383,
-  "metadata": {
-    "handle": "CASA-MONEDA-MEXICO",
-    "description": "CASA DE MONEDA DE M\u00c9XICO",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 272383,
+  "metadata" : {
+    "handle" : "CASA-MONEDA-MEXICO",
+    "description" : "CASA DE MONEDA DE MÉXICO",
+    "countryCode" : "MX",
+    "country" : "Mexico",
+    "origin" : "authoritative",
+    "category" : "hosting",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ ],
+    "ipv6" : [ "2801:c4:2ac::/48" ]
   }
 }

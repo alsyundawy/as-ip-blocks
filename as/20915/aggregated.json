@@ -10,7 +10,7 @@
     "networkRole" : "content_network"
   },
   "prefixes" : {
-    "ipv4" : [ "217.25.5.0/24", "217.25.9.0/24" ],
+    "ipv4" : [ "217.25.9.0/24" ],
     "ipv6" : [ ]
   }
 }

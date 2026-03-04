@@ -2,11 +2,11 @@
   "asn" : 27239,
   "metadata" : {
     "handle" : "101VOICE",
-    "description" : "IT Management Corporation",
+    "description" : "101VOICE",
     "countryCode" : "US",
     "country" : "United States",
     "origin" : "authoritative",
-    "category" : "business",
+    "category" : null,
     "networkRole" : "stub"
   },
   "prefixes" : {

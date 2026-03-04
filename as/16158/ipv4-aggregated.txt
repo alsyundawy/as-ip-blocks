@@ -1,4 +1,4 @@
-# AS16158 (COMVERSE-AS)
+# AS16158 (MAVENIR-AS)
 # Mavenir Ltd
 #
 45.145.173.0/24

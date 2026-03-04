@@ -1,13 +1,13 @@
 {
   "asn" : 131630,
   "metadata" : {
-    "handle" : "AS131630",
-    "description" : "Unknown AS 131630",
-    "countryCode" : null,
-    "country" : null,
-    "origin" : "none",
-    "category" : null,
-    "networkRole" : null
+    "handle" : "LAZCO",
+    "description" : "Lazco Corporation",
+    "countryCode" : "TW",
+    "country" : "Taiwan",
+    "origin" : "authoritative",
+    "category" : "hosting",
+    "networkRole" : "stub"
   },
   "prefixes" : {
     "ipv4" : [ ],

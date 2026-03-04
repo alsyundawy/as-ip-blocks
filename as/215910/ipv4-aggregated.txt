@@ -1,4 +1,4 @@
-# AS215910 (MY-NET-TV-EDMA)
+# AS215910 (EDMA-NET)
 # Edmond Manja trading as MY NET-TV EDMA
 #
 45.90.80.0/24

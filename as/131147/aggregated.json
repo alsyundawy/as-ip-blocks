@@ -1,14 +1,16 @@
 {
-  "asn": 131147,
-  "metadata": {
-    "handle": "LIRUN-AS",
-    "description": "Taiwan Li Run Ltd.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+  "asn" : 131147,
+  "metadata" : {
+    "handle" : "LIRUN-AS",
+    "description" : "Taiwan Li Run Ltd.",
+    "countryCode" : "TW",
+    "country" : "Taiwan",
+    "origin" : "authoritative",
+    "category" : "business",
+    "networkRole" : "stub"
   },
-  "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+  "prefixes" : {
+    "ipv4" : [ "111.66.8.0/22" ],
+    "ipv6" : [ ]
   }
 }

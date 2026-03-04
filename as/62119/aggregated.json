@@ -2,7 +2,7 @@
   "asn" : 62119,
   "metadata" : {
     "handle" : "ROOT-FR",
-    "description" : "root SAS",
+    "description" : "Root SAS",
     "countryCode" : "FR",
     "country" : "France",
     "origin" : "authoritative",

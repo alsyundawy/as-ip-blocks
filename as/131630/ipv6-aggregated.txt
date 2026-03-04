@@ -1,4 +1,4 @@
-# AS131630 (AS131630)
-# Unknown AS 131630
+# AS131630 (LAZCO)
+# Lazco Corporation
 #
 2403:b0c0::/48

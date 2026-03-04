@@ -1,6 +1,7 @@
 # AS131483 (DYIDC)
 # Jiangsu Dongyun Cloud computing co. LTD
 #
+43.226.78.0/24
 43.227.71.0/24
 43.248.97.0/24
 43.248.117.0/24

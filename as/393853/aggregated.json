@@ -2,11 +2,11 @@
   "asn" : 393853,
   "metadata" : {
     "handle" : "ICS",
-    "description" : "Intelligent Computing Solutions",
+    "description" : "Digital Network Access Communications INC",
     "countryCode" : "US",
     "country" : "United States",
     "origin" : "authoritative",
-    "category" : "isp",
+    "category" : "business",
     "networkRole" : "stub"
   },
   "prefixes" : {
