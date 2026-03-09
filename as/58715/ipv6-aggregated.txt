@@ -1,11 +1,4 @@
 # AS58715 (EARTHTELECOMMUNICATION-AS)
 # Earth Telecommunication ( pvt ) Limited
 #
-2403:41c0:404::/48
-2403:41c0:45c::/48
-2403:41c0:4bf::/48
-2403:41c0:4cb::/48
-2403:41c0:4cc::/47
-2403:41c0:4ce::/48
-2403:41c0:502::/48
 2404:4f80::/32

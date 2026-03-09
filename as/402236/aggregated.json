@@ -1,0 +1,16 @@
+{
+  "asn": 402236,
+  "metadata": {
+    "handle": "PATRIOT-BROADBAND",
+    "description": "Patriot Broadband LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "69.33.201.0/24", "69.33.204.0/24", "69.33.234.0/24", "69.33.245.0/24" ],
+    "ipv6": [ ]
+  }
+}

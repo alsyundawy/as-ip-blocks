@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "THOMSON-REUTERS",
     "description": "Thomson Reuters U.S. LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "159.220.40.0/24" ],
+    "ipv6": [ ]
   }
 }
