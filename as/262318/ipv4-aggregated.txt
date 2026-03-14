@@ -1,5 +1,5 @@
-# AS262318 (REDE-NACIONAL-DE)
-# Rede Nacional de Ensino e Pesquisa
+# AS262318 (V-TAL)
+# V tal
 #
 131.255.236.0/22
 143.255.160.0/22

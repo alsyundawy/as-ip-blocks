@@ -2,3 +2,4 @@
 # Private entrepreneur Barsky Dmitro Oleksandrovych
 #
 185.239.24.0/24
+217.70.7.0/24

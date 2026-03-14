@@ -1,5 +1,5 @@
-# AS262318 (REDE-NACIONAL-DE)
-# Rede Nacional de Ensino e Pesquisa
+# AS262318 (V-TAL)
+# V tal
 #
 2804:a0::/32
 2804:c5c::/32

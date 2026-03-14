@@ -2,9 +2,9 @@
   "asn": 214618,
   "metadata": {
     "handle": "HTB-AS",
-    "description": "Hack The Box Ltd",
-    "countryCode": "GB",
-    "country": "United Kingdom",
+    "description": "Hack The Box Single Member Private Company",
+    "countryCode": "GR",
+    "country": "Greece",
     "origin": "authoritative",
     "category": "business",
     "networkRole": "access_provider"

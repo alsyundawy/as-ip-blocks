@@ -1,3 +1,4 @@
 # AS205591 (NYATWORK)
 # Alyx Funken
 #
+82.41.141.0/24

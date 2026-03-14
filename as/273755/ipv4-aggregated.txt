@@ -1,4 +1,4 @@
 # AS273755 (VIVA-NET-TELECOM)
-# Viva Net Telecom Ltda
+# VIVA NET TELECOM LTDA
 #
 38.9.210.0/23

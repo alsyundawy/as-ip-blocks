@@ -1,0 +1,16 @@
+{
+  "asn": 402287,
+  "metadata": {
+    "handle": "RACK-ROOM-SHOES",
+    "description": "Rack Room Shoes",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "8.12.64.0/24" ],
+    "ipv6": [ ]
+  }
+}

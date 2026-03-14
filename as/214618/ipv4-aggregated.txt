@@ -1,5 +1,5 @@
 # AS214618 (HTB-AS)
-# Hack The Box Ltd
+# Hack The Box Single Member Private Company
 #
 31.56.181.0/24
 45.149.101.0/24

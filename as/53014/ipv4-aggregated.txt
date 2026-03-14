@@ -1,4 +1,5 @@
 # AS53014 (NARAYANA-PROVEDOR-INTERNET)
 # Narayana Provedor de Internet Ltda
 #
-170.247.196.0/22
+170.247.196.0/24
+170.247.198.0/23
