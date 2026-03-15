@@ -1,5 +1,4 @@
 # AS54651 (BLACK-DUCK-SOFTWARE-01)
 # Black Duck Software Inc.
 #
-149.117.68.0/24
 209.51.32.0/23

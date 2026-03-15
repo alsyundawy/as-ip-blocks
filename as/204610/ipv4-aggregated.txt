@@ -1,4 +1,5 @@
 # AS204610 (IMASOFTWARE-AS)
 # I.M.A. Software Future Solutions Ltd
 #
+153.80.241.0/24
 153.80.242.0/24

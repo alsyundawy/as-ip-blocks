@@ -1,4 +1,4 @@
 # AS204928 (AS-BONSAIHOST)
 # Bonsai Hosting ltd
 #
-2a12:e540::/48
+2a12:e540::/32

@@ -1,14 +1,16 @@
 {
   "asn": 215538,
   "metadata": {
-    "handle": "SERGIO-NET",
-    "description": "SERGIO TIAGO GOMES SERRA",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "GIVAUDAN-INTERNATIONAL-SA",
+    "description": "Givaudan International SA",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "193.58.242.0/24" ],
+    "ipv6": [ ]
   }
 }

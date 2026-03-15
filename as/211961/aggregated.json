@@ -1,12 +1,12 @@
 {
   "asn": 211961,
   "metadata": {
-    "handle": "AS209737",
+    "handle": "HEDEF-HOSTING",
     "description": "HEDEF GLOBAL BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI",
     "countryCode": "TR",
     "country": "Türkiye",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

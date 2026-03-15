@@ -1,5 +1,5 @@
-# AS19950 (COUPONS-COM-INCORPORATED)
-# Quotient Technology Inc
+# AS19950 (CBNEPTUNE-AS-19950)
+# CB Neptune Holdings LLC
 #
 64.75.15.0/24
 192.41.226.0/24

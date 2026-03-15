@@ -1,13 +1,13 @@
 {
   "asn": 402287,
   "metadata": {
-    "handle": "RACK-ROOM-SHOES",
-    "description": "Rack Room Shoes",
+    "handle": "PGAL-BGP",
+    "description": "PGAL",
     "countryCode": "US",
     "country": "United States",
-    "origin": "inferred",
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "8.12.64.0/24" ],
