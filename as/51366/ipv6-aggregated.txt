@@ -1,4 +1,4 @@
 # AS51366 (FR-CANALP-AS)
-# CANAL+ TECH SAS
+# Canal+ Tech SAS
 #
 2a05:bd40:25::/48

@@ -1,4 +1,4 @@
 # AS29264 (CDN-CANAL-PLUS)
-# CANAL+ TECH SAS
+# Canal+ Tech SAS
 #
 185.86.252.0/22

@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "COGESTISAS-AS-AP",
     "description": "CO.GESTI SAS DI PIETRAVALLE MICHELE",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2a12:e6c0:c::/48" ]
   }
 }

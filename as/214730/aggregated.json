@@ -1,0 +1,16 @@
+{
+  "asn": 214730,
+  "metadata": {
+    "handle": "GODMANAM-AS",
+    "description": "Kedrov Andrii",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "147.90.44.0/24", "163.5.216.0/24" ],
+    "ipv6": [ ]
+  }
+}

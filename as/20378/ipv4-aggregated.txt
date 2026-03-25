@@ -2,4 +2,3 @@
 # Alimentation Couche-Tard Inc.
 #
 38.81.198.0/24
-38.121.34.0/24

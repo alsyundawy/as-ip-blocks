@@ -1,5 +1,5 @@
 # AS29264 (CDN-CANAL-PLUS)
-# CANAL+ TECH SAS
+# Canal+ Tech SAS
 #
 2a05:bd40:d13::/48
 2a05:bd40:d17::/48

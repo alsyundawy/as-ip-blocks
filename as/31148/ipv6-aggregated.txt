@@ -1,4 +1,4 @@
 # AS31148 (FREENET-LLC)
-# Freenet LTD
+# FREENET JSC
 #
 2a00:1228::/32

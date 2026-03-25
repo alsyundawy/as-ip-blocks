@@ -1,0 +1,16 @@
+{
+  "asn": 9167,
+  "metadata": {
+    "handle": "WEBPARTNER",
+    "description": "Telia Company AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.126.250.0/24" ],
+    "ipv6": [ ]
+  }
+}
