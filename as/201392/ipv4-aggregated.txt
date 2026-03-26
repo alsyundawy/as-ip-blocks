@@ -1,5 +1,4 @@
 # AS201392 (FURNET)
 # Furry Network Services
 #
-80.71.228.0/24
 206.245.166.0/24

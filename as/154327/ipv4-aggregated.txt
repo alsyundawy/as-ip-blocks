@@ -1,4 +1,3 @@
 # AS154327 (NAYERGAONONLINE-AS-AP)
 # Nayergaon Online
 #
-138.252.112.0/24

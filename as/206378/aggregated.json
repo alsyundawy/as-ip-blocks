@@ -2,13 +2,15 @@
   "asn": 206378,
   "metadata": {
     "handle": "STOLITOMSON-AS",
-    "description": "Stolitomson Company DOO",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "description": "FOP Dmytro Nedilskyi",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "194.113.39.0/24" ],
+    "ipv6": [ ]
   }
 }

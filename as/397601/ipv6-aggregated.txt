@@ -1,5 +1,5 @@
 # AS397601 (CATCHPOINT)
-# Catchpoint Systems Inc
+# LogicMonitor Inc.
 #
 2001:550:1403::/48
 2001:559:86d2::/47

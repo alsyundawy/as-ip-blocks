@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "ASAD-AS",
     "description": "Asadov Ruslan Rafaelevich",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "84.21.190.0/24" ],
+    "ipv6": [ ]
   }
 }

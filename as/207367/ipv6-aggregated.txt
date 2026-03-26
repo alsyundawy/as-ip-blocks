@@ -1,4 +1,4 @@
 # AS207367 (NIPPONGASES)
-# Nippon Gases Euro-Holding S.L.U.
+# NIPPON SANSO EURO-HOLDING SL
 #
 2a10:300::/29
