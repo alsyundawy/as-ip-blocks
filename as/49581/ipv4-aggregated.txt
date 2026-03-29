@@ -1,4 +1,4 @@
-# AS49581 (FERDINANDZINK)
+# AS49581 (TUBE-HOSTING)
 # Ferdinand Zink trading as Tube-Hosting
 #
 2.58.113.0/24

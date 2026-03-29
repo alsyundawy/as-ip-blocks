@@ -1,4 +1,4 @@
 # AS270561 (VIA-FIOS-VIA)
-# Via Fios - Via Fibra Ótica Service
+# Zeloxicom Servicos LTDA
 #
 2804:6de0::/32

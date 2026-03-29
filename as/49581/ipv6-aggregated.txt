@@ -1,4 +1,4 @@
-# AS49581 (FERDINANDZINK)
+# AS49581 (TUBE-HOSTING)
 # Ferdinand Zink trading as Tube-Hosting
 #
 2a02:2fc0:11::/48

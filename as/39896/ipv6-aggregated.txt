@@ -1,4 +1,3 @@
 # AS39896 (XHOSTING)
 # FIBER TELECOM s.r.o.
 #
-2a02:5e80::/32

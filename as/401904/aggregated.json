@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "ORCHARD-LAKE-SYSTEMS",
     "description": "Orchard Lake Systems Inc",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2620:db:2000::/48" ]
   }
 }

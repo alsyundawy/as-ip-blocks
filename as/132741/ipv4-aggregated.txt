@@ -2,4 +2,3 @@
 # National Communications Services (SMC-Private) Limited
 #
 103.73.234.0/24
-103.154.107.0/24
