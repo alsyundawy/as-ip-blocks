@@ -1,14 +1,16 @@
 {
   "asn": 47091,
   "metadata": {
-    "handle": "CLASS5",
-    "description": "CLASS5",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "AIR-LIQUIDE-US000",
+    "description": "Air Liquide America",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "204.62.206.0/24" ],
+    "ipv6": [ ]
   }
 }

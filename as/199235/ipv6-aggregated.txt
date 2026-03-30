@@ -1,4 +1,3 @@
 # AS199235 (MIKROHALO-HU-AS)
 # Mikrohalo Kft
 #
-2a02:6f40::/32

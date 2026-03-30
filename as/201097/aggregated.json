@@ -1,0 +1,16 @@
+{
+  "asn": 201097,
+  "metadata": {
+    "handle": "KVANTA-LLC",
+    "description": "KVANTA LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.151.71.0/24" ],
+    "ipv6": [ ]
+  }
+}

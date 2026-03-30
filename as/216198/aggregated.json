@@ -6,11 +6,11 @@
     "countryCode": "TW",
     "country": "Taiwan",
     "origin": "authoritative",
-    "category": "education_research",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ ]
+    "ipv6": [ "2402:43e0:201::/48" ]
   }
 }
