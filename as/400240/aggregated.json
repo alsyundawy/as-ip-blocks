@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "NEEBUNET",
     "description": "NEEBU Networks",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "23.189.112.0/24" ],
+    "ipv6": [ "2620:9e:e000::/48" ]
   }
 }

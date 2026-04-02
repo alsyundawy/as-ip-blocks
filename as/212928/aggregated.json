@@ -1,14 +1,16 @@
 {
   "asn": 212928,
   "metadata": {
-    "handle": "RESERVED",
-    "description": "RIPE NCC ASN block",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "AMSIX-EU-PP",
+    "description": "Amsterdam Internet Exchange B.V.",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "198.99.141.0/24" ],
+    "ipv6": [ "2a02:4b60:1::/48" ]
   }
 }

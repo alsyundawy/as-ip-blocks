@@ -1,4 +1,4 @@
 # AS142211 (DCNET-VN)
-# DCNET Telecommunication JSC
+# DCNET TELECOM
 #
 163.227.229.0/24

@@ -1,5 +1,5 @@
 # AS63741 (DCNET-AS-VN)
-# DCNET Telecommunication JSC
+# DCNET TELECOM
 #
 2001:df5:66c0::/48
 2001:df5:7c40::/48

@@ -1,4 +1,3 @@
 # AS133851 (XACBANK-AS-AP)
 # Xacbank
 #
-138.252.220.0/24

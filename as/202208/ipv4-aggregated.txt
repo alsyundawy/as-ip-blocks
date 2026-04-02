@@ -1,5 +1,5 @@
 # AS202208 (TEUTEL)
-# teutel GmbH
+# Teutel GmbH
 #
 45.154.224.0/22
 185.42.252.0/22
