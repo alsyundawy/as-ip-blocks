@@ -1,8 +1,8 @@
 {
-  "asn": 21604,
+  "asn": 399080,
   "metadata": {
-    "handle": "CHEMONICS-USA",
-    "description": "CHEMONICS INTERNATIONAL INC.",
+    "handle": "EQUILEND",
+    "description": "EquiLend Holdings LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
@@ -10,7 +10,7 @@
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "63.123.77.0/24", "63.123.78.0/24", "63.123.240.0/23" ],
     "ipv6": [ ]
   }
 }

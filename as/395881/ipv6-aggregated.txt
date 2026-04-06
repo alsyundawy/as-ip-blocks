@@ -1,4 +1,3 @@
 # AS395881 (ENNWISE-DC)
 # Ennwise
 #
-2a14:9e00:aff::/48

@@ -1,14 +1,16 @@
 {
   "asn": 149030,
   "metadata": {
-    "handle": "CHRISNET-AP",
+    "handle": "CHRISNET-AS-AP",
     "description": "Chris Chang's Network",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2404:c140:210::/44" ]
   }
 }
