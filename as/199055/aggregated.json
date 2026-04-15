@@ -1,0 +1,16 @@
+{
+  "asn": 199055,
+  "metadata": {
+    "handle": "REPRISE",
+    "description": "Vadym Vdovychenko",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:272::/48" ]
+  }
+}

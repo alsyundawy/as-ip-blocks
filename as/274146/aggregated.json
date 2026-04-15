@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "BERISYS-SOLUTIONS",
     "description": "BERISYS SOLUTIONS S.R.L.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "45.160.156.0/22" ],
+    "ipv6": [ ]
   }
 }

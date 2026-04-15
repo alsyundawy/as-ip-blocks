@@ -1,3 +1,0 @@
-# AS14236 (PACKETWISE)
-# PacketWise Inc.
-#

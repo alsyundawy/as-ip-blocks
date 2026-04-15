@@ -1,5 +1,5 @@
 # AS202204 (TROLLFJORD)
-# Trollfjord Bredband AS
+# TENEO DIGITAL AS
 #
 2.58.24.0/22
 78.26.0.0/18

@@ -1,12 +1,12 @@
 {
   "asn": 6640,
   "metadata": {
-    "handle": "CENTURYLINK-TIER3-CLOUD",
+    "handle": "RESERVED-IPADMIN",
     "description": "CenturyLink Communications LLC",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,3 +1,0 @@
-# AS400655 (NIXLABS)
-# NixLabs Networks
-#

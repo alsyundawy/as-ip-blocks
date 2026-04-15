@@ -1,0 +1,5 @@
+# AS201891 (NIMBUSIP-AS)
+# Nimbus IP Networks BV
+#
+2a0a:be01::/47
+2a0a:ce02::/47

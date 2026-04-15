@@ -1,5 +1,5 @@
-# AS18353 (HDSVDCNZ-AS-AP)
-# Revera Limited
+# AS18353 (SPARK-AS-AP)
+# Spark New Zealand Trading Limited
 #
 2404:e200:1::/48
 2404:e200:2::/48

@@ -6,11 +6,11 @@
     "countryCode": "SO",
     "country": "Somalia",
     "origin": "authoritative",
-    "category": "education_research",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "154.73.24.0/22" ],
+    "ipv4": [ ],
     "ipv6": [ "2c0f:ed08::/32" ]
   }
 }

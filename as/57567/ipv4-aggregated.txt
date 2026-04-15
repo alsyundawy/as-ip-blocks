@@ -1,4 +1,4 @@
 # AS57567 (DUMARCA)
-# Gamesys Ltd.
+# North South West Limited
 #
 185.86.44.0/22

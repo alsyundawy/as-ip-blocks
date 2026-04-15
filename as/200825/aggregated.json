@@ -1,0 +1,16 @@
+{
+  "asn": 200825,
+  "metadata": {
+    "handle": "WEIQI-AS",
+    "description": "Weiqi Yu",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a12:cb41:400::/47" ]
+  }
+}

@@ -1,3 +1,3 @@
-# AS6640 (CENTURYLINK-TIER3-CLOUD)
+# AS6640 (RESERVED-IPADMIN)
 # CenturyLink Communications LLC
 #

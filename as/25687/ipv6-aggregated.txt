@@ -2,3 +2,4 @@
 # KVH INDUSTRIES INC.
 #
 2602:fe9a:9::/48
+2602:fe9a:a::/48
