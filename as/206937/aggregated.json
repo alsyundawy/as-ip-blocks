@@ -2,11 +2,11 @@
   "asn": 206937,
   "metadata": {
     "handle": "INTER-TEAM",
-    "description": "Inter-Team Z.O.O.",
+    "description": "Inter-Team sp. z o.o.",
     "countryCode": "PL",
     "country": "Poland",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

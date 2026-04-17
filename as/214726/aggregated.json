@@ -6,11 +6,11 @@
     "countryCode": "AU",
     "country": "Australia",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2a06:9801:261::/48", "2a06:9801:262::/48", "2a06:9801:267::/48" ]
+    "ipv6": [ ]
   }
 }

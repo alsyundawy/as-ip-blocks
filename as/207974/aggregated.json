@@ -6,11 +6,11 @@
     "countryCode": "ES",
     "country": "Spain",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2a0a:3b40::/35" ]
+    "ipv6": [ ]
   }
 }

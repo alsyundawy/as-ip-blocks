@@ -6,11 +6,11 @@
     "countryCode": "SG",
     "country": "Singapore",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2001:df0:3600::/48" ]
+    "ipv6": [ ]
   }
 }

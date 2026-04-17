@@ -1,4 +1,4 @@
-# AS45701 (MILLENINDO)
+# AS45701 (PIMAM-ID)
 # PT Internet Madju Abad Milenindo
 #
 2001:df0:a900::/48

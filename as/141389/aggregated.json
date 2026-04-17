@@ -1,12 +1,12 @@
 {
   "asn": 141389,
   "metadata": {
-    "handle": "GBSPL-AS-AP",
-    "description": "GOIP BUSINESS SOLUTION PTE. LTD.",
+    "handle": "GOIP-AS-AP",
+    "description": "GOIP Telecom (Asia Pacific) Pte. Ltd.",
     "countryCode": "SG",
     "country": "Singapore",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

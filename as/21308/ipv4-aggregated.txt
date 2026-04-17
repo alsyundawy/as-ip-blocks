@@ -1,4 +1,4 @@
 # AS21308 (ITMUA-AS)
-# PE Veles Alla Alexandrovna
+# Synapse Ukraine LLC
 #
 193.239.142.0/23

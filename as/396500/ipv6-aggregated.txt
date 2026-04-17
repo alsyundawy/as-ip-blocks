@@ -1,4 +1,3 @@
 # AS396500 (MINAKILABS-AS01)
 # MinakiLabs
 #
-2602:f82d::/48

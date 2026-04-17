@@ -1,0 +1,16 @@
+{
+  "asn": 197959,
+  "metadata": {
+    "handle": "VIRTUASYS-BYOIP",
+    "description": "VIRTUA SYSTEMS SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.154.153.0/24" ],
+    "ipv6": [ ]
+  }
+}

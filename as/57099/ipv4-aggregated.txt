@@ -1,4 +1,4 @@
-# AS57099 (BCL-AS)
+# AS57099 (QUICKLINE)
 # Quickline Communications Limited
 #
 5.133.172.0/22

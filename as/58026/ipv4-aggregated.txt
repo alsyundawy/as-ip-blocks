@@ -2,4 +2,3 @@
 # Xiamen Jiufu Network Co. Ltd.
 #
 103.124.182.0/23
-103.250.172.0/22
