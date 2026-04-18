@@ -2,11 +2,11 @@
   "asn": 52951,
   "metadata": {
     "handle": "CATANDUVA-SISTEMAS-CABO",
-    "description": "SISTEMAS OPTICOS PAULISTA LTDA",
+    "description": "NETFLEX TELECOMUNICACOES LTDA",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

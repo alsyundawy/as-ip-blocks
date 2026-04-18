@@ -1,5 +1,5 @@
 # AS56073 (FIRSTFOCUS-AS-AP)
-# First Focus Pty Ltd
+# First Focus IT Pty Ltd
 #
 103.35.224.0/22
 103.102.24.0/24

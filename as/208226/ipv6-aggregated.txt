@@ -1,5 +1,5 @@
 # AS208226 (OUIHEBERG)
-# OUIHEBERG SARL
+# Ouiheberg SARL
 #
 2a06:e881:7000::/44
 2a0a:79c0:e00::/44

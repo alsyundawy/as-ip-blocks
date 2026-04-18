@@ -1,4 +1,4 @@
-# AS39889 (DT-AS)
+# AS39889 (DCS-NETWORKS-AS)
 # Fredrik Holmqvist
 #
 185.173.220.0/22

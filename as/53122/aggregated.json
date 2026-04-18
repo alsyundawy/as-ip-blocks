@@ -2,7 +2,7 @@
   "asn": 53122,
   "metadata": {
     "handle": "SUPER-MIDIA-TV-CABO",
-    "description": "super midia tv a cabo ltda",
+    "description": "Super Midia Serviços em Gestão Ltda",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
@@ -11,6 +11,6 @@
   },
   "prefixes": {
     "ipv4": [ "187.111.176.0/20" ],
-    "ipv6": [ "2804:1e10:310::/44", "2804:1e10:4800::/37", "2804:1e10:8300::/41" ]
+    "ipv6": [ "2804:1e10:4800::/37" ]
   }
 }

@@ -1,4 +1,4 @@
 # AS29301 (KARAVEL-AS)
-# KARAVEL SAS
+# Karavel SAS
 #
 2001:678:bf8::/48

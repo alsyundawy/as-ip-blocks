@@ -1,5 +1,5 @@
-# AS62811 (MTG)
-# Mercury Technology Group Inc.
+# AS62811 (NAVE-62811)
+# Navisite Opco LLC
 #
 144.34.7.0/24
 144.34.8.0/22

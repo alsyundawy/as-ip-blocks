@@ -1,5 +1,5 @@
 # AS19399 (SLL)
-# Region Stockholm
+# Region stockholm
 #
 136.155.0.0/16
 147.180.0.0/16

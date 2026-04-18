@@ -6,11 +6,11 @@
     "countryCode": "DK",
     "country": "Denmark",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
-    "ipv6": [ "2a00:df0::/32", "2a0b:b1c0::/32" ]
+    "ipv6": [ ]
   }
 }

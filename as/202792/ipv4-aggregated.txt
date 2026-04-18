@@ -1,5 +1,4 @@
 # AS202792 (CLOUD-TRANSIT)
 # Clouvider Limited
 #
-163.5.157.0/24
-163.5.200.0/24
+46.18.91.0/24

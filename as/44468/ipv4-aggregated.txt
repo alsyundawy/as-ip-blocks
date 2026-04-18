@@ -1,4 +1,4 @@
 # AS44468 (WEBKITCHEN-AS)
-# webkitchen GmbH
+# Webkitchen GmbH
 #
 193.33.238.0/23

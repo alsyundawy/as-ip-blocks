@@ -2,3 +2,4 @@
 # Arrow Touch Wireless Internet Private Limited
 #
 2400:f360::/48
+2402:6a40:2::/48

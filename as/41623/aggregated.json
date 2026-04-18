@@ -3,8 +3,8 @@
   "metadata": {
     "handle": "DUKASCOPY",
     "description": "Dukascopy Bank SA",
-    "countryCode": "PL",
-    "country": "Poland",
+    "countryCode": "CH",
+    "country": "Switzerland",
     "origin": "authoritative",
     "category": "business",
     "networkRole": "stub"

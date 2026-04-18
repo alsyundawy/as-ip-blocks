@@ -1,5 +1,5 @@
 # AS205393 (AIG)
-# AEROPORT INTERNATIONAL DE GENEVE
+# Aeroport International de Geneve
 #
 194.147.160.0/22
 194.147.168.0/23

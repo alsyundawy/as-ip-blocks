@@ -1,4 +1,4 @@
 # AS41768 (WEIDMANN)
-# WEIDMANN ELECTRICAL TECHNOLOGY AG
+# Weidmann Electrical Technology AG
 #
 193.37.159.0/24

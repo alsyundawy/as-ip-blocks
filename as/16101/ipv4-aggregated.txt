@@ -1,4 +1,4 @@
 # AS16101 (ORDIPAT)
-# ORDIPAT SAS
+# Ordipat SAS
 #
 193.41.194.0/24

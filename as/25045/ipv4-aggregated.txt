@@ -1,4 +1,4 @@
 # AS25045 (EPH-AS)
-# HANZA MEDIA d.o.o.
+# Hanza Media d.o.o.
 #
 213.202.78.0/24
