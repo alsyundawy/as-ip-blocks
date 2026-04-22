@@ -1,5 +1,5 @@
 # AS40702 (CLEARWAVE-COMMUNICATIONS)
-# Clearwave Communications
+# Clearwave Fiber
 #
 24.49.151.0/24
 64.20.131.0/24

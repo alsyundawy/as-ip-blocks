@@ -6,11 +6,11 @@
     "countryCode": "BE",
     "country": "Belgium",
     "origin": "authoritative",
-    "category": null,
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "63.216.92.0/22" ],
+    "ipv4": [ ],
     "ipv6": [ ]
   }
 }

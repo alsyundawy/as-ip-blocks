@@ -1,5 +1,5 @@
 # AS11448 (CLEARWAVE-FIBER)
-# Clearwave Communications
+# Clearwave Fiber
 #
 23.182.240.0/24
 45.45.188.0/22

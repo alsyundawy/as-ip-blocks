@@ -1,0 +1,4 @@
+# AS203044 (TELEPATIYA)
+# Telepatiya Ltd
+#
+45.74.3.0/24

@@ -2,4 +2,3 @@
 # Fibranet Tecnologia y Sistemas SL
 #
 2a07:4640::/29
-2a0d:c240::/29

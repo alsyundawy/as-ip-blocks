@@ -6,7 +6,7 @@
     "countryCode": "SN",
     "country": "Senegal",
     "origin": "authoritative",
-    "category": null,
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

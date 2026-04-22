@@ -1,5 +1,5 @@
 # AS51904 (UTEX-AS)
-# Utex-Telecom LLC
+# Utex-telecom LLC
 #
 91.132.104.0/22
 193.41.76.0/22

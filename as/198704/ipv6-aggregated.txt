@@ -1,3 +1,4 @@
 # AS198704 (CSD-KGP-PL-AS)
 # Komenda Glowna Policji
 #
+2a0b:4c84::/32

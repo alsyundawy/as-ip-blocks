@@ -1,14 +1,16 @@
 {
   "asn": 9743,
   "metadata": {
-    "handle": "NIPPONEDUIX-AP",
+    "handle": "NIPPONEDUIX-AS-AP",
     "description": "Nippon EDUIX",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2001:df3:25c0::/48" ]
   }
 }

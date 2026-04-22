@@ -1,0 +1,4 @@
+# AS213533 (BEGET-REGION)
+# Beget LLC
+#
+93.92.81.0/24

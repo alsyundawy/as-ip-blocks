@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "ETIENNE-LABAUME",
     "description": "ETIENNE LABAUME",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2a0c:9a40:8018::/45" ]
   }
 }

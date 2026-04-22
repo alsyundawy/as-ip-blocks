@@ -1,0 +1,4 @@
+# AS201861 (GEODEMA-AS)
+# Aleksejs Pinajevs
+#
+89.106.85.0/24

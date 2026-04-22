@@ -1,4 +1,3 @@
 # AS61407 (NEWTELCO-AS)
 # NewTelco GmbH
 #
-2a07:5240::/29

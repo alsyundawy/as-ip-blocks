@@ -6,11 +6,11 @@
     "countryCode": "TR",
     "country": "Türkiye",
     "origin": "authoritative",
-    "category": null,
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "77.83.37.0/24" ],
+    "ipv4": [ "31.58.245.0/24", "77.83.37.0/24" ],
     "ipv6": [ ]
   }
 }

@@ -1,4 +1,3 @@
 # AS57402 (ITNOG)
 # Gateway Communications
 #
-63.216.92.0/22

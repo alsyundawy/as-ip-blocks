@@ -2,4 +2,3 @@
 # Nerushenko Vyacheslav Nikolaevich
 #
 82.147.84.0/23
-82.147.88.0/24
