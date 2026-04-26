@@ -2,11 +2,11 @@
   "asn": 14139,
   "metadata": {
     "handle": "AS-MAXOR",
-    "description": "Maxor National Pharmacy Services LLC",
+    "description": "VytlOne",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

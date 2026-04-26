@@ -1,4 +1,3 @@
 # AS1217 (ORACLE-PACRIM-AS)
 # Oracle Corporation
 #
-140.83.89.0/24

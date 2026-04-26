@@ -6,11 +6,11 @@
     "countryCode": "IN",
     "country": "India",
     "origin": "authoritative",
-    "category": null,
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "163.128.234.0/24" ],
+    "ipv4": [ ],
     "ipv6": [ ]
   }
 }
