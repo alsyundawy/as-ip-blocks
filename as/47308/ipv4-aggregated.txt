@@ -1,0 +1,5 @@
+# AS47308 (DADE-PARDAZI-ARIA-SEPEHR-UTELCO)
+# Web Gostaran Bandar Company (PJS)
+#
+185.66.230.0/24
+195.238.247.0/24
