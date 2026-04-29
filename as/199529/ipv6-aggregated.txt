@@ -1,4 +1,3 @@
 # AS199529 (LAGOM-AS)
 # Vitalijs Jurkevics
 #
-2a0d:d940:130::/44

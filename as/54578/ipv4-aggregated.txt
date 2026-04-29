@@ -1,5 +1,5 @@
-# AS54578 (FIBERCOMM)
-# FiberComm LC
+# AS54578 (IMON-FC)
+# ImOn Communications LLC
 #
 14.102.172.0/22
 96.63.176.0/20

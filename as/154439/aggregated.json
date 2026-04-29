@@ -1,0 +1,16 @@
+{
+  "asn": 154439,
+  "metadata": {
+    "handle": "TECHABYTESOLUTIONS-AS-AP",
+    "description": "Techabyte Solutions",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:df6:76c0::/48" ]
+  }
+}

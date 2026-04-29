@@ -1,5 +1,5 @@
 # AS44577 (SEC-AS)
-# Saudi Electricity Company
+# Saudi Energy Company
 #
 91.230.124.0/23
 185.150.104.0/22

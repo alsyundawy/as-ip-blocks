@@ -2,3 +2,4 @@
 # Eldar Perez trading as SeedVPS
 #
 154.13.163.0/24
+185.248.160.0/22

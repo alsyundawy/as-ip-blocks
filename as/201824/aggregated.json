@@ -1,0 +1,16 @@
+{
+  "asn": 201824,
+  "metadata": {
+    "handle": "STAT-CONS-AS",
+    "description": "STAT CONSULTING LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.239.187.0/24" ],
+    "ipv6": [ "2001:678:254::/48" ]
+  }
+}

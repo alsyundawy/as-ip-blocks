@@ -1,0 +1,4 @@
+# AS212116 (VENTOREDE)
+# Vento Rede S.L.
+#
+217.61.83.0/24

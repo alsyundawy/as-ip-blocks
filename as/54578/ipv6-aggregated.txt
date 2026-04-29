@@ -1,3 +1,3 @@
-# AS54578 (FIBERCOMM)
-# FiberComm LC
+# AS54578 (IMON-FC)
+# ImOn Communications LLC
 #

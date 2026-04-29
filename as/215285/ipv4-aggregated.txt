@@ -2,4 +2,3 @@
 # Bonyan Sepehr Kasir PJSC
 #
 37.32.40.0/24
-185.124.173.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 198663,
+  "metadata": {
+    "handle": "ROUGESTUDIONET",
+    "description": "JIHAN KIM trading as Rouge Studio",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:c3::/48" ]
+  }
+}

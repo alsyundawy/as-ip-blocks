@@ -1,0 +1,16 @@
+{
+  "asn": 274595,
+  "metadata": {
+    "handle": "TDI-TECNOLOGIA",
+    "description": "TDI TECNOLOGIA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:90b4::/32" ]
+  }
+}

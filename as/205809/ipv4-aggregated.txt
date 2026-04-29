@@ -1,5 +1,5 @@
 # AS205809 (MEGA)
-# MEGA Cloud Services Limited
+# MEGA Privacy Kft.
 #
 66.203.126.0/23
 82.21.172.0/24

@@ -1,0 +1,4 @@
+# AS198663 (ROUGESTUDIONET)
+# JIHAN KIM trading as Rouge Studio
+#
+2a06:9801:c3::/48
