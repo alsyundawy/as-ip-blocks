@@ -7,7 +7,7 @@
     "country": "Mozambique",
     "origin": "authoritative",
     "category": "education_research",
-    "networkRole": "access_provider"
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "41.94.0.0/16" ],

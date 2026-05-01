@@ -6,8 +6,8 @@
     "countryCode": "RU",
     "country": "Russia",
     "origin": "authoritative",
-    "category": "isp",
-    "networkRole": "access_provider"
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "185.173.176.0/22", "194.150.215.0/24", "194.150.234.0/23" ],

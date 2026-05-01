@@ -7,7 +7,7 @@
     "country": "Germany",
     "origin": "authoritative",
     "category": "government_admin",
-    "networkRole": "content_network"
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "45.159.32.0/22", "185.138.52.0/22" ],

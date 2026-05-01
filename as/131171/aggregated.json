@@ -1,14 +1,16 @@
 {
   "asn": 131171,
   "metadata": {
-    "handle": "EVERLIFE-AP",
-    "description": "Everlife Networks",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "JSC-AS-AP",
+    "description": "Techne Fiber",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "144.79.246.0/23" ],
+    "ipv6": [ ]
   }
 }

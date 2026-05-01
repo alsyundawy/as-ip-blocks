@@ -2,4 +2,3 @@
 # ODN OnlineDienst Nordbayern GmbH & Co. KG
 #
 2a00:12e8:f141::/48
-2a01:120::/29

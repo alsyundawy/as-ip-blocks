@@ -7,7 +7,7 @@
     "country": "Greece",
     "origin": "authoritative",
     "category": "isp",
-    "networkRole": "stub"
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "94.156.67.0/24" ],

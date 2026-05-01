@@ -7,7 +7,7 @@
     "country": "United States",
     "origin": "authoritative",
     "category": "isp",
-    "networkRole": "access_provider"
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "23.145.32.0/23", "147.129.160.0/20" ],

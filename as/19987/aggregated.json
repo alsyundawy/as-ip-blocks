@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "MIWAVE-ASN01",
     "description": "MiWave",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "144.225.138.0/24" ],
+    "ipv6": [ ]
   }
 }

@@ -6,8 +6,8 @@
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "isp",
-    "networkRole": "access_provider"
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "143.0.40.0/22", "168.197.4.0/22", "177.72.168.0/21" ],

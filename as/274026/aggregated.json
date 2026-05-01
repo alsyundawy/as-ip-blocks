@@ -7,7 +7,7 @@
     "country": "Bolivia",
     "origin": "authoritative",
     "category": "isp",
-    "networkRole": "stub"
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "190.110.241.0/24", "201.150.160.0/24" ],

@@ -1,3 +1,3 @@
-# AS20993 (AGESTEL-AS)
+# AS20993 (NETCOP-AS)
 # Momax Network S.r.l.
 #

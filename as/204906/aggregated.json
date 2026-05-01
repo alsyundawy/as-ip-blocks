@@ -6,8 +6,8 @@
     "countryCode": "PL",
     "country": "Poland",
     "origin": "authoritative",
-    "category": "isp",
-    "networkRole": "access_provider"
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "185.235.248.0/22" ],

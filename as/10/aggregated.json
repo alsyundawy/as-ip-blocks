@@ -6,8 +6,8 @@
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
-    "networkRole": "access_provider"
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "46.243.168.0/24", "141.101.225.0/24", "195.74.62.0/23" ],

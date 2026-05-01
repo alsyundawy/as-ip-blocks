@@ -7,7 +7,7 @@
     "country": "Netherlands",
     "origin": "authoritative",
     "category": "hosting",
-    "networkRole": "access_provider"
+    "networkRole": "midsize_transit"
   },
   "prefixes": {
     "ipv4": [ "45.43.66.0/24", "45.93.119.0/24", "45.139.163.0/24", "77.90.23.0/24", "178.18.154.0/23", "178.218.145.0/24", "185.150.96.0/24", "185.249.217.0/24", "188.65.164.0/24", "193.105.177.0/24", "194.87.78.0/24" ],

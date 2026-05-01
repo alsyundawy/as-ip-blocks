@@ -2,11 +2,11 @@
   "asn": 51234,
   "metadata": {
     "handle": "ASFIALKA",
-    "description": "Telecompany Fialka Ltd.",
+    "description": "JSC Ufanet",
     "countryCode": "RU",
     "country": "Russia",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

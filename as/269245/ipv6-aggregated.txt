@@ -1,4 +1,4 @@
 # AS269245 (CABO-FIBRA-TELECOM)
-# Cabo Fibra Telecom
+# Maralink Fibra
 #
 2804:619c::/32

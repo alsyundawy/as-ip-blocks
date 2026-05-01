@@ -6,8 +6,8 @@
     "countryCode": "FI",
     "country": "Finland",
     "origin": "authoritative",
-    "category": "hosting",
-    "networkRole": "midsize_transit"
+    "category": "education_research",
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "103.139.88.0/24" ],

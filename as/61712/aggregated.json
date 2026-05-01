@@ -7,7 +7,7 @@
     "country": "Brazil",
     "origin": "authoritative",
     "category": "isp",
-    "networkRole": "access_provider"
+    "networkRole": "midsize_transit"
   },
   "prefixes": {
     "ipv4": [ "45.174.120.0/22", "131.72.44.0/22" ],

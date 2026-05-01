@@ -7,7 +7,7 @@
     "country": "Bangladesh",
     "origin": "authoritative",
     "category": "business",
-    "networkRole": "access_provider"
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "103.88.24.0/23" ],

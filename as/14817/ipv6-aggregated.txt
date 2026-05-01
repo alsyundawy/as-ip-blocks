@@ -1,3 +1,0 @@
-# AS14817 (SUNCOR-BGP)
-# Syncrude Canada Limited
-#

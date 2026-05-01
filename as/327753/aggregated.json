@@ -7,7 +7,7 @@
     "country": "Kenya",
     "origin": "authoritative",
     "category": "business",
-    "networkRole": "stub"
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "196.13.136.0/24" ],

@@ -7,7 +7,7 @@
     "country": "United Kingdom",
     "origin": "authoritative",
     "category": "business",
-    "networkRole": "stub"
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "45.90.16.0/24" ],

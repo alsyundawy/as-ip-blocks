@@ -6,8 +6,8 @@
     "countryCode": "CA",
     "country": "Canada",
     "origin": "authoritative",
-    "category": "hosting",
-    "networkRole": "content_network"
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "204.15.240.0/22" ],

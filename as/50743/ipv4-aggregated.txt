@@ -1,4 +1,5 @@
 # AS50743 (COMMENSUS-LTD-AS)
 # Commensus Limited
 #
-91.205.248.0/22
+91.205.249.0/24
+91.205.250.0/23

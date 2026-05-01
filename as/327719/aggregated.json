@@ -7,7 +7,7 @@
     "country": "Gambia",
     "origin": "authoritative",
     "category": "hosting",
-    "networkRole": "access_provider"
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "196.49.1.0/24", "196.223.34.0/24" ],

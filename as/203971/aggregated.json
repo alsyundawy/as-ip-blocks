@@ -6,8 +6,8 @@
     "countryCode": "AZ",
     "country": "Azerbaijan",
     "origin": "authoritative",
-    "category": "hosting",
-    "networkRole": "midsize_transit"
+    "category": "isp",
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "185.93.91.0/24", "185.118.48.0/22", "185.222.92.0/22", "217.179.126.0/24" ],

@@ -7,7 +7,7 @@
     "country": "China",
     "origin": "authoritative",
     "category": "isp",
-    "networkRole": "access_provider"
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "43.225.208.0/22", "123.166.123.0/24", "222.171.248.0/24" ],

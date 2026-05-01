@@ -2,4 +2,3 @@
 # IE Nezmetdinov Dinar Mansurovich
 #
 2.26.135.0/24
-2.27.94.0/24

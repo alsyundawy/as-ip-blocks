@@ -7,7 +7,7 @@
     "country": "South Africa",
     "origin": "authoritative",
     "category": "business",
-    "networkRole": "stub"
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "196.10.55.0/24" ],

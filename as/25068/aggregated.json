@@ -6,8 +6,8 @@
     "countryCode": "DE",
     "country": "Germany",
     "origin": "authoritative",
-    "category": "business",
-    "networkRole": "stub"
+    "category": "hosting",
+    "networkRole": "content_network"
   },
   "prefixes": {
     "ipv4": [ "91.206.98.0/23", "193.201.169.0/24", "195.234.183.0/24" ],

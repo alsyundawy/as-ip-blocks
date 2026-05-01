@@ -7,7 +7,7 @@
     "country": "Costa Rica",
     "origin": "authoritative",
     "category": "isp",
-    "networkRole": "stub"
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "143.0.160.0/22" ],

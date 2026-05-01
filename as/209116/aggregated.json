@@ -6,8 +6,8 @@
     "countryCode": "UA",
     "country": "Ukraine",
     "origin": "authoritative",
-    "category": "business",
-    "networkRole": "access_provider"
+    "category": "hosting",
+    "networkRole": "midsize_transit"
   },
   "prefixes": {
     "ipv4": [ "5.181.248.0/22" ],

@@ -7,7 +7,7 @@
     "country": "Belgium",
     "origin": "authoritative",
     "category": "education_research",
-    "networkRole": "access_provider"
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "45.129.94.0/24", "167.150.90.0/23", "185.133.211.0/24", "212.94.55.0/24" ],

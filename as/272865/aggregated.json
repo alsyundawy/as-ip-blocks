@@ -7,7 +7,7 @@
     "country": "Venezuela",
     "origin": "authoritative",
     "category": "business",
-    "networkRole": "stub"
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "38.188.96.0/23", "38.188.98.0/24", "191.97.17.0/24" ],

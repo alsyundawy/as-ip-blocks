@@ -6,8 +6,8 @@
     "countryCode": "TR",
     "country": "Türkiye",
     "origin": "authoritative",
-    "category": "business",
-    "networkRole": "stub"
+    "category": "isp",
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "213.238.168.0/24" ],

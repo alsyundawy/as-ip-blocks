@@ -7,7 +7,7 @@
     "country": "Guatemala",
     "origin": "authoritative",
     "category": "business",
-    "networkRole": "stub"
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "38.165.224.0/22" ],

@@ -7,7 +7,7 @@
     "country": "Taiwan",
     "origin": "authoritative",
     "category": "hosting",
-    "networkRole": "stub"
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "103.24.54.0/23", "103.42.144.0/22", "103.198.152.0/23", "223.26.11.0/24" ],
