@@ -1,0 +1,16 @@
+{
+  "asn": 402456,
+  "metadata": {
+    "handle": "BJERKERUD",
+    "description": "Bjerkerud Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:f3d4:b0b::/48" ]
+  }
+}

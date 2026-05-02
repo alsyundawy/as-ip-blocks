@@ -1,14 +1,16 @@
 {
   "asn": 138120,
   "metadata": {
-    "handle": "IDNIC-PARNAMEGAPERSADA-ID",
+    "handle": "IDNIC-PARNAMEGAPERSADA-AS-ID",
     "description": "PT Parna Mega Persada",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "175.111.99.0/24" ],
+    "ipv6": [ ]
   }
 }

@@ -1,4 +1,5 @@
 # AS34764 (FISDE-AS)
 # Maurice Funke
 #
-2a02:ff80::/29
+2a02:ff80::/32
+2a02:ff87::/32

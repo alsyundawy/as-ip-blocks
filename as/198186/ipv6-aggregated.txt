@@ -1,0 +1,4 @@
+# AS198186 (SETESDALNET)
+# Sondre Hoslemo
+#
+2a06:9801:2bd::/48

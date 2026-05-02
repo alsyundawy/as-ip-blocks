@@ -1,0 +1,16 @@
+{
+  "asn": 402465,
+  "metadata": {
+    "handle": "TAHOMA-RADIOELECTRIC",
+    "description": "Tahoma Radioelectric LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "156.239.23.0/24" ],
+    "ipv6": [ ]
+  }
+}

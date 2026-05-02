@@ -1,4 +1,3 @@
 # AS397979 (AIRMAX-1)
 # Airmax Internet LLC
 #
-178.83.137.0/24

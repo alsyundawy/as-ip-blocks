@@ -2,11 +2,11 @@
   "asn": 32091,
   "metadata": {
     "handle": "TRACF-AS",
-    "description": "Tracfone Wireless",
+    "description": "Verizon Business",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

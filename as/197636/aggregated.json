@@ -2,9 +2,9 @@
   "asn": 197636,
   "metadata": {
     "handle": "BAGIS-AS",
-    "description": "UniCredit Services GmbH",
-    "countryCode": "AT",
-    "country": "Austria",
+    "description": "UniCredit S.p.A.",
+    "countryCode": "IT",
+    "country": "Italy",
     "origin": "authoritative",
     "category": "business",
     "networkRole": "stub"
