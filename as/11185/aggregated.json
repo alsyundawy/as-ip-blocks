@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "DREAMHACK",
     "description": "DreamHack Inc",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "167.253.144.0/22", "185.69.169.0/24", "185.69.171.0/24" ],
+    "ipv6": [ ]
   }
 }

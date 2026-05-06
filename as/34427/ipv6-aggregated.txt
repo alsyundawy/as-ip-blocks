@@ -1,4 +1,4 @@
 # AS34427 (COMSENSO)
-# Comsenso BV
+# Reliance B.V.
 #
 2a02:720::/32

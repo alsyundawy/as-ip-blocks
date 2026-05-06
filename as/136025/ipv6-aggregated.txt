@@ -1,3 +1,0 @@
-# AS136025 (ORACLE-AS-AP)
-# Oracle Corporation
-#

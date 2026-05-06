@@ -1,0 +1,5 @@
+# AS8129 (CAIWIRELESS)
+# CAI Wireless Systems Inc.
+#
+5.230.195.0/24
+31.58.208.0/24

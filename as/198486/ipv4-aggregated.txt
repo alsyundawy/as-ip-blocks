@@ -1,0 +1,4 @@
+# AS198486 (MAGNAPARS)
+# Magna Pars Internet Technologies LTD
+#
+31.59.196.0/24

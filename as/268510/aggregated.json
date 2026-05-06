@@ -2,11 +2,11 @@
   "asn": 268510,
   "metadata": {
     "handle": "JS-INTERNET",
-    "description": "JS INTERNET",
+    "description": "JS FIBRA",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "access_provider"
   },
   "prefixes": {

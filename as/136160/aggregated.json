@@ -1,10 +1,10 @@
 {
   "asn": 136160,
   "metadata": {
-    "handle": "TJSSYNTCL-AS-AP",
-    "description": "Tianjin Shi Shi Ji Hulian Yuntong Network Technology Co. Ltd.",
-    "countryCode": "CN",
-    "country": "China",
+    "handle": "M92HOSTLIMITED-AS-AP",
+    "description": "92host Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
     "origin": "authoritative",
     "category": "business",
     "networkRole": "stub"
