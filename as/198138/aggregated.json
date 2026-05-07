@@ -1,0 +1,16 @@
+{
+  "asn": 198138,
+  "metadata": {
+    "handle": "TANAKA-AS",
+    "description": "Muskafidi Konstantin Nikolaevich",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:6284:7000::/36" ]
+  }
+}

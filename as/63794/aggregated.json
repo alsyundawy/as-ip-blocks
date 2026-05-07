@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "ILKS-NET",
     "description": "ILKS Inc.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "103.187.128.0/23" ],
+    "ipv6": [ "2400:7d20::/32" ]
   }
 }

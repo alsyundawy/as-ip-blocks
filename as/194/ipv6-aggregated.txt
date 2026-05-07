@@ -1,4 +1,4 @@
-# AS194 (UCAR-AS)
+# AS194 (UCAR)
 # University Corporation for Atmospheric Research
 #
 2620:117:2000::/40

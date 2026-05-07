@@ -1,4 +1,4 @@
-# AS136179 (GMR-AS-AP)
-# GMR Infrastructure Ltd
+# AS136179 (GMRA-AS-AP)
+# GMR Airports Limited
 #
 2001:df7:d200::/48

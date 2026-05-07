@@ -2,11 +2,11 @@
   "asn": 60886,
   "metadata": {
     "handle": "AMIT",
-    "description": "Amit Net Telecom LTD",
+    "description": "Topico Internet LTD",
     "countryCode": "IL",
     "country": "Israel",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

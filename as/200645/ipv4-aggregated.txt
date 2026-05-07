@@ -1,5 +1,5 @@
 # AS200645 (GILASSRAYANEH)
-# Gilass Rayaneh Sirjan Co (PJS)
+# Fara Ertebat Mabna PJS
 #
 185.100.44.0/22
 185.117.136.0/22

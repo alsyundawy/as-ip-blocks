@@ -1,4 +1,5 @@
 # AS216321 (ZEROAV-EU)
 # Zero Attack Vector LLC
 #
+69.38.206.0/24
 140.233.180.0/24

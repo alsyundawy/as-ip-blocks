@@ -1,13 +1,13 @@
 {
   "asn": 275744,
   "metadata": {
-    "handle": "AS275744",
-    "description": "Unknown AS 275744",
-    "countryCode": null,
-    "country": null,
-    "origin": "none",
-    "category": null,
-    "networkRole": null
+    "handle": "ONN-TELECOMUNICACOES",
+    "description": "ONN TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],

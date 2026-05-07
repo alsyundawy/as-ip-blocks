@@ -1,0 +1,16 @@
+{
+  "asn": 212112,
+  "metadata": {
+    "handle": "DATAGIO-AS",
+    "description": "Vladislav Novitskii",
+    "countryCode": "FI",
+    "country": "Finland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:d940:9009::/48", "2a10:ab80:3e3::/48" ]
+  }
+}

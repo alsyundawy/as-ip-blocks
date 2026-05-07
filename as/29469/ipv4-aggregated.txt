@@ -1,5 +1,4 @@
 # AS29469 (GTU)
 # Global Technologies of Ukraine LLC
 #
-178.216.12.0/23
 185.38.174.0/24

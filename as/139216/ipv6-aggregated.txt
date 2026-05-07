@@ -1,5 +1,5 @@
 # AS139216 (HTROY-AS-AP)
-# Htroy Network Research Limited
+# Tianhai InfoTech
 #
 2406:840:e0e0::/46
 2406:840:e0e4::/47

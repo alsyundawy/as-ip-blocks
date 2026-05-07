@@ -1,12 +1,12 @@
 {
   "asn": 137262,
   "metadata": {
-    "handle": "SMARTLINX3LIMITED-AS-AP",
-    "description": "Smartlinx3 Limited",
+    "handle": "INTUNE1-AS-AP",
+    "description": "LocalTech",
     "countryCode": "NZ",
     "country": "New Zealand",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

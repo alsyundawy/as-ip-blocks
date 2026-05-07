@@ -1,12 +1,12 @@
 {
   "asn": 24544,
   "metadata": {
-    "handle": "OVERCASTS-AS-AP",
-    "description": "Cloudie Limited",
+    "handle": "LAWSCLOUDINFRASTRUCTURELIMITED-AS-HK",
+    "description": "Law's Cloud Infrastructure Limited",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 24124,
   "metadata": {
-    "handle": "LIGHTNETWORK-AS-AP",
-    "description": "LightNetwork Computing Limited",
-    "countryCode": "HK",
-    "country": "Hong Kong SAR China",
+    "handle": "TH-AS-AP",
+    "description": "Tianhai InfoTech",
+    "countryCode": "CN",
+    "country": "China",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

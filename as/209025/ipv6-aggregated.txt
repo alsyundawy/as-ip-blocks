@@ -1,4 +1,3 @@
 # AS209025 (EDORA)
 # EDORA A/S
 #
-2a10:cd40::/30

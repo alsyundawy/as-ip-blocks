@@ -1,4 +1,4 @@
-# AS137262 (SMARTLINX3LIMITED-AS-AP)
-# Smartlinx3 Limited
+# AS137262 (INTUNE1-AS-AP)
+# LocalTech
 #
 2402:4040::/32

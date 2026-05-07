@@ -1,4 +1,4 @@
 # AS16837 (VABB)
-# VA Broadband LLC
+# Virginia Broadband LLC
 #
 199.195.60.0/24

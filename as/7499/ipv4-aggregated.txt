@@ -1,4 +1,5 @@
 # AS7499 (MACROVIEW-HK-AS-AP)
 # Macroview Telecom Limited
 #
+202.182.246.0/23
 202.182.248.0/21

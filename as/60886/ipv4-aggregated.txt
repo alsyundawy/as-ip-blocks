@@ -1,5 +1,5 @@
 # AS60886 (AMIT)
-# Amit Net Telecom LTD
+# Topico Internet LTD
 #
 83.229.18.0/24
 83.229.108.0/24

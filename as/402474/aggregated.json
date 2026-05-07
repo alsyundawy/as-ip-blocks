@@ -1,13 +1,13 @@
 {
   "asn": 402474,
   "metadata": {
-    "handle": "ZACHARY-LANE-MESSER",
+    "handle": "LMESSER-LABS",
     "description": "Zachary Lane Messer Sole Proprietorship",
     "countryCode": "US",
     "country": "United States",
-    "origin": "inferred",
-    "category": null,
-    "networkRole": null
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ ],
