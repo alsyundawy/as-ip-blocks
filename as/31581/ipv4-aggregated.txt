@@ -1,4 +1,4 @@
 # AS31581 (KOPINT-AS)
-# National Infocommunications Service Company Limited by Shares
+# NISZ National Infocommunications Service Provider Private Limited
 #
 84.206.0.0/16

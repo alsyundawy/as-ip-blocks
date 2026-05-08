@@ -1,0 +1,16 @@
+{
+  "asn": 197806,
+  "metadata": {
+    "handle": "STRLCAT",
+    "description": "Andrei Rys",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7585:5000::/48" ]
+  }
+}

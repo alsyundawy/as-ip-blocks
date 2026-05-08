@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "LIGHTING-READY-HOSTING-LLC",
     "description": "Lightning Ready Hosting LLC",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "23.162.80.0/24" ],
+    "ipv6": [ ]
   }
 }

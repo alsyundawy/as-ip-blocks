@@ -1,5 +1,4 @@
 # AS54512 (CHICKTEL-AS-1)
 # Chickamauga Telephone Corporation
 #
-152.52.9.0/24
 198.38.48.0/20

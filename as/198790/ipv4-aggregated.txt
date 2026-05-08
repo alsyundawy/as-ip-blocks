@@ -1,4 +1,4 @@
-# AS198790 (NIKOLAI-GNUSOV)
+# AS198790 (CROCNET)
 # Nikolai Gnusov
 #
 87.58.192.0/24

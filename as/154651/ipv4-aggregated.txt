@@ -1,4 +1,4 @@
 # AS154651 (IDNIC-SARANGDATA-AS-ID)
-# PT Sarang Datas Nusantara
+# PT Sarang Data Nusantara
 #
 162.4.45.0/24

@@ -1,0 +1,4 @@
+# AS213869 (WINEXT-AS)
+# WiNext Kft.
+#
+5.149.240.0/21

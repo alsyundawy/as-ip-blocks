@@ -1,4 +1,4 @@
 # AS266342 (TNET+-PROVEDOR)
-# T-NET+ PROVEDOR
+# Thiago e Vitoria Informatica
 #
 2804:3654::/32

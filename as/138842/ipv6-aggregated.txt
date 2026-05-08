@@ -1,5 +1,4 @@
 # AS138842 (INTERNETWORK-AS-ID)
 # PT Internetwork Komunikasi Indonesia
 #
-2404:cdc0:64::/47
-2404:cdc1:1::/48
+2404:cdc0::/32

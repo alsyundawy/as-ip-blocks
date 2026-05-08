@@ -1,6 +1,5 @@
 # AS35873 (MOVE-NETWORKS)
 # Move Networks inc.
 #
-2620:12b:d001::/48
 2620:12b:d002::/48
 2620:12b:d005::/48

@@ -2,3 +2,4 @@
 # DIGI Tavkozlesi es Szolgaltato Kft.
 #
 2a01:368::/29
+2a0a:f641::/33

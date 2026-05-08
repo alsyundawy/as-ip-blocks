@@ -2,11 +2,11 @@
   "asn": 200893,
   "metadata": {
     "handle": "TZG-AS",
-    "description": "Telekomunikacja Zwiazku Gmin Ziemi Wielunskiej S.A.",
+    "description": "MARGONET Sp. z o.o.",
     "countryCode": "PL",
     "country": "Poland",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

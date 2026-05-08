@@ -1,12 +1,12 @@
 {
   "asn": 395881,
   "metadata": {
-    "handle": "ENNWISE-DC",
+    "handle": "AURORA-HOSTING",
     "description": "Ennwise",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": null,
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

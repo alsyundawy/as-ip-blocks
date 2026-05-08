@@ -2,4 +2,3 @@
 # Habib Iseni Trading as BACI Enterprise
 #
 82.22.45.0/24
-195.58.144.0/24
