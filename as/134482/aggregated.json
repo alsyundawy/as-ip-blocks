@@ -1,0 +1,16 @@
+{
+  "asn": 134482,
+  "metadata": {
+    "handle": "KRUSHNAINFRACON-AS-AP",
+    "description": "KRUSHNA INFRACON",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.66.0/23" ],
+    "ipv6": [ ]
+  }
+}

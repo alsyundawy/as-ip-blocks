@@ -2,11 +2,11 @@
   "asn": 50091,
   "metadata": {
     "handle": "NEGENET",
-    "description": "Ylli Zeka trading as N.T.SH. NEGENETI",
+    "description": "Negenet shpk",
     "countryCode": "AL",
     "country": "Albania",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

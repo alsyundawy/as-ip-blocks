@@ -1,5 +1,4 @@
 # AS133645 (SRNET-AS-IN)
 # Sr-net Karjat Private Limited
 #
-113.192.42.0/24
 192.232.57.0/24

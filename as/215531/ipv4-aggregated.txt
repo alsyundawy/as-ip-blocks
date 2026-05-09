@@ -1,3 +1,4 @@
 # AS215531 (KOMUTA-ASN)
 # Komuta Savunma Yuksek Teknoloji Limited Sirketi
 #
+78.135.81.0/24

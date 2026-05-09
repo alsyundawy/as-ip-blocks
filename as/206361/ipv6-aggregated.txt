@@ -1,4 +1,3 @@
 # AS206361 (AS-TAMANET)
 # Tamas Drinkal
 #
-2a09:ff00:300::/44
