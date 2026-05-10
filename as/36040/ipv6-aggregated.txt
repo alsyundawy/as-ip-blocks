@@ -1,5 +1,5 @@
 # AS36040 (YOUTUBE)
-# Google LLC
+# Youtube GGC
 #
 2602:faaa:1::/48
 2605:48c0::/32

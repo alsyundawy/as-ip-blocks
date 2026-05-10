@@ -1,4 +1,4 @@
-# AS7020 (QDATA-AS)
+# AS7020 (BCX)
 # Business Connexion Communications
 #
 165.233.0.0/16

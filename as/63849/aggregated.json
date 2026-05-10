@@ -1,12 +1,12 @@
 {
   "asn": 63849,
   "metadata": {
-    "handle": "EASYTONENETWORKLIMITED-AS-HK",
-    "description": "Easy Tone Network Limited",
+    "handle": "MANETCOM-AP",
+    "description": "Yaren Lam",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 22306,
   "metadata": {
-    "handle": "FISC-JM",
-    "description": "eGov Jamaica Limited",
+    "handle": "FISCAL",
+    "description": "ASN-FISCAL",
     "countryCode": "JM",
     "country": "Jamaica",
     "origin": "authoritative",
-    "category": "business",
+    "category": "government_admin",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,13 +1,13 @@
 {
   "asn": 328007,
   "metadata": {
-    "handle": "AS328007",
-    "description": "Unknown AS 328007",
+    "handle": "ZANACO",
+    "description": "ZANACO",
     "countryCode": null,
     "country": null,
-    "origin": "none",
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "196.41.74.0/24" ],

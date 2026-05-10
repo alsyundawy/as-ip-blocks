@@ -1,5 +1,5 @@
 # AS24863 (LINKDOTNET-AS)
-# Link Egypt (Link.NET)
+# LINKdotNET AS number
 #
 41.128.0.0/14
 41.178.0.0/16

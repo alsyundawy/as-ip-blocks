@@ -1,12 +1,12 @@
 {
   "asn": 393578,
   "metadata": {
-    "handle": "MESA-WATER-DISTRICT",
-    "description": "Mesa Water District",
+    "handle": "DIGITALFYRE",
+    "description": "DigitalFyre ASN",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

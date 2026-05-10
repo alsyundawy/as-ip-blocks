@@ -1,8 +1,8 @@
 {
   "asn": 37427,
   "metadata": {
-    "handle": "CELLCOM",
-    "description": "Cellcom Guinea",
+    "handle": "CELLCOM-AS",
+    "description": "CELLCOM-AS",
     "countryCode": "GN",
     "country": "Guinea",
     "origin": "authoritative",

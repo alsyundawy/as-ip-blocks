@@ -1,12 +1,12 @@
 {
   "asn": 37014,
   "metadata": {
-    "handle": "MASCOM-WIRELESS-BOTSWANA",
-    "description": "Mascom Wireless Ltd",
+    "handle": "MASCOM",
+    "description": "Mascom Botswana",
     "countryCode": "BW",
     "country": "Botswana",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

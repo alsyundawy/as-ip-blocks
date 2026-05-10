@@ -1,4 +1,4 @@
 # AS37209 (HYPERIA)
-# Hyperia Limited
+# Hyperia Ltd
 #
 2c0f:f880::/32

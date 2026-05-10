@@ -1,4 +1,4 @@
-# AS36986 (AINET)
+# AS36986 (AFRICOM-NET)
 # Africom Pvt Ltd
 #
 41.57.64.0/21

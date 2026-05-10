@@ -1,5 +1,5 @@
 # AS63473 (HOSTHATCH)
-# HostHatch LLC
+# hosthatch.com
 #
 5.231.73.0/24
 31.56.62.0/24

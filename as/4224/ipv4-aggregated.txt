@@ -1,4 +1,4 @@
-# AS4224 (CALYX-AS)
+# AS4224 (CALYX-INSTITUTE)
 # The Calyx Institute
 #
 162.247.72.0/24

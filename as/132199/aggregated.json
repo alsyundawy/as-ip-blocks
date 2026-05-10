@@ -1,12 +1,12 @@
 {
   "asn": 132199,
   "metadata": {
-    "handle": "GLOBE-MOBILE-5TH-GEN-AS",
-    "description": "Globe Telecom Inc.",
+    "handle": "AS-RIPE-NCC",
+    "description": "RIPE-NCC NETWORKS",
     "countryCode": "PH",
     "country": "Philippines",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

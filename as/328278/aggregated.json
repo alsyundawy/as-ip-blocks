@@ -1,12 +1,12 @@
 {
   "asn": 328278,
   "metadata": {
-    "handle": "WIBERSOLUTIONS-AS",
-    "description": "WiberSolutions (Pty) Ltd",
+    "handle": "WIBERSOLUTIONS",
+    "description": "WiberSolutions AS OBJ",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

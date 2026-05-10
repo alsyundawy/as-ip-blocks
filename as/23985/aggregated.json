@@ -1,13 +1,13 @@
 {
   "asn": 23985,
   "metadata": {
-    "handle": "METRO-DIGITAL-GMBH",
-    "description": "METRO Digital GmbH",
-    "countryCode": "DE",
-    "country": "Germany",
-    "origin": "inferred",
+    "handle": "MGB-AS-AP",
+    "description": "MGB METRO Group Buying",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "194.99.204.0/22", "194.156.60.0/22" ],

@@ -1,5 +1,5 @@
-# AS11352 (IOMAR-11352)
-# Iomartcloud Inc.
+# AS11352 (IOMART-US)
+# iomartcloud inc US hosting
 #
 5.187.27.0/24
 5.187.30.0/24

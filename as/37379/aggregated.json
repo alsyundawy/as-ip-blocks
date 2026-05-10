@@ -1,12 +1,12 @@
 {
   "asn": 37379,
   "metadata": {
-    "handle": "IWAYAFRICA-ZAMBIA",
-    "description": "Africa Online Operations (Mauritius) Limited",
+    "handle": "IWAYAFRICA-AS37379",
+    "description": "IWAYAFRICA-AS37379",
     "countryCode": "MU",
     "country": "Mauritius",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,5 +1,5 @@
-# AS23599 (DDNSKR)
-# Korea Internet Security Agency
+# AS23599 (KRNIC-DDNS-AS)
+# DNS anycast AS object for .kr DNS service
 #
 1.18.123.0/24
 1.18.125.0/24

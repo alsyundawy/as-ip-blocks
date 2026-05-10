@@ -1,8 +1,8 @@
 {
   "asn": 37705,
   "metadata": {
-    "handle": "TOPNET",
-    "description": "TOPNET",
+    "handle": "TOPNET-AS",
+    "description": "TOPNET Autonomous System Number",
     "countryCode": "TN",
     "country": "Tunisia",
     "origin": "authoritative",

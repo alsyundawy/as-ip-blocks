@@ -1,5 +1,5 @@
-# AS27822 (EMERGING-MARKETS-COMMUNICATIONS)
-# Emerging Markets Communications de Argentina S.R.L
+# AS27822 (EMC)
+# Emerging Markets Communications Inc.
 #
 92.39.112.0/23
 92.39.116.0/24

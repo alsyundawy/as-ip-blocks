@@ -2,12 +2,12 @@
   "asn": 37476,
   "metadata": {
     "handle": "AS37476",
-    "description": "Unknown AS 37476",
+    "description": "AS37476",
     "countryCode": null,
     "country": null,
-    "origin": "none",
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "196.13.203.0/24" ],

@@ -1,12 +1,12 @@
 {
   "asn": 40146,
   "metadata": {
-    "handle": "RTCONN-LAS",
-    "description": "Right Connection Inc.",
+    "handle": "VIRTELA-CUST-VILCHI1-NATIONALMARINE",
+    "description": "Virtela Communications",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

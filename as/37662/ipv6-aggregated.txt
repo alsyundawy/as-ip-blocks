@@ -1,5 +1,5 @@
-# AS37662 (WIOCC-AS)
-# West Indian Ocean Cable Company
+# AS37662 (WIOCC)
+# West Indian Ocean Company
 #
 2001:43f8:1150::/47
 2c0f:ef68::/46

@@ -1,8 +1,8 @@
 {
   "asn": 24399,
   "metadata": {
-    "handle": "ABN-PEERING-AS-AP",
-    "description": "ASIX Asia Satellite Internet eXchange Ltd",
+    "handle": "ABS-APNIC",
+    "description": "ABS ASN entry in RIPE",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",

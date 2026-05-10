@@ -2,11 +2,11 @@
   "asn": 53973,
   "metadata": {
     "handle": "FREEPOINT-COMMODITIES",
-    "description": "Freepoint Commodities LLC",
+    "description": "FREEPOINT-COMMODITIES",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

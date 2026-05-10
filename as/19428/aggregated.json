@@ -1,12 +1,12 @@
 {
   "asn": 19428,
   "metadata": {
-    "handle": "PHILLIPS-66",
-    "description": "Phillips 66 Company",
+    "handle": "CONOCOPHILLIPS",
+    "description": "FTIP003256947",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

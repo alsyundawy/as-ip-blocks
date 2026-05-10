@@ -2,11 +2,11 @@
   "asn": 15964,
   "metadata": {
     "handle": "CAMNET-AS",
-    "description": "CAMTEL",
+    "description": "CAMEROON TELECOMMUNICATIONS NETWORK",
     "countryCode": "CM",
     "country": "Cameroon",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

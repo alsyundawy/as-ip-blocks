@@ -1,4 +1,4 @@
 # AS3208 (ARN)
-# Algerian Academic Research Network
+# Algerian NREN Network
 #
 2001:4340::/32

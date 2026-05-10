@@ -1,4 +1,4 @@
-# AS37482 (BI)
+# AS37482 (MYTELNET)
 # Broadband Innovations
 #
 41.217.240.0/21

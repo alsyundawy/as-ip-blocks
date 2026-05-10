@@ -1,4 +1,4 @@
-# AS26654 (RFA-IDC)
+# AS26654 (RFA)
 # Richard Fleischman & Assoc. Inc.
 #
 64.74.40.0/22

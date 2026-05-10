@@ -1,12 +1,12 @@
 {
   "asn": 29997,
   "metadata": {
-    "handle": "VITAL-DNS",
-    "description": "Vitalwerks Internet Solutions LLC",
+    "handle": "ASNOIP",
+    "description": "Vitalwerks Anycast",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

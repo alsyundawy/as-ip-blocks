@@ -1,4 +1,4 @@
-# AS36916 (X-DSL-NET1)
-# X-DSL Networking Solutions
+# AS36916 (XDSL-NET)
+# Xdsl Network
 #
 2c0f:fcb0::/32

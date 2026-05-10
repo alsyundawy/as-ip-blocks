@@ -1,4 +1,4 @@
-# AS9466 (UUNET-JP-AP)
+# AS9466 (VZB)
 # Verizon Japan Limited
 #
 103.3.198.0/24

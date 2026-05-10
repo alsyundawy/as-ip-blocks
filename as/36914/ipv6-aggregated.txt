@@ -1,4 +1,4 @@
-# AS36914 (KENET-AS)
+# AS36914 (KENET)
 # Kenya Education Network
 #
 2c0f:fe08::/32

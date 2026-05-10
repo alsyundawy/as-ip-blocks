@@ -1,12 +1,12 @@
 {
   "asn": 36930,
   "metadata": {
-    "handle": "MIC-TANZANIA-LTD",
-    "description": "MIC TANZANIA LTD",
+    "handle": "ZANTEL",
+    "description": "Zanzibar Telecom Limited-Tanzania",
     "countryCode": "TZ",
     "country": "Tanzania",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "access_provider"
   },
   "prefixes": {

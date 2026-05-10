@@ -1,4 +1,4 @@
-# AS16642 (WPP-ET-CAMPUS-ZURICH)
-# The Ogilvy Group LLC
+# AS16642 (OGILVY-MATHER-EU)
+# AS for Ogilvy & Mather Europe
 #
 199.229.40.0/23

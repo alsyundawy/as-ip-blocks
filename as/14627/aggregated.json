@@ -1,12 +1,12 @@
 {
   "asn": 14627,
   "metadata": {
-    "handle": "NOIP-VITAL",
-    "description": "Vitalwerks Internet Solutions LLC",
+    "handle": "ASVITAL",
+    "description": "Vitalwerks",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

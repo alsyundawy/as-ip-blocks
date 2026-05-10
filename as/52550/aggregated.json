@@ -1,12 +1,12 @@
 {
   "asn": 52550,
   "metadata": {
-    "handle": "ETAF-TELECOM-EIRELI",
-    "description": "Etaf Telecom Eireli",
+    "handle": "DATACORPORE-2",
+    "description": "DataCorpore Servi?os e Representa??es",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

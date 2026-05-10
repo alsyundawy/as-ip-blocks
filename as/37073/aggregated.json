@@ -1,12 +1,12 @@
 {
   "asn": 37073,
   "metadata": {
-    "handle": "IPP-BURKINA-AS",
-    "description": "Internet Puissance Plus Burkina SA",
+    "handle": "CONNECTEO-BURKINA-AS",
+    "description": "Connecteo Burkina Faso",
     "countryCode": "BF",
     "country": "Burkina Faso",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

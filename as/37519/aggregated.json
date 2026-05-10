@@ -1,8 +1,8 @@
 {
   "asn": 37519,
   "metadata": {
-    "handle": "XTRANET",
-    "description": "Xtranet",
+    "handle": "XTRANET-AS",
+    "description": "Xtranet Autonomous System Number",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",

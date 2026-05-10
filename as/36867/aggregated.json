@@ -2,11 +2,11 @@
   "asn": 36867,
   "metadata": {
     "handle": "KOKONET-BGP",
-    "description": "Kokonet Ltd",
+    "description": "Kokonet Ltd Seychelles ISP",
     "countryCode": "SC",
     "country": "Seychelles",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

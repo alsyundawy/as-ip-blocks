@@ -1,12 +1,12 @@
 {
   "asn": 18701,
   "metadata": {
-    "handle": "PPCO-US",
-    "description": "ConocoPhillips Company",
+    "handle": "COP-EMEA",
+    "description": "ConocoPhillips EMEA",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

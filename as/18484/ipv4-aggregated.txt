@@ -1,5 +1,5 @@
-# AS18484 (VTLA)
-# NTT Global Networks Incorporated
+# AS18484 (VIRTELA-NET-VCALAX1)
+# Virtela Communications
 #
 64.254.96.0/24
 64.254.118.0/24

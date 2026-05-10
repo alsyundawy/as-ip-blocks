@@ -1,3 +1,3 @@
-# AS14043 (SCANSOURCE)
+# AS14043 (SCANSOURCE-INC)
 # ScanSource Inc.
 #

@@ -1,8 +1,8 @@
 {
   "asn": 3758,
   "metadata": {
-    "handle": "SINGNET",
-    "description": "SingNet Pte Ltd",
+    "handle": "ERX-SINGNET",
+    "description": "SingNet network used for Daimler access Singapore (main AS source: APNIC)",
     "countryCode": "SG",
     "country": "Singapore",
     "origin": "authoritative",

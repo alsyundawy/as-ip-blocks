@@ -1,12 +1,12 @@
 {
   "asn": 17653,
   "metadata": {
-    "handle": "GCHK-SG",
-    "description": "Globecast Asia Pte Ltd",
+    "handle": "PCM-HK-AP",
+    "description": "Pacific Century Matrix",
     "countryCode": "SG",
     "country": "Singapore",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

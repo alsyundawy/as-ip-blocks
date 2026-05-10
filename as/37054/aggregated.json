@@ -1,12 +1,12 @@
 {
   "asn": 37054,
   "metadata": {
-    "handle": "TELECOM-MALAGASY",
-    "description": "Telecom Malagasy",
+    "handle": "DTS",
+    "description": "DTS Autonomous System",
     "countryCode": "MG",
     "country": "Madagascar",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

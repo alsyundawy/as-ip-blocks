@@ -1,5 +1,5 @@
 # AS36351 (SOFTLAYER)
-# IBM Cloud
+# SoftLayer Technologies Inc.
 #
 5.10.96.0/19
 13.116.64.0/18

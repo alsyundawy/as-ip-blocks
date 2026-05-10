@@ -1,12 +1,12 @@
 {
   "asn": 4663,
   "metadata": {
-    "handle": "ELIMNET-AS",
-    "description": "ELIMNET INC.",
+    "handle": "ELIMNET",
+    "description": "ELIMNET Internet Service Provide in Korea",
     "countryCode": "KR",
     "country": "South Korea",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,5 +1,5 @@
-# AS327813 (HA-VPS-NET)
-# Host Africa (Pty) Ltd
+# AS327813 (WEB4AFRICA)
+# Web4Africa
 #
 102.68.80.0/21
 102.68.96.0/23

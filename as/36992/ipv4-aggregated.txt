@@ -1,5 +1,5 @@
 # AS36992 (ETISALAT-MISR)
-# ETISALAT MISR
+# Etisalat-Misr AS
 #
 41.64.0.0/15
 41.152.0.0/15

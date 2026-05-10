@@ -2,11 +2,11 @@
   "asn": 37630,
   "metadata": {
     "handle": "EY-JHB-AS",
-    "description": "Ernst and Young Services Limited",
+    "description": "EY-JHB",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

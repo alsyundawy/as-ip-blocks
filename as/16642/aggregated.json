@@ -1,12 +1,12 @@
 {
   "asn": 16642,
   "metadata": {
-    "handle": "WPP-ET-CAMPUS-ZURICH",
-    "description": "The Ogilvy Group LLC",
+    "handle": "OGILVY-MATHER-EU",
+    "description": "AS for Ogilvy & Mather Europe",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

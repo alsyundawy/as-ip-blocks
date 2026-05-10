@@ -2,11 +2,11 @@
   "asn": 30987,
   "metadata": {
     "handle": "ERITEL-AS",
-    "description": "Eritrea Telecommunication Service corporation (EriTel)",
+    "description": "ERITEL Autonomous System",
     "countryCode": "ER",
     "country": "Eritrea",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

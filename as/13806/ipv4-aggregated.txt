@@ -1,5 +1,5 @@
-# AS13806 (NCRCORP)
-# NCR Voyix Corporation
+# AS13806 (ASNAME-13806)
+# Aut-Num
 #
 153.69.0.0/22
 153.69.7.0/24

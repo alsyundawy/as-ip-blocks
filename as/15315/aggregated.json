@@ -1,12 +1,12 @@
 {
   "asn": 15315,
   "metadata": {
-    "handle": "IVANET-LISBON",
-    "description": "IBASIS INC.",
+    "handle": "IBASIS-AS",
+    "description": "IBASIS",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

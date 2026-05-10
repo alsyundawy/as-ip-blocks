@@ -1,5 +1,5 @@
 # AS36874 (CYBERSMART)
-# Cybersmart
+# AfricaINX created auth-num for AS36874
 #
 41.177.0.0/16
 105.233.0.0/16

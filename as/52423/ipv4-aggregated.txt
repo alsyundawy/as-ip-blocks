@@ -1,4 +1,4 @@
-# AS52423 (DATA-MINERS)
+# AS52423 (RACKNATION-DATACENTER)
 # Data Miners S.A. ( Racknation.cr )
 #
 65.38.100.0/24

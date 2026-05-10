@@ -1,4 +1,4 @@
-# AS38077 (TIMOR-TELECOM-AS-AP)
-# Timor Telecom SA
+# AS38077 (TIMOR-TELECOM)
+# EMC customer - Timor Telecom
 #
 2405:1f00::/32

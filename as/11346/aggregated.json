@@ -1,8 +1,8 @@
 {
   "asn": 11346,
   "metadata": {
-    "handle": "LAS-NIDR",
-    "description": "PIMCO",
+    "handle": "CRITICAL-1",
+    "description": "Critical Issue Inc.",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

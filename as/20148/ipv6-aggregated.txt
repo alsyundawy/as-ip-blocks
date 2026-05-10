@@ -1,4 +1,4 @@
-# AS20148 (VANTIVA-CH)
-# Vantiva USA Shared Services Inc.
+# AS20148 (TECHNICOLOR-TPN-UK)
+# Technicolor Production Network UK
 #
 2001:5c8:f7fc::/48

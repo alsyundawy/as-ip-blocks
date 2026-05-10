@@ -1,4 +1,4 @@
-# AS395880 (BCL-AS1)
+# AS395880 (AS-BOOMERANG)
 # Boomerang Communications LLC
 #
 38.57.56.0/22

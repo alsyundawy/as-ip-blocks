@@ -1,4 +1,4 @@
-# AS37497 (NETWORK-PLATFORMS)
-# Network Platforms (PTY) LTD
+# AS37497 (NETWORKPLATFORMS)
+# Network Platforms AS37497 Network
 #
 2c0f:f9e8::/32

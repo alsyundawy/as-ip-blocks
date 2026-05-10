@@ -1,4 +1,4 @@
-# AS52423 (DATA-MINERS)
+# AS52423 (RACKNATION-DATACENTER)
 # Data Miners S.A. ( Racknation.cr )
 #
 2604:c980:1200::/40

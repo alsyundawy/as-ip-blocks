@@ -1,12 +1,12 @@
 {
   "asn": 262184,
   "metadata": {
-    "handle": "GRUPO-KONECTIVA-LATAM",
-    "description": "GRUPO KONECTIVA LATAM S.A",
+    "handle": "IBW-CR",
+    "description": "Divinetworks for IBW-CR",
     "countryCode": "CR",
     "country": "Costa Rica",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

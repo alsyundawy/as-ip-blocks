@@ -1,4 +1,4 @@
-# AS6404 (FACTSET)
+# AS6404 (FACTSETRESEARCH)
 # FactSet Research Systems Inc.
 #
 64.209.89.0/24

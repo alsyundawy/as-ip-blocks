@@ -1,4 +1,4 @@
-# AS19994 (RACKSPACE)
+# AS19994 (RACKSPACE-ORD)
 # Rackspace Hosting
 #
 23.253.0.0/18

@@ -1,8 +1,8 @@
 {
   "asn": 36385,
   "metadata": {
-    "handle": "GOOGLE-IT",
-    "description": "Google LLC",
+    "handle": "GOOGLE-IT-CWB-NPIG",
+    "description": "Google Corp WAN backbone",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

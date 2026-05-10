@@ -1,5 +1,5 @@
-# AS46887 (CROWNCASTLE-AS46887)
-# Crown Castle Fiber LLC
+# AS46887 (LIGHTOWER)
+# Lightower Fiber Networks (LIGHT-141)
 #
 8.11.166.0/24
 8.28.48.0/21

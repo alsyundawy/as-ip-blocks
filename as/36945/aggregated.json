@@ -1,12 +1,12 @@
 {
   "asn": 36945,
   "metadata": {
-    "handle": "MCELISP",
+    "handle": "MCEL-ISP",
     "description": "Mocambique Celular SARL",
     "countryCode": "MZ",
     "country": "Mozambique",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

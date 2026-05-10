@@ -2,11 +2,11 @@
   "asn": 29674,
   "metadata": {
     "handle": "GSTA-AS",
-    "description": "Vodacom Business (Ghana) Limited",
+    "description": "GST Africa is a Telecommunications Company",
     "countryCode": "GH",
     "country": "Ghana",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,4 +1,4 @@
 # AS37354 (SAWASAWA)
-# SawaSawa.com
+# SawaSawa.com ASN in RIPE
 #
 2001:43f8:6e0::/48

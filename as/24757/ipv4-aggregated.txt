@@ -1,5 +1,5 @@
 # AS24757 (ETHIONET-AS)
-# Ethio Telecom
+# ISP in Ethiopia
 #
 102.218.0.0/22
 164.160.184.0/22

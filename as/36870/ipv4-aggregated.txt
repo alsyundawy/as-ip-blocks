@@ -1,4 +1,4 @@
-# AS36870 (IT-WORX)
+# AS36870 (ITWORX-AS)
 # ITWorx
 #
 196.22.5.0/24

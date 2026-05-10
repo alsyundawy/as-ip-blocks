@@ -1,8 +1,8 @@
 {
   "asn": 22351,
   "metadata": {
-    "handle": "INTELSAT-1",
-    "description": "INTELSAT GLOBAL SERVICE CORPORATION",
+    "handle": "INTELSAT",
+    "description": "Intelsat Global BGP Routing Policy",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

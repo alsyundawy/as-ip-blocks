@@ -1,8 +1,8 @@
 {
   "asn": 33164,
   "metadata": {
-    "handle": "AS-IRISTEL",
-    "description": "Iristel Inc.",
+    "handle": "IRIS-AS",
+    "description": "Iristel Inc",
     "countryCode": "CA",
     "country": "Canada",
     "origin": "authoritative",

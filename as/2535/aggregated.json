@@ -1,12 +1,12 @@
 {
   "asn": 2535,
   "metadata": {
-    "handle": "BP",
-    "description": "BP America Inc.",
+    "handle": "BP-UK",
+    "description": "BP Internet UK",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

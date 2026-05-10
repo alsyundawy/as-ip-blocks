@@ -1,12 +1,12 @@
 {
   "asn": 22668,
   "metadata": {
-    "handle": "SPARTA-COMMUNITY-HOSPITAL",
-    "description": "Sparta Community Hospital",
+    "handle": "AS22668-INT",
+    "description": "Placeholder",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

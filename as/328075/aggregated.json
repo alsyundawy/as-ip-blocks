@@ -1,12 +1,12 @@
 {
   "asn": 328075,
   "metadata": {
-    "handle": "GADGETRONIX-NET",
-    "description": "Gadgetronix.Net Ltd",
+    "handle": "BLINK-BY-GX-AS",
+    "description": "blink by GadgetroniX",
     "countryCode": "TZ",
     "country": "Tanzania",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

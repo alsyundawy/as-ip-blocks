@@ -1,4 +1,4 @@
-# AS37228 (OLLEH-RWANDA-NETWORKS)
-# KT RWANDA NETWORK Ltd
+# AS37228 (NBB)
+# National Backbone Project
 #
 2c0f:3880::/32

@@ -1,5 +1,5 @@
 # AS12455 (JAMBONET)
-# Kenyan Post & Telecommunications Company / Telkom Kenya Ltd
+# Jambonet Autonomous System
 #
 62.24.96.0/19
 102.166.0.0/15

@@ -1,5 +1,5 @@
 # AS16637 (MTNNS-AS)
-# MTN SA
+# MTN Network Solutions
 #
 41.112.0.0/12
 41.181.0.0/16

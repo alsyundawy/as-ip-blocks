@@ -2,11 +2,11 @@
   "asn": 36259,
   "metadata": {
     "handle": "AS-NALCO-NA",
-    "description": "Ecolab Inc.",
+    "description": "Proxy registered for ECOLAB",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

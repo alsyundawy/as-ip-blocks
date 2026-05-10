@@ -1,12 +1,12 @@
 {
   "asn": 37249,
   "metadata": {
-    "handle": "CWHOUSE",
-    "description": "Computer Warehouse group",
+    "handle": "CWG-AS",
+    "description": "CWG ASN",
     "countryCode": "NG",
     "country": "Nigeria",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

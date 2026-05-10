@@ -2,11 +2,11 @@
   "asn": 37585,
   "metadata": {
     "handle": "NSGB",
-    "description": "Qatar National Bank Al Ahli (QNB AA)",
+    "description": "NSGB",
     "countryCode": "EG",
     "country": "Egypt",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

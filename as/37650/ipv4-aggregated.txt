@@ -1,4 +1,4 @@
-# AS37650 (CM-VALUE-AS)
+# AS37650 (CM-VALUE-ADDED-SERVICES)
 # CM Value Added Services (Pty) Ltd
 #
 154.66.200.0/22

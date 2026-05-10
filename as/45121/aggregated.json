@@ -1,12 +1,12 @@
 {
   "asn": 45121,
   "metadata": {
-    "handle": "EMS-AS-AP",
-    "description": "Enterprise Managed Services Sdn. Bhd.",
+    "handle": "MYKRISNET-AP",
+    "description": "Proxy-registered aut-num object for GTC's Upstream Requirement",
     "countryCode": "MY",
     "country": "Malaysia",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

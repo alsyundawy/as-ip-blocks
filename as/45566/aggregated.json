@@ -1,8 +1,8 @@
 {
   "asn": 45566,
   "metadata": {
-    "handle": "GSPL-AS-AP",
-    "description": "Google Singapore Pte. Ltd.",
+    "handle": "GOOGLE-CORP-APAC-AS-AP",
+    "description": "Google Corporate",
     "countryCode": "SG",
     "country": "Singapore",
     "origin": "authoritative",

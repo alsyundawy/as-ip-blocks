@@ -1,4 +1,4 @@
-# AS327906 (EMBARQ)
+# AS327906 (EMBARQ-LTD)
 # Embarq Limited
 #
 102.217.144.0/22

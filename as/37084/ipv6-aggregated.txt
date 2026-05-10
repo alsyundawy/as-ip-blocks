@@ -1,4 +1,4 @@
 # AS37084 (SIMBANET-TZ)
-# Simbanet (T) Limited
+# Simbanet (T) Ltd
 #
 2001:4258::/32

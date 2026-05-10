@@ -1,13 +1,13 @@
 {
   "asn": 37442,
   "metadata": {
-    "handle": "AS37442",
-    "description": "Unknown AS 37442",
+    "handle": "ZARNET",
+    "description": "Maintainer",
     "countryCode": null,
     "country": null,
-    "origin": "none",
-    "category": null,
-    "networkRole": null
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "41.57.124.0/22" ],

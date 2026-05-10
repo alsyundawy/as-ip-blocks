@@ -1,5 +1,5 @@
 # AS30985 (IKATELNET)
-# Orange Mali SA
+# IKATEL SA. Service Provider in Mali
 #
 41.73.96.0/19
 41.221.176.0/20

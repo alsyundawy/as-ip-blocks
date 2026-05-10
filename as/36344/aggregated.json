@@ -2,11 +2,11 @@
   "asn": 36344,
   "metadata": {
     "handle": "ADVAN-CAST",
-    "description": "Virtuozzo Inc.",
+    "description": "US-AS36344",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

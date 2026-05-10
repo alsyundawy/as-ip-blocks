@@ -1,12 +1,12 @@
 {
   "asn": 327852,
   "metadata": {
-    "handle": "TISPA-AIXP-MNGNT",
-    "description": "TISPA - Tanzania Internet Service Providers Association",
+    "handle": "AS-AIXP-MGT",
+    "description": "TIX",
     "countryCode": "TZ",
     "country": "Tanzania",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

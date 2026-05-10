@@ -2,11 +2,11 @@
   "asn": 16907,
   "metadata": {
     "handle": "ISPKENYA",
-    "description": "Wananchi Group (Kenya) Limited",
+    "description": "ISPKENYA",
     "countryCode": "KE",
     "country": "Kenya",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

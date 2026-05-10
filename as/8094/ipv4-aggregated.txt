@@ -1,5 +1,5 @@
 # AS8094 (PUKNET)
-# North West University
+# PUKNET
 #
 143.160.0.0/19
 143.160.32.0/20

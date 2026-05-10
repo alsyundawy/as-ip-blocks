@@ -1,8 +1,8 @@
 {
   "asn": 62571,
   "metadata": {
-    "handle": "IMPERVA-INC-US-SJ-COLO",
-    "description": "IMPERVA INC",
+    "handle": "AS-ARIN-RIPE",
+    "description": "AS Number from ARIN which uses also for RIPE Resources",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

@@ -1,12 +1,12 @@
 {
   "asn": 395164,
   "metadata": {
-    "handle": "NORTHERNLIGHT",
-    "description": "Northern Light Single Point LLC",
+    "handle": "AS-RIPE-NCC",
+    "description": "RIPE-NCC NETWORKS",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

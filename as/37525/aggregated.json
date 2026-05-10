@@ -1,12 +1,12 @@
 {
   "asn": 37525,
   "metadata": {
-    "handle": "BYTES-CON-1",
-    "description": "Altron TMT (Pty) Ltd",
+    "handle": "BYTESNET-AS",
+    "description": "BYTESNET Autonomous System",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

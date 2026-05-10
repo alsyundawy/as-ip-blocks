@@ -1,12 +1,12 @@
 {
   "asn": 37479,
   "metadata": {
-    "handle": "TELVIVA-AS",
-    "description": "Telviva (Pty) Ltd",
+    "handle": "CONNECTION-TELECOM",
+    "description": "Connection Telecom",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

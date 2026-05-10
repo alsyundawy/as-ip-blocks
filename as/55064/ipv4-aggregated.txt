@@ -1,4 +1,4 @@
-# AS55064 (ARISTAASN1)
+# AS55064 (ARISTANETWORKS)
 # Arista Networks Inc.
 #
 74.123.29.0/24

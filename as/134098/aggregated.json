@@ -2,11 +2,11 @@
   "asn": 134098,
   "metadata": {
     "handle": "SYLVEON-AS-AP",
-    "description": "Eons Data Communications Limited",
+    "description": "Licson Internet Service",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

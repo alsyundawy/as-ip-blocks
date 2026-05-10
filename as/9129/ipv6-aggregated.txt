@@ -1,4 +1,4 @@
-# AS9129 (KE-NET2000)
-# MTN SA
+# AS9129 (KE-MTN-B)
+# MTN Business Kenya
 #
 2001:4368::/32

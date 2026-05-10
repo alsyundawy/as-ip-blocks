@@ -1,5 +1,5 @@
 # AS37170 (UNILAG)
-# University of Lagos
+# University of Lagos Nigeria
 #
 196.45.48.0/20
 196.220.240.0/20

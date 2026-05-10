@@ -1,4 +1,4 @@
-# AS37584 (FASTNETAS)
+# AS37584 (FASTNET-LTD-AS)
 # Fast Network Ltd
 #
 41.222.72.0/22

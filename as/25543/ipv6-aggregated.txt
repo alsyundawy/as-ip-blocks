@@ -1,4 +1,4 @@
 # AS25543 (FASONET-AS)
-# ONATEL (Office National des Telecommunications PTT)
+# ONATEL/FasoNet's Autonomous System ONATEL BURKINA
 #
 2c0f:fd80::/32

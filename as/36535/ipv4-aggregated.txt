@@ -1,4 +1,4 @@
-# AS36535 (HUDSON-RIVER-TRADING-LLC-36535)
-# Hudson River Trading LLC
+# AS36535 (SUNTRADING)
+# administrative copy of ARIN registered ASN.
 #
 204.152.180.0/23

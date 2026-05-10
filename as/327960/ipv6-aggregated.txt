@@ -1,4 +1,4 @@
-# AS327960 (PC-MANIACS)
-# PC Maniacs (Pty) Ltd
+# AS327960 (PC-MANIACS-01)
+# PC-MANIACS-CC
 #
 2c0f:f2a8::/32

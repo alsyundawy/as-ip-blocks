@@ -1,12 +1,12 @@
 {
   "asn": 8068,
   "metadata": {
-    "handle": "MICROSOFT-CORP-MSN-AS-BLOCK",
-    "description": "Microsoft Corporation",
+    "handle": "MICROSOFTEU",
+    "description": "Microsoft European Data Center",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -2,11 +2,11 @@
   "asn": 45753,
   "metadata": {
     "handle": "NETSEC-HK",
-    "description": "Netsec Limited",
+    "description": "NETSEC NOC",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

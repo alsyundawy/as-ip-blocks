@@ -1,12 +1,12 @@
 {
   "asn": 394105,
   "metadata": {
-    "handle": "AMTRUST-NA",
-    "description": "AmTrust North America Inc.",
+    "handle": "AMTRUST-INTERNET-ASN",
+    "description": "AmTrust Internet Facing ASN",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

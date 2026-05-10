@@ -2,11 +2,11 @@
   "asn": 8094,
   "metadata": {
     "handle": "PUKNET",
-    "description": "North West University",
+    "description": "PUKNET",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "education_research",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

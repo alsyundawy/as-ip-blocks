@@ -1,12 +1,12 @@
 {
   "asn": 45240,
   "metadata": {
-    "handle": "NETWIDE-AU-AS-AP",
-    "description": "Realestate.com.au Limited",
+    "handle": "REA-GROUP",
+    "description": "REA Group Richmond Victoria AU",
     "countryCode": "AU",
     "country": "Australia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,4 +1,4 @@
-# AS14610 (INTEGRAL)
+# AS14610 (INTEGRAL-AS)
 # Integral Development Corp.
 #
 8.2.118.0/23

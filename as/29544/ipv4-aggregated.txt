@@ -1,4 +1,4 @@
-# AS29544 (MAURITEL)
+# AS29544 (MAURITEL-AS)
 # Mauritanian Telecommunication Company
 #
 41.188.64.0/18

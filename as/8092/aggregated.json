@@ -1,12 +1,12 @@
 {
   "asn": 8092,
   "metadata": {
-    "handle": "AMH",
-    "description": "Access Media Holdings LLC",
+    "handle": "YGNITION",
+    "description": "Ygnition Networks",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

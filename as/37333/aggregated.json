@@ -2,11 +2,11 @@
   "asn": 37333,
   "metadata": {
     "handle": "COMTEL",
-    "description": "Comtel Communications",
+    "description": "Comtel-ISP",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "content_network"
   },
   "prefixes": {

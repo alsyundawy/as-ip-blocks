@@ -1,5 +1,5 @@
-# AS52890 (CENTRO-INTEGRADO-TELEMATICA)
-# Centro Integrado de Telemática do Exército
+# AS52890 (CITEXBR)
+# Centro Integrado de Telematica do Exarcito
 #
 177.8.80.0/20
 189.38.64.0/20

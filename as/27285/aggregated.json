@@ -1,12 +1,12 @@
 {
   "asn": 27285,
   "metadata": {
-    "handle": "ADAM-ASN",
-    "description": "Oppenheimer Capital/Quest for Value",
+    "handle": "ALLIANZ-UK-ASN",
+    "description": "Proxy registered from ARIN on behalf of Allianz",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

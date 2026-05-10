@@ -1,12 +1,12 @@
 {
   "asn": 40454,
   "metadata": {
-    "handle": "MMUIA-NET-15",
-    "description": "Manning Municipal Utilities",
+    "handle": "CMCTEL-AS",
+    "description": "CMCTELECOM",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "government_admin",
+    "category": "isp",
     "networkRole": "access_provider"
   },
   "prefixes": {

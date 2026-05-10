@@ -1,5 +1,5 @@
 # AS14988 (BTC-GATE1)
-# Botswana Telecommunications Corporation
+# BOTSWANA TELECOMMUNICATIONS CORPORATION
 #
 41.78.92.0/22
 102.205.122.0/24

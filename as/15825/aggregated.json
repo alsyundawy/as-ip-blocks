@@ -2,11 +2,11 @@
   "asn": 15825,
   "metadata": {
     "handle": "GDC-ASN",
-    "description": "Ghana Dot Com Ltd",
+    "description": "Network Computer Systems Automomous System",
     "countryCode": "GH",
     "country": "Ghana",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

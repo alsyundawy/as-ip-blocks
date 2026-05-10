@@ -1,4 +1,4 @@
-# AS37425 (SOMCABLE)
-# SomCable
+# AS37425 (SOCMABLE)
+# Somcable SARL
 #
 2c0f:fb38::/32

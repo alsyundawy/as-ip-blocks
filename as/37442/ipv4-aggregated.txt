@@ -1,4 +1,4 @@
-# AS37442 (AS37442)
-# Unknown AS 37442
+# AS37442 (ZARNET)
+# Maintainer
 #
 41.57.124.0/22

@@ -1,5 +1,5 @@
 # AS8100 (ASN-QUADRANET-GLOBAL)
-# QuadraNet Enterprises LLC
+# QuadraNet Inc
 #
 173.205.86.0/23
 190.9.32.0/20

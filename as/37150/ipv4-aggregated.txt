@@ -1,5 +1,5 @@
 # AS37150 (XISASN)
-# Xnet Internet Services (Pty) Ltd
+# EasyWeb Internet ASN
 #
 102.129.96.0/19
 196.40.176.0/20

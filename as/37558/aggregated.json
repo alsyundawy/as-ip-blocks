@@ -2,11 +2,11 @@
   "asn": 37558,
   "metadata": {
     "handle": "LITC",
-    "description": "LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY",
+    "description": "Libyan International Teleconnunication Company",
     "countryCode": "LY",
     "country": "Libya",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

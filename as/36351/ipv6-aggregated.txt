@@ -1,5 +1,5 @@
 # AS36351 (SOFTLAYER)
-# IBM Cloud
+# SoftLayer Technologies Inc.
 #
 2001:df5:9000::/48
 2401:c900:1000::/39

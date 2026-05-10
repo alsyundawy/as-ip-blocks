@@ -1,12 +1,12 @@
 {
   "asn": 37194,
   "metadata": {
-    "handle": "VOIX-NETWORKS",
-    "description": "Voix Networks Ltd",
+    "handle": "VOIXNETWORKS",
+    "description": "VoixNETWORKS",
     "countryCode": "NG",
     "country": "Nigeria",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

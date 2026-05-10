@@ -1,8 +1,8 @@
 {
   "asn": 328001,
   "metadata": {
-    "handle": "SATSOFT",
-    "description": "Satsoft cc",
+    "handle": "AS-SATSOFT",
+    "description": "Satellite Software",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",

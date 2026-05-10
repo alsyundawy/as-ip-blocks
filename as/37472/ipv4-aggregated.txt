@@ -1,5 +1,5 @@
-# AS37472 (NIGCOMSAT)
-# Nigerian Communications Satellite Ltd
+# AS37472 (NIGCOMSAT-AS)
+# NIGCOMSAT Autonomous System
 #
 41.57.120.0/22
 160.226.0.0/18

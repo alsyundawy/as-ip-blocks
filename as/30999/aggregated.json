@@ -1,8 +1,8 @@
 {
   "asn": 30999,
   "metadata": {
-    "handle": "EMTEL-AS-AP",
-    "description": "EMTEL LIMITED",
+    "handle": "EMTEL-ASN",
+    "description": "Emtel is Mobile and Internet Service Provider in Mauritius",
     "countryCode": "MU",
     "country": "Mauritius",
     "origin": "authoritative",

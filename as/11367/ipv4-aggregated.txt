@@ -1,4 +1,4 @@
-# AS11367 (ICENET)
+# AS11367 (WORLDNETPR)
 # WorldNet Telecommunications LLC
 #
 24.48.220.0/23

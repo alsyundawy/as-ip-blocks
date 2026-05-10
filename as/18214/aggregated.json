@@ -1,12 +1,12 @@
 {
   "asn": 18214,
   "metadata": {
-    "handle": "TELUS-INTERNATIONAL",
-    "description": "TELUS International Philippines Inc",
+    "handle": "OUT-OF-REGION-AS18214",
+    "description": "TELUS INTERNATIONAL Philippines",
     "countryCode": "PH",
     "country": "Philippines",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,8 +1,8 @@
 {
   "asn": 7786,
   "metadata": {
-    "handle": "NPAC",
-    "description": "NeuStar Inc.",
+    "handle": "NEUSTAR-REGISTRY",
+    "description": "Neustar gTLD Registry Services",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

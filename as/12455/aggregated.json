@@ -2,11 +2,11 @@
   "asn": 12455,
   "metadata": {
     "handle": "JAMBONET",
-    "description": "Kenyan Post & Telecommunications Company / Telkom Kenya Ltd",
+    "description": "Jambonet Autonomous System",
     "countryCode": "KE",
     "country": "Kenya",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "access_provider"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 327951,
   "metadata": {
-    "handle": "AS-INCM",
-    "description": "Instituto Nacional das Comunicacoes de Mozambique",
+    "handle": "INCM",
+    "description": "INCM Network",
     "countryCode": "MZ",
     "country": "Mozambique",
     "origin": "authoritative",
-    "category": "education_research",
+    "category": "government_admin",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,5 +1,5 @@
 # AS20928 (NOOR-AS)
-# The Noor Group
+# Noor Data Networks ASN
 #
 41.187.0.0/16
 197.246.0.0/16

@@ -1,12 +1,12 @@
 {
   "asn": 6,
   "metadata": {
-    "handle": "BULL-HN",
-    "description": "ATOS IT Solutions and Services Inc.",
+    "handle": "BULL-NETWORK",
+    "description": "for further information please visit www.bull.com",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

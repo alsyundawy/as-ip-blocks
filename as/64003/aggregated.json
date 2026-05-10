@@ -1,12 +1,12 @@
 {
   "asn": 64003,
   "metadata": {
-    "handle": "UKHPL-SG",
-    "description": "UOB Kay Hian Private Limited",
+    "handle": "UKHPLSG-AS",
+    "description": "8 Anthony Road",
     "countryCode": "SG",
     "country": "Singapore",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

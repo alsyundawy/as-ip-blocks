@@ -1,5 +1,5 @@
-# AS30619 (TMCEL-MOCAMBIQUE)
-# TMCEL - Moçambique Telecom SA
+# AS30619 (TDM)
+# Telecomunica??es de Mo?ambique
 #
 41.138.225.0/24
 41.138.236.0/24

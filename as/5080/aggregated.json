@@ -1,8 +1,8 @@
 {
   "asn": 5080,
   "metadata": {
-    "handle": "ARAMCO-AS",
-    "description": "Aramco",
+    "handle": "ARAMCO",
+    "description": "ARAMCO AS number",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

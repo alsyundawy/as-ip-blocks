@@ -1,5 +1,5 @@
-# AS7786 (NPAC)
-# NeuStar Inc.
+# AS7786 (NEUSTAR-REGISTRY)
+# Neustar gTLD Registry Services
 #
 156.154.16.0/22
 156.154.24.0/23

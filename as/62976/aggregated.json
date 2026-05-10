@@ -1,8 +1,8 @@
 {
   "asn": 62976,
   "metadata": {
-    "handle": "CAMPLINK",
-    "description": "Camplink",
+    "handle": "ASN-CAMPLINK",
+    "description": "Camplink AS",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

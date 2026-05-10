@@ -1,5 +1,5 @@
-# AS327712 (ATM)
-# Telecom Algeria
+# AS327712 (MOBILIS-AS)
+# Mobilis AS Number
 #
 154.121.0.0/16
 213.140.59.0/24

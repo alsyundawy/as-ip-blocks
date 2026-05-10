@@ -1,4 +1,4 @@
-# AS21769 (AS-COLOAM)
+# AS21769 (COLOCATION-AMERICA)
 # Colocation America Corporation
 #
 2602:fed3:6::/48

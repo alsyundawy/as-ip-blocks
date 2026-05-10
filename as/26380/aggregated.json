@@ -1,12 +1,12 @@
 {
   "asn": 26380,
   "metadata": {
-    "handle": "MASTER-7-AS",
-    "description": "MasterCard Technologies LLC",
+    "handle": "AS-26380",
+    "description": "MasterCard Worldwide",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

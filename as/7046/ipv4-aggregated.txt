@@ -1,4 +1,4 @@
-# AS7046 (RFC2270-UUNET-CUSTOMER)
+# AS7046 (VZB)
 # Verizon Business
 #
 12.219.9.0/24

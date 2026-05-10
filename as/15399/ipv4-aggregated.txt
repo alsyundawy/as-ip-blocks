@@ -1,5 +1,5 @@
 # AS15399 (WANANCHI-KE)
-# Wananchi Group (Kenya) Limited
+# Wananchi Group (K) LTD
 #
 41.212.0.0/17
 62.8.64.0/19

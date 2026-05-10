@@ -1,4 +1,4 @@
-# AS9466 (UUNET-JP-AP)
+# AS9466 (VZB)
 # Verizon Japan Limited
 #
 2401:6bff::/40

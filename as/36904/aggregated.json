@@ -1,12 +1,12 @@
 {
   "asn": 36904,
   "metadata": {
-    "handle": "CRAFT-SILICON",
-    "description": "Craft Silicon Ltd",
+    "handle": "BESTCOM",
+    "description": "Best communication AS number",
     "countryCode": "KE",
     "country": "Kenya",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

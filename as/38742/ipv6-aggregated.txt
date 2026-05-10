@@ -1,3 +1,3 @@
-# AS38742 (AWCC-AS-AP)
-# Afghan Wireless Communication Company
+# AS38742 (AWCC-PTCL-AS-AP)
+# AWCC
 #

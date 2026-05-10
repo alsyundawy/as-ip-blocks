@@ -1,4 +1,4 @@
-# AS27725 (EMPRESA-TELECOMUNICACIONES-CUBA)
-# Empresa de Telecomunicaciones de Cuba S.A.
+# AS27725 (ETECSA-AS)
+# NEWCOM customer mirror object from ARIN
 #
 2001:1358::/32

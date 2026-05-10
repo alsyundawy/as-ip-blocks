@@ -1,8 +1,8 @@
 {
   "asn": 28017,
   "metadata": {
-    "handle": "AMS-IX-CARIBBEAN",
-    "description": "AMS-IX Caribbean",
+    "handle": "CAR-IX1",
+    "description": "Carribean Internet Exchange (CAR-IX) Peering AS",
     "countryCode": "CW",
     "country": "Curaçao",
     "origin": "authoritative",

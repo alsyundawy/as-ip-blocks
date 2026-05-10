@@ -1,8 +1,8 @@
 {
   "asn": 327922,
   "metadata": {
-    "handle": "PERLCOM-ISPOT",
-    "description": "Perlcom CC T/A iSPOT",
+    "handle": "ISPOT-ZA",
+    "description": "iSpot WISP",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",

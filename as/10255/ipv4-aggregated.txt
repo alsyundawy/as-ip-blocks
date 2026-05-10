@@ -1,4 +1,4 @@
-# AS10255 (SINISTER)
+# AS10255 (CBC)
 # Sinister and Solitary
 #
 192.31.227.0/24

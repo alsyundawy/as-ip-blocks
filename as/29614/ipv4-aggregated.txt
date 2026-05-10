@@ -1,5 +1,5 @@
 # AS29614 (GHANATEL-AS)
-# Ghana Telecommunications Company Limited
+# VODAFONE GHANA AS INTERNATIONAL TRANSIT
 #
 41.66.192.0/18
 41.155.0.0/17

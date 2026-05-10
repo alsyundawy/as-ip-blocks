@@ -1,12 +1,12 @@
 {
   "asn": 37140,
   "metadata": {
-    "handle": "ZAIN-AS",
-    "description": "Airtel Ghana Limited",
+    "handle": "ZAIN-GHANA-AS",
+    "description": "zain Ghana AS",
     "countryCode": "GH",
     "country": "Ghana",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

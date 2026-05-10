@@ -1,4 +1,4 @@
 # AS37150 (XISASN)
-# Xnet Internet Services (Pty) Ltd
+# EasyWeb Internet ASN
 #
 2c0f:fdf0::/32

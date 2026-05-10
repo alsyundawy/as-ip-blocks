@@ -1,13 +1,13 @@
 {
   "asn": 327933,
   "metadata": {
-    "handle": "AS327933",
-    "description": "Unknown AS 327933",
+    "handle": "GROUPE-TELECOM-SPRL",
+    "description": "GROUPE TELECOM SPRL",
     "countryCode": null,
     "country": null,
-    "origin": "none",
-    "category": null,
-    "networkRole": null
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "41.242.128.0/23", "41.242.131.0/24" ],

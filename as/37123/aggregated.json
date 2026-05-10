@@ -1,12 +1,12 @@
 {
   "asn": 37123,
   "metadata": {
-    "handle": "TELCO-ZW",
-    "description": "Telecontract Pvt Ltd",
+    "handle": "TELECONTRACT-ZIMBABWE",
+    "description": "Telecontract Zim ASN from AFRINIC",
     "countryCode": "ZW",
     "country": "Zimbabwe",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

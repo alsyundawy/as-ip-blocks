@@ -1,5 +1,5 @@
 # AS26057 (MEDIAOCEAN)
-# Mediaocean LLC
+# This is a Proxy Object to allow Routing via RIPE Policies
 #
 2602:fbde::/48
 2602:fbde:4::/47

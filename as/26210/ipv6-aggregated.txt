@@ -1,4 +1,4 @@
-# AS26210 (AXS-BOLIVIA-S-A)
-# AXS Bolivia S. A.
+# AS26210 (AXS-BLV)
+# Divinetworks for BLV
 #
 2800:88::/32

@@ -1,5 +1,5 @@
-# AS327901 (LEVEL7-AS)
-# Level 7 Wireless (Pty) Ltd
+# AS327901 (NET1337)
+# Level-7 Internet PTY LTD
 #
 45.220.0.0/19
 102.141.128.0/18

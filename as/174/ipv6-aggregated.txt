@@ -1,5 +1,5 @@
-# AS174 (COGENT-174)
-# Cogent Communications LLC
+# AS174 (COGENT)
+# Cogent/PSI
 #
 2001:550::/32
 2001:978::/32

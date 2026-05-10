@@ -2,11 +2,11 @@
   "asn": 23197,
   "metadata": {
     "handle": "GENESYS-SAAS",
-    "description": "Genesys Laboratories Canada Inc.",
+    "description": "UK",
     "countryCode": "CA",
     "country": "Canada",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,8 +1,8 @@
 {
   "asn": 61574,
   "metadata": {
-    "handle": "UNIVERSIDADE-FEDERAL-MINAS",
-    "description": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+    "handle": "PEERING-TESTBED-AS61574",
+    "description": "Columbia/UFMG PEERING Research Testbed",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",

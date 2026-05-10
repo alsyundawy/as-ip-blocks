@@ -1,12 +1,12 @@
 {
   "asn": 327757,
   "metadata": {
-    "handle": "ICT-DYNAMIX",
-    "description": "ICT DYNAMIX (Pty) Limited",
+    "handle": "ICTDYNAMIX",
+    "description": "ICTD-ASN",
     "countryCode": "BW",
     "country": "Botswana",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

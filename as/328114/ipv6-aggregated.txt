@@ -1,4 +1,4 @@
-# AS328114 (COMSOL-NETWORKS-AS)
+# AS328114 (COMSOL)
 # Comsol Networks (PTY) Ltd
 #
 2c0f:edd8::/32

@@ -1,13 +1,13 @@
 {
   "asn": 37320,
   "metadata": {
-    "handle": "AS37320",
-    "description": "Unknown AS 37320",
+    "handle": "NLA-AS",
+    "description": "-",
     "countryCode": null,
     "country": null,
-    "origin": "none",
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "41.77.64.0/21" ],

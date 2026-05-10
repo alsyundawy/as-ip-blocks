@@ -1,4 +1,4 @@
 # AS37558 (LITC)
-# LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY
+# Libyan International Teleconnunication Company
 #
 2c0f:3200::/32

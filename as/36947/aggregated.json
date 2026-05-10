@@ -1,12 +1,12 @@
 {
   "asn": 36947,
   "metadata": {
-    "handle": "ALGTEL-AS",
-    "description": "Telecom Algeria",
+    "handle": "FAWRI-AS",
+    "description": "FAWRI",
     "countryCode": "DZ",
     "country": "Algeria",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 37137,
   "metadata": {
-    "handle": "VODACOM-BUSINESS-AFRICA",
-    "description": "Vodacom Business Africa Group (PTY) Ltd",
+    "handle": "ASGWCOMMSKENYA",
+    "description": "AS Gatewaycomms Kenya",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

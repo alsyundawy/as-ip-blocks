@@ -1,13 +1,13 @@
 {
   "asn": 36893,
   "metadata": {
-    "handle": "AS36893",
-    "description": "Unknown AS 36893",
+    "handle": "DURAVITEG-AS",
+    "description": "Duravit Egypt Autonomous System",
     "countryCode": null,
     "country": null,
-    "origin": "none",
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "196.221.1.0/24" ],

@@ -1,8 +1,8 @@
 {
   "asn": 37124,
   "metadata": {
-    "handle": "TIGO-RW-AS",
-    "description": "Airtel Rwanda Ltd",
+    "handle": "TIGO-AS",
+    "description": "TIGO Rwanda",
     "countryCode": "RW",
     "country": "Rwanda",
     "origin": "authoritative",

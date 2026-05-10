@@ -1,4 +1,4 @@
-# AS137819 (BEEKS-AS-AP)
+# AS137819 (BEEKS-SGX)
 # Beeks Financial Cloud (Japan)
 #
 103.100.74.0/23

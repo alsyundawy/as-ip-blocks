@@ -1,5 +1,5 @@
-# AS40146 (RTCONN-LAS)
-# Right Connection Inc.
+# AS40146 (VIRTELA-CUST-VILCHI1-NATIONALMARINE)
+# Virtela Communications
 #
 104.166.110.0/24
 163.123.160.0/23

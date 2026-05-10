@@ -1,4 +1,4 @@
-# AS136258 (ONEPROVIDER-AS)
+# AS136258 (ONEPROVIDER-AS-AP)
 # BrainStorm Network Inc
 #
 2a11:840:1::/48

@@ -1,4 +1,4 @@
-# AS20258 (ANALOG-DEVICES)
+# AS20258 (AS-ANALOG)
 # Analog Devices Inc.
 #
 137.71.45.0/24

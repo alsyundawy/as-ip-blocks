@@ -1,4 +1,4 @@
 # AS23634 (E-DNS-JP)
-# WIDE Project
+# One of JP DNS Servers
 #
 2001:200:c000::/35

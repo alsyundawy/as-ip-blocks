@@ -1,5 +1,5 @@
 # AS327750 (JENNY-INTERNET)
-# JENNY INTERNET (PTY) LTD
+# Jenny Internet cc
 #
 2c0f:3480::/32
 2c0f:e8e8::/32

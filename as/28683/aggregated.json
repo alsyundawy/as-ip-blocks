@@ -1,12 +1,12 @@
 {
   "asn": 28683,
   "metadata": {
-    "handle": "SBIN",
-    "description": "SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES",
+    "handle": "OPT-NTIC-AS",
+    "description": "Office des Postes et telecommunications du Benin",
     "countryCode": "BJ",
     "country": "Benin",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

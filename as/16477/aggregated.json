@@ -1,12 +1,12 @@
 {
   "asn": 16477,
   "metadata": {
-    "handle": "NCL-203-16477",
-    "description": "Nielsen Consumer LLC",
+    "handle": "ACNIELSEN",
+    "description": "AS for A C Nielsen",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

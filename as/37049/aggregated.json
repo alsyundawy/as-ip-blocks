@@ -2,11 +2,11 @@
   "asn": 37049,
   "metadata": {
     "handle": "SADV",
-    "description": "SADV (Pty) Ltd",
+    "description": "South African Digital Villages",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "government_admin",
     "networkRole": "content_network"
   },
   "prefixes": {

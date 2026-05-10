@@ -1,4 +1,4 @@
-# AS52485 (NETWORKSDELMANANACOM)
+# AS52485 (AS52485)
 # networksdelmanana.com
 #
 132.255.132.0/22

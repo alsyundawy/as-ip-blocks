@@ -1,4 +1,4 @@
-# AS27932 (REDES-TELECOMUNICACIONES)
+# AS27932 (REYTEL-ASN)
 # Redes y Telecomunicaciones
 #
 2800:6a0::/32

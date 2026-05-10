@@ -1,5 +1,5 @@
-# AS62571 (IMPERVA-INC-US-SJ-COLO)
-# IMPERVA INC
+# AS62571 (AS-ARIN-RIPE)
+# AS Number from ARIN which uses also for RIPE Resources
 #
 2a02:e980:1e::/48
 2a02:e982:1e::/48

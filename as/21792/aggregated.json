@@ -1,12 +1,12 @@
 {
   "asn": 21792,
   "metadata": {
-    "handle": "FLAGLERHOSPITALINC",
-    "description": "Flagler Hospital Inc",
+    "handle": "WORKGROUPVIDEO",
+    "description": "Workgroupvideo ASN (ARIN)",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

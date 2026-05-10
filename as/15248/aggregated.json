@@ -2,11 +2,11 @@
   "asn": 15248,
   "metadata": {
     "handle": "METASWITCH-AS1",
-    "description": "Metaswitch Networks Corp.",
+    "description": "Metaswitch Networks",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

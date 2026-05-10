@@ -1,4 +1,4 @@
-# AS14210 (EDGECAST)
+# AS14210 (EDGECAST-DCA)
 # Edgecast Inc.
 #
 64.12.192.0/24

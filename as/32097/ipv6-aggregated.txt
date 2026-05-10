@@ -1,4 +1,4 @@
-# AS32097 (WII)
+# AS32097 (WHOLESALE-INTERNET)
 # WholeSale Internet Inc.
 #
 2001:4858::/32

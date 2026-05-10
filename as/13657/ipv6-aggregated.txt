@@ -1,4 +1,4 @@
-# AS13657 (E-GATE-COMMUNICATIONS)
-# E-Gate Communications Inc.
+# AS13657 (EGATE-NETWORKS)
+# E-Gate Networks
 #
 2001:4900::/32

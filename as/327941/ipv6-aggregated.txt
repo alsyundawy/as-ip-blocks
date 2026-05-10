@@ -1,4 +1,4 @@
 # AS327941 (SIMBANET-MALAWI)
-# SIMBANET MALAWI LIMITED
+# Simbanet Malawi Limited
 #
 2c0f:f510::/32

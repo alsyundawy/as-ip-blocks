@@ -1,12 +1,12 @@
 {
   "asn": 9683,
   "metadata": {
-    "handle": "SFMC-AS",
-    "description": "Seoul Facilities Corporation",
+    "handle": "SK-TELECOM",
+    "description": "21/F Yuetan Mansion No. 2",
     "countryCode": "KR",
     "country": "South Korea",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

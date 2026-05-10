@@ -1,5 +1,5 @@
 # AS55536 (PSWITCH-HK)
-# Pacswitch Globe Telecom Limited
+# PACSWITCH IP NETWORK
 #
 27.122.13.0/24
 27.122.15.0/24

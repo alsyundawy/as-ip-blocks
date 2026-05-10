@@ -2,11 +2,11 @@
   "asn": 25605,
   "metadata": {
     "handle": "SCANSAFE",
-    "description": "Cisco OpenDNS LLC",
+    "description": "Cisco Scansafe Division",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

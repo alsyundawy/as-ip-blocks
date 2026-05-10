@@ -1,12 +1,12 @@
 {
   "asn": 37024,
   "metadata": {
-    "handle": "YOPROV",
-    "description": "YoAfrica (Pvt) Ltd",
+    "handle": "YO-AS37024",
+    "description": "YoAfrica-Prov",
     "countryCode": "ZW",
     "country": "Zimbabwe",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

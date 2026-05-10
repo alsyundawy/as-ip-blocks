@@ -1,12 +1,12 @@
 {
   "asn": 1766,
   "metadata": {
-    "handle": "ASN-EXXONMOBIL-US",
-    "description": "Exxon Mobil Corporation",
+    "handle": "EXXON-AS",
+    "description": "Dummy aut-num object for AS1766",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

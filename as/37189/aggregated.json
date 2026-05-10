@@ -1,12 +1,12 @@
 {
   "asn": 37189,
   "metadata": {
-    "handle": "YOAFRICA3",
-    "description": "YoAfrica (Pvt) Ltd",
+    "handle": "YO-AS37189",
+    "description": "YoAfrica-BYO",
     "countryCode": "ZW",
     "country": "Zimbabwe",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

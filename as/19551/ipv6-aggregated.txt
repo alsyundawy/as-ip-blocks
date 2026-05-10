@@ -1,5 +1,5 @@
 # AS19551 (INCAPSULA)
-# Incapsula Inc
+# Imperva-Cloud
 #
 2a02:e980::/44
 2a02:e980:10::/45

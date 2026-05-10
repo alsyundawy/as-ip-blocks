@@ -1,12 +1,12 @@
 {
   "asn": 22203,
   "metadata": {
-    "handle": "AS22203",
-    "description": "Navitaire LLC",
+    "handle": "NAVITAIRE",
+    "description": "administrative copy of ARIN registered ASN.",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

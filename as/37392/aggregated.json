@@ -2,11 +2,11 @@
   "asn": 37392,
   "metadata": {
     "handle": "SSNIT",
-    "description": "Social Security And National Insurance Trust",
+    "description": "SSNIT ROUTE",
     "countryCode": "GH",
     "country": "Ghana",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

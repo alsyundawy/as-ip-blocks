@@ -1,12 +1,12 @@
 {
   "asn": 11352,
   "metadata": {
-    "handle": "IOMAR-11352",
-    "description": "Iomartcloud Inc.",
+    "handle": "IOMART-US",
+    "description": "iomartcloud inc US hosting",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

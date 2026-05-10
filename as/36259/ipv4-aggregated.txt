@@ -1,4 +1,4 @@
 # AS36259 (AS-NALCO-NA)
-# Ecolab Inc.
+# Proxy registered for ECOLAB
 #
 206.197.60.0/22

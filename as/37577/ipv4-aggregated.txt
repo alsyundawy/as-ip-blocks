@@ -1,5 +1,5 @@
 # AS37577 (ORANGE-BF)
-# Orange Burkina Faso
+# Orange BURKINA FASO S.A.
 #
 102.178.0.0/17
 102.178.128.0/18

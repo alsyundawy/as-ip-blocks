@@ -1,12 +1,12 @@
 {
   "asn": 11319,
   "metadata": {
-    "handle": "DDMINC",
-    "description": "Deseret Digital Media Inc.",
+    "handle": "ACI-AS",
+    "description": "ACI Autonomous System",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

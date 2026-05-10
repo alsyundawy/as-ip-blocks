@@ -1,5 +1,5 @@
 # AS132203 (TENCENT-NET-AP-CN)
-# Shenzhen Tencent Computer Systems Company Limited
+# Tencent Building Kejizhongyi Avenue
 #
 240d:c000:1000::/36
 240d:c000:2000::/35

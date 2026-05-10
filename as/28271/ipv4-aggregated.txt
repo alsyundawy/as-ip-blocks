@@ -1,5 +1,5 @@
-# AS28271 (DATACORPORE-SERVICOS-REPRESENTACOES)
-# DataCorpore Serviços e Representações
+# AS28271 (DATACORPORE-1)
+# DataCorpore Servi?os e Representa??es
 #
 177.47.96.0/19
 177.223.192.0/19

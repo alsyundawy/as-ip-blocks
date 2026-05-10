@@ -1,4 +1,4 @@
-# AS37305 (FON)
-# Frontier Optical Networks Ltd
+# AS37305 (FON-KE)
+# Frontier Optical Networks
 #
 2c0f:fc70::/32

@@ -1,4 +1,4 @@
-# AS14340 (SALESFORCE)
+# AS14340 (SALESFORCE-AS)
 # Salesforce.com Inc.
 #
 13.108.0.0/14

@@ -1,8 +1,8 @@
 {
   "asn": 32034,
   "metadata": {
-    "handle": "NEWCOM-INTL",
-    "description": "SPEEDCAST LATAM INC.",
+    "handle": "NEWCOM-AS",
+    "description": "NEWCOM mirror object from ARIN",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

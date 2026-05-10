@@ -2,11 +2,11 @@
   "asn": 6713,
   "metadata": {
     "handle": "IAM-AS",
-    "description": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+    "description": "Itissalat Al-MAGHRIB",
     "countryCode": "MA",
     "country": "Morocco",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

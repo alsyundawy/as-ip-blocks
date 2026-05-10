@@ -1,4 +1,4 @@
-# AS36924 (GVA-CANALBOX)
+# AS36924 (GVA)
 # GVA Cote d'Ivoire SAS
 #
 41.75.64.0/20

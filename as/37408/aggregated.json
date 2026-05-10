@@ -1,12 +1,12 @@
 {
   "asn": 37408,
   "metadata": {
-    "handle": "NWSC",
-    "description": "National Water And Sewerage Corporation",
+    "handle": "NWSC-UG-1",
+    "description": "NWSC ROUTE SPACE",
     "countryCode": "UG",
     "country": "Uganda",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

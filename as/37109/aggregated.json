@@ -1,8 +1,8 @@
 {
   "asn": 37109,
   "metadata": {
-    "handle": "MYISP-AS",
-    "description": "MyISP Limited",
+    "handle": "MYISP-LIMITED",
+    "description": "Internet service Provider",
     "countryCode": "KE",
     "country": "Kenya",
     "origin": "authoritative",

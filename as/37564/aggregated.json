@@ -2,11 +2,11 @@
   "asn": 37564,
   "metadata": {
     "handle": "WIRULINK",
-    "description": "Wirulink Pty Ltd",
+    "description": "WIRUlink network",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 30982,
   "metadata": {
-    "handle": "CAFENET",
-    "description": "CAFE Informatique et telecommunications",
+    "handle": "CAFETG",
+    "description": "AS de CAFE Informatique",
     "countryCode": "TG",
     "country": "Togo",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

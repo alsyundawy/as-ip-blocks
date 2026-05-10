@@ -1,5 +1,5 @@
-# AS37006 (LIQUIDTELECOMMUNICATIONRWANDA)
-# Liquid Telecommunication Rwanda Limited
+# AS37006 (ASR-37006)
+# Altech Stream Rwanda
 #
 41.60.151.0/24
 41.173.28.0/22

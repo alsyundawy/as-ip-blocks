@@ -1,4 +1,4 @@
-# AS395363 (INFOBLOX-1)
+# AS395363 (INFOBLOX-INC)
 # Infoblox Inc.
 #
 2400:4840::/48

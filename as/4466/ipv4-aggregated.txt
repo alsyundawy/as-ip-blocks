@@ -1,5 +1,5 @@
-# AS4466 (EASYLINK2)
-# AT&T Enterprises LLC
+# AS4466 (ASATTIDNS)
+# AT&T Global Network iDNS Service
 #
 12.80.76.0/24
 12.80.81.0/24

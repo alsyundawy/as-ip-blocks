@@ -1,12 +1,12 @@
 {
   "asn": 134830,
   "metadata": {
-    "handle": "HOST-AS-AP",
-    "description": "Host Universal Pty Ltd",
+    "handle": "INABATE",
+    "description": "inAbate",
     "countryCode": "AU",
     "country": "Australia",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 17660,
   "metadata": {
-    "handle": "DRUKNET-AS",
-    "description": "Bhutan Telecom Ltd",
+    "handle": "BT-BHUTAN",
+    "description": "Divinetworks for BT",
     "countryCode": "BT",
     "country": "Bhutan",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

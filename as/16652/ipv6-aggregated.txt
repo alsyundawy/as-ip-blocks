@@ -1,4 +1,4 @@
-# AS16652 (RISEUP)
+# AS16652 (RISEUP-NETWORKS)
 # Riseup Networks
 #
 2620:13:4000::/48

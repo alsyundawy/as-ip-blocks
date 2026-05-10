@@ -1,4 +1,4 @@
-# AS58744 (BODYTRACE-HK)
+# AS58744 (BTHK)
 # BodyTrace Limited
 #
 2402:9880:100::/40

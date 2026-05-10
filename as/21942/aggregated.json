@@ -1,13 +1,13 @@
 {
   "asn": 21942,
   "metadata": {
-    "handle": "AQUA-RAY-SAS",
-    "description": "Aqua Ray SAS",
-    "countryCode": "FR",
-    "country": "France",
-    "origin": "inferred",
-    "category": null,
-    "networkRole": null
+    "handle": "ON-SEMICONDUCTOR-INC",
+    "description": "ON Semiconductor AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "91.199.164.0/24" ],

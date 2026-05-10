@@ -1,13 +1,13 @@
 {
   "asn": 36928,
   "metadata": {
-    "handle": "AS36928",
-    "description": "Unknown AS 36928",
+    "handle": "SIERRATEL-AS",
+    "description": "Sierratel AS Number",
     "countryCode": null,
     "country": null,
-    "origin": "none",
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "41.205.224.0/19" ],

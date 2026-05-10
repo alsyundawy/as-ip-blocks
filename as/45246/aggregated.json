@@ -2,11 +2,11 @@
   "asn": 45246,
   "metadata": {
     "handle": "ITS-AS-AP",
-    "description": "Unitech Solutions (Pvt.) Ltd",
+    "description": "ITS AS",
     "countryCode": "PK",
     "country": "Pakistan",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

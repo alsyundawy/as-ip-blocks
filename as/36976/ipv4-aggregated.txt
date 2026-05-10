@@ -1,4 +1,4 @@
 # AS36976 (SONANGOL)
-# Sonangol
+# SONANGOL
 #
 41.223.164.0/22

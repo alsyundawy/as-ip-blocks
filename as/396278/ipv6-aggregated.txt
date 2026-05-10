@@ -1,4 +1,4 @@
-# AS396278 (CONNECTEDAF-01)
-# ConnectedAF Limited
+# AS396278 (TELECOMSERVICESNETWORKLIMITED)
+# Telecom Services Network Limited
 #
 2605:440::/32

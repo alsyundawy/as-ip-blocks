@@ -1,4 +1,4 @@
 # AS37061 (SAFARICOM)
-# Safaricom Limited
+# SAFARICOM LIMITED
 #
 2001:43d0::/32

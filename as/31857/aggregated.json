@@ -1,12 +1,12 @@
 {
   "asn": 31857,
   "metadata": {
-    "handle": "ZFP-ASN-1",
-    "description": "Ziply Fiber",
+    "handle": "PTERA",
+    "description": "Ptera Inc ASN",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

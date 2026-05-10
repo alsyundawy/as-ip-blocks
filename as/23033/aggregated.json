@@ -1,8 +1,8 @@
 {
   "asn": 23033,
   "metadata": {
-    "handle": "WOW",
-    "description": "Wowrack.com",
+    "handle": "WOWRACK",
+    "description": "Routing from Hyper to Wowrack",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

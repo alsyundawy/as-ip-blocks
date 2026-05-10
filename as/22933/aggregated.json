@@ -1,12 +1,12 @@
 {
   "asn": 22933,
   "metadata": {
-    "handle": "TCIGATEWAY",
-    "description": "Cable and Wireless Turks and Caicos",
+    "handle": "TURKS",
+    "description": "ASN-TKI",
     "countryCode": "TC",
     "country": "Turks & Caicos Islands",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

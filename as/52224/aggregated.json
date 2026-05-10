@@ -1,7 +1,7 @@
 {
   "asn": 52224,
   "metadata": {
-    "handle": "LACNIC-LATIN-AMERICAN",
+    "handle": "LACNIC-SERVERS-ANYCAST2",
     "description": "LACNIC - Latin American and Caribbean IP address",
     "countryCode": "UY",
     "country": "Uruguay",

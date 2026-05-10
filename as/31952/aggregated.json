@@ -1,12 +1,12 @@
 {
   "asn": 31952,
   "metadata": {
-    "handle": "CAL-NAP-ASN",
-    "description": "Calamos Advisors LLC",
+    "handle": "ASN-CAM-US",
+    "description": "Calamos US Autonomous System",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 37618,
   "metadata": {
-    "handle": "TELEMEDIA-AS",
-    "description": "Telemedia (PTY) Ltd",
+    "handle": "TELEMEDIAZA-AS",
+    "description": "TelemediaZA",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,4 +1,4 @@
-# AS27865 (TECNOLOGIA-WORKOUT)
+# AS27865 (TWKO)
 # Tecnologia WorkOut S.A.
 #
 170.239.28.0/22

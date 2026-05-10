@@ -1,12 +1,12 @@
 {
   "asn": 131271,
   "metadata": {
-    "handle": "ABS-AS-AP",
-    "description": "ABS (HK) Limited",
+    "handle": "ABSATELLITE-AS-AP",
+    "description": "Asia Broadcast Satellite Ltd.",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

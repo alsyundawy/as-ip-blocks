@@ -1,12 +1,12 @@
 {
   "asn": 24568,
   "metadata": {
-    "handle": "CITI-HK-ISP-PEER-AP",
+    "handle": "CITI-BANK",
     "description": "Citigroup N.A.",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

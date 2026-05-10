@@ -1,4 +1,4 @@
-# AS27357 (RACKSPACE)
+# AS27357 (RACKSPACE-IAD)
 # Rackspace Hosting
 #
 23.253.128.0/19

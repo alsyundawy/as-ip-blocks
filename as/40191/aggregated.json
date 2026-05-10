@@ -1,12 +1,12 @@
 {
   "asn": 40191,
   "metadata": {
-    "handle": "AS-PRE2POST-1",
-    "description": "Beanfield Technologies Inc.",
+    "handle": "ZEROFAIL",
+    "description": "ZEROFAIL",
     "countryCode": "CA",
     "country": "Canada",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

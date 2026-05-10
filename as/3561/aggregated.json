@@ -1,8 +1,8 @@
 {
   "asn": 3561,
   "metadata": {
-    "handle": "CENTURYLINK-LEGACY-SAVVIS",
-    "description": "CenturyLink Communications LLC",
+    "handle": "SAVVIS-AS",
+    "description": "SAVVIS-AS3561",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

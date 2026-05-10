@@ -1,4 +1,4 @@
-# AS328271 (SYOKINET-SOLUTIONS-AS)
+# AS328271 (SYOKINET)
 # Syokinet Solutions Limited
 #
 102.22.208.0/21

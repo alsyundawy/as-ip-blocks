@@ -2,11 +2,11 @@
   "asn": 8190,
   "metadata": {
     "handle": "MDNX",
-    "description": "GTT Americas LLC",
+    "description": "MDNX",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

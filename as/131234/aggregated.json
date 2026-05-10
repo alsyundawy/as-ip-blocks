@@ -2,11 +2,11 @@
   "asn": 131234,
   "metadata": {
     "handle": "AEDAS-HK",
-    "description": "Aedas Limited",
+    "description": "31/F One Island East",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

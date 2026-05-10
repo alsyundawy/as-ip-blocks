@@ -1,12 +1,12 @@
 {
   "asn": 133510,
   "metadata": {
-    "handle": "IBPL-AS-AP",
-    "description": "Infinet Broadband Pty Ltd",
+    "handle": "ARIASAT",
+    "description": "AriaSAT Limited",
     "countryCode": "AU",
     "country": "Australia",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

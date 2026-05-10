@@ -1,12 +1,12 @@
 {
   "asn": 27271,
   "metadata": {
-    "handle": "URNA-1",
-    "description": "United Rentals (North America) Inc.",
+    "handle": "DASAWEB",
+    "description": "Web Hosting Services",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

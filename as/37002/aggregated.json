@@ -1,8 +1,8 @@
 {
   "asn": 37002,
   "metadata": {
-    "handle": "REUNICABLE",
-    "description": "Reunicable SAS",
+    "handle": "REUNICABLE-ASN",
+    "description": "Reunicable",
     "countryCode": "RE",
     "country": "Réunion",
     "origin": "authoritative",

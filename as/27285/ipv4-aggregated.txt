@@ -1,5 +1,5 @@
-# AS27285 (ADAM-ASN)
-# Oppenheimer Capital/Quest for Value
+# AS27285 (ALLIANZ-UK-ASN)
+# Proxy registered from ARIN on behalf of Allianz
 #
 168.114.167.0/24
 168.114.254.0/23

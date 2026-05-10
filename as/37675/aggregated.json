@@ -1,12 +1,12 @@
 {
   "asn": 37675,
   "metadata": {
-    "handle": "SKYWIRE",
-    "description": "SkyWire (PTY) LTD",
+    "handle": "SKY-CONNECT-ASN",
+    "description": "Sky-Connect Internet cc",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

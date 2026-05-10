@@ -1,4 +1,4 @@
-# AS13649 (ASN-FLEXENTIAL)
+# AS13649 (OUT-OF-REGION-ARIN)
 # Flexential Colorado Corp.
 #
 2600:3000::/29

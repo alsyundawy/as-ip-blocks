@@ -1,12 +1,12 @@
 {
   "asn": 25627,
   "metadata": {
-    "handle": "BTS-USA",
-    "description": "Business Telecommunications Services Inc",
+    "handle": "BTS",
+    "description": "BTS Global AS",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

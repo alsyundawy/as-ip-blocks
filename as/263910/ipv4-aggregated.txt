@@ -1,4 +1,4 @@
-# AS263910 (GURISAT-GURINET)
+# AS263910 (COREBGP)
 # Gurisat Gurinet Ltda Me
 #
 45.160.240.0/22

@@ -1,4 +1,4 @@
-# AS14297 (ACI-WORLDWIDE)
+# AS14297 (ACI-ARIN-ASN)
 # ACI Worldwide Inc.
 #
 65.198.80.0/22

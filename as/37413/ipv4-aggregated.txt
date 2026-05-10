@@ -1,4 +1,4 @@
 # AS37413 (HYMAX)
-# Hymax Talking Solutions
+# AfricaINX created aut-num for AS37413
 #
 197.159.32.0/19

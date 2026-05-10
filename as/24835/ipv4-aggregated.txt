@@ -1,5 +1,5 @@
 # AS24835 (RAYA-AS)
-# Vodafone Data
+# Vodafone Data - Egypt
 #
 41.68.0.0/15
 62.68.224.0/19

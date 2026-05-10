@@ -1,4 +1,4 @@
-# AS133084 (JISC-AP)
+# AS133084 (JANET-AP)
 # Jisc Services Limited
 #
 103.233.180.0/24

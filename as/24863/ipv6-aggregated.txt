@@ -1,5 +1,5 @@
 # AS24863 (LINKDOTNET-AS)
-# Link Egypt (Link.NET)
+# LINKdotNET AS number
 #
 2a01:c9c0:c01e::/48
 2c0e::/20

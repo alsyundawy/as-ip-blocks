@@ -1,12 +1,12 @@
 {
   "asn": 37069,
   "metadata": {
-    "handle": "MOBINIL",
-    "description": "The Egyptian Company for Mobile Services (Mobinil)",
+    "handle": "MOBINIL-AS",
+    "description": "Mobinil-AS",
     "countryCode": "EG",
     "country": "Egypt",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

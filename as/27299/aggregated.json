@@ -1,12 +1,12 @@
 {
   "asn": 27299,
   "metadata": {
-    "handle": "CIRA-REGISTRY",
-    "description": "CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet",
+    "handle": "AS27299",
+    "description": "CIRA",
     "countryCode": "CA",
     "country": "Canada",
     "origin": "authoritative",
-    "category": "government_admin",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

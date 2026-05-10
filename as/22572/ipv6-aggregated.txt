@@ -1,4 +1,4 @@
-# AS22572 (INFOSAT-IP)
-# Sentech SOC Ltd
+# AS22572 (SENTECH-ZA)
+# Sentech SA Routes
 #
 2c0f:e9e0::/32

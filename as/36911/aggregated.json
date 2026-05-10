@@ -1,13 +1,13 @@
 {
   "asn": 36911,
   "metadata": {
-    "handle": "AS36911",
-    "description": "Unknown AS 36911",
+    "handle": "DOPC-AS-US",
+    "description": "DIRECT ON PC LTD HUB",
     "countryCode": null,
     "country": null,
-    "origin": "none",
-    "category": null,
-    "networkRole": null
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
   },
   "prefixes": {
     "ipv4": [ "41.204.224.0/19" ],

@@ -1,12 +1,12 @@
 {
   "asn": 14490,
   "metadata": {
-    "handle": "NEXAVO",
-    "description": "Nexavo Ltd.",
+    "handle": "VIRTELA-CUST-VCASJC1-EXTREME",
+    "description": "Virtela Communications",
     "countryCode": "CA",
     "country": "Canada",
     "origin": "authoritative",
-    "category": "business",
+    "category": "education_research",
     "networkRole": "stub"
   },
   "prefixes": {

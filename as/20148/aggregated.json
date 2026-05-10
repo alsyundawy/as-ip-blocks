@@ -1,12 +1,12 @@
 {
   "asn": 20148,
   "metadata": {
-    "handle": "VANTIVA-CH",
-    "description": "Vantiva USA Shared Services Inc.",
+    "handle": "TECHNICOLOR-TPN-UK",
+    "description": "Technicolor Production Network UK",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

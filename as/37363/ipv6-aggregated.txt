@@ -1,4 +1,4 @@
-# AS37363 (FAIRCAPE)
-# Faircape
+# AS37363 (AUT-FAIRCOM)
+# Faircape Communications ASN
 #
 2c0f:f488::/32

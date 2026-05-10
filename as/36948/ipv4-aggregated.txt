@@ -1,4 +1,4 @@
 # AS36948 (KENIC)
-# Kenya Network Information Centre (KENIC)
+# KENIC AS
 #
 196.1.4.0/24

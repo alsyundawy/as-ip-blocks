@@ -1,12 +1,12 @@
 {
   "asn": 40371,
   "metadata": {
-    "handle": "AS40371",
-    "description": "PROS Inc.",
+    "handle": "PROS-ARIN-AS",
+    "description": "PROS ARIN ASN",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 19812,
   "metadata": {
-    "handle": "RADIANZ-NUTLEY",
-    "description": "BT Americas Inc",
+    "handle": "BT-RADIANZ-AS",
+    "description": "BT Radianz",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

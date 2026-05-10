@@ -1,12 +1,12 @@
 {
   "asn": 37225,
   "metadata": {
-    "handle": "NETWIDE",
-    "description": "Netwide Internet Services cc",
+    "handle": "NETWIDE-AS",
+    "description": "Netwide Internet ASN",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

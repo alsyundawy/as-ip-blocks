@@ -1,5 +1,5 @@
-# AS36998 (SDN-MOBITEL)
-# Sudanese Mobile Telephone (ZAIN) Co Ltd
+# AS36998 (ZAINSD-AS)
+# zainsd
 #
 41.95.128.0/24
 41.95.130.0/24

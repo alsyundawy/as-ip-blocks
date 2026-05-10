@@ -1,4 +1,4 @@
-# AS58664 (ADOBE-NET-INFRA)
+# AS58664 (ADBE-APNIC)
 # Adobe Systems India Pvt. LTD
 #
 103.43.112.0/24

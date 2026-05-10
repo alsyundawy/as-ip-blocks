@@ -1,4 +1,4 @@
-# AS62468 (HKCLOUDX)
+# AS62468 (VPSQUAN)
 # VpsQuan L.L.C.
 #
 19.200.0.0/16

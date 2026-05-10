@@ -1,12 +1,12 @@
 {
   "asn": 10461,
   "metadata": {
-    "handle": "EZE-CASTLE-SOFTWARE-LLC",
-    "description": "Eze Castle Software LLC",
+    "handle": "EZESOFTWAREGROUP",
+    "description": "Eze Software Group?is a premier provider of global investment technology to support the front middle and back office",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "government_admin",
     "networkRole": "stub"
   },
   "prefixes": {

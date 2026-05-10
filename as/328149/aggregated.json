@@ -1,13 +1,13 @@
 {
   "asn": 328149,
   "metadata": {
-    "handle": "AS328149",
-    "description": "Unknown AS 328149",
+    "handle": "WEB-TRIBE-LIMITED-KE",
+    "description": "WEB-TRIBE-LIMITED-KE",
     "countryCode": null,
     "country": null,
-    "origin": "none",
-    "category": null,
-    "networkRole": null
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "196.50.21.0/24" ],

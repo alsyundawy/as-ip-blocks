@@ -1,4 +1,4 @@
 # AS37342 (MOVITEL)
-# Movitel SA
+# MOVITEL SA
 #
 197.218.0.0/15

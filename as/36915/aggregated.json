@@ -2,11 +2,11 @@
   "asn": 36915,
   "metadata": {
     "handle": "AFOL-KE-AS",
-    "description": "Echotel International Kenya Limited",
+    "description": "Africa Online Kenya",
     "countryCode": "KE",
     "country": "Kenya",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "access_provider"
   },
   "prefixes": {

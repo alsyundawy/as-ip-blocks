@@ -1,4 +1,4 @@
-# AS3132 (RED-CIENTIFICA-PERUANA)
+# AS3132 (AS3132)
 # Red Cientifica Peruana
 #
 2800:690::/32

@@ -1,12 +1,12 @@
 {
   "asn": 11553,
   "metadata": {
-    "handle": "MANNAWEB",
-    "description": "Mannatech INC.",
+    "handle": "MANNATECH-AS",
+    "description": "MANNATECH",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

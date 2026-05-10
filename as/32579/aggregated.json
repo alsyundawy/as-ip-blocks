@@ -1,12 +1,12 @@
 {
   "asn": 32579,
   "metadata": {
-    "handle": "CITY-OF-VALLEJO",
-    "description": "City of Vallejo A municipal corporation",
+    "handle": "ETG-AS",
+    "description": "eVolution Technology Group",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "government_admin",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

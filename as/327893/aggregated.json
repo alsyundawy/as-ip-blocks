@@ -1,12 +1,12 @@
 {
   "asn": 327893,
   "metadata": {
-    "handle": "LEGENDS-CONNECT",
-    "description": "Legends Connect Pty Ltd",
+    "handle": "LEGENDSCONNECT",
+    "description": "Legends Connect AS327893 Network",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 327712,
   "metadata": {
-    "handle": "ATM",
-    "description": "Telecom Algeria",
+    "handle": "MOBILIS-AS",
+    "description": "Mobilis AS Number",
     "countryCode": "DZ",
     "country": "Algeria",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

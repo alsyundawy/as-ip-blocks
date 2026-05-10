@@ -1,5 +1,5 @@
-# AS37027 (SIMBANET-AS)
-# Simbanet (T) Limited
+# AS37027 (SIMBANET)
+# SimbaNET
 #
 45.194.66.0/24
 45.221.72.0/21

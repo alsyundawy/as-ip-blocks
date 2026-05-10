@@ -1,12 +1,12 @@
 {
   "asn": 36959,
   "metadata": {
-    "handle": "AFCZAS",
-    "description": "AfriConnect Zambia Ltd",
+    "handle": "ICONNECT-ZAMBIA-AS36959",
+    "description": "AFRINIC Region LIR",
     "countryCode": "ZM",
     "country": "Zambia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

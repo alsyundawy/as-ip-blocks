@@ -1,4 +1,4 @@
-# AS28099 (IHOSTING-SERVICIOS-INTERNET)
+# AS28099 (IHOSTING)
 # iHosting Servicios Internet Ltda.
 #
 2803:b480::/48

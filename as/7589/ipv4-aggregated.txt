@@ -1,4 +1,4 @@
 # AS7589 (TWELVE99-ENTERPRISE-SERVICES)
-# Arelion Sweden AB
+# Arelion Enterprise Service
 #
 202.163.30.0/23

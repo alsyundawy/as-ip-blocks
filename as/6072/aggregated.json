@@ -1,12 +1,12 @@
 {
   "asn": 6072,
   "metadata": {
-    "handle": "UNISYS-AS-C",
-    "description": "Unisys Corporation",
+    "handle": "UNISYS-6072",
+    "description": "For routing issues email hostmaster@unisys.com",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

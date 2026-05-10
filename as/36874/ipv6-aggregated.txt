@@ -1,4 +1,4 @@
 # AS36874 (CYBERSMART)
-# Cybersmart
+# AfricaINX created auth-num for AS36874
 #
 2c0f:fbe0::/28

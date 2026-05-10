@@ -1,12 +1,12 @@
 {
   "asn": 36877,
   "metadata": {
-    "handle": "AFRICA-ONLINE-AFRICA-PTY-LTD",
-    "description": "Africa Online (Africa) (Pty) Ltd",
+    "handle": "IWAYAFRICA-AS36877",
+    "description": "IWAYAFRICA-AS36877",
     "countryCode": "NA",
     "country": "Namibia",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

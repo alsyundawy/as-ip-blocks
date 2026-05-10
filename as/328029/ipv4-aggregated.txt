@@ -1,4 +1,4 @@
-# AS328029 (WEB-TELECOM-SERVICES)
+# AS328029 (AS328029)
 # Web Telecom Services (PTY) Ltd
 #
 102.207.20.0/22

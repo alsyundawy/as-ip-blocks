@@ -2,11 +2,11 @@
   "asn": 26057,
   "metadata": {
     "handle": "MEDIAOCEAN",
-    "description": "Mediaocean LLC",
+    "description": "This is a Proxy Object to allow Routing via RIPE Policies",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

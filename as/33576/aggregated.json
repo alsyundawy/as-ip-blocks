@@ -1,8 +1,8 @@
 {
   "asn": 33576,
   "metadata": {
-    "handle": "DIG001",
-    "description": "Digicel Jamaica",
+    "handle": "DIGICEL",
+    "description": "ASN-Digicel",
     "countryCode": "JM",
     "country": "Jamaica",
     "origin": "authoritative",

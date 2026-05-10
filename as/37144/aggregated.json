@@ -1,12 +1,12 @@
 {
   "asn": 37144,
   "metadata": {
-    "handle": "VALUCARD-NG",
-    "description": "Unified Payment Services Limited",
+    "handle": "AS37144",
+    "description": "ValuCard Nigeria AS",
     "countryCode": "NG",
     "country": "Nigeria",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

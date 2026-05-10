@@ -1,8 +1,8 @@
 {
   "asn": 11960,
   "metadata": {
-    "handle": "EMPRESA-TELECOMUNICACIONES-CUBA",
-    "description": "EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)",
+    "handle": "CUBADATA-AS",
+    "description": "NEWCOM customer mirror object from ARIN",
     "countryCode": "CU",
     "country": "Cuba",
     "origin": "authoritative",

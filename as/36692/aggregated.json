@@ -1,8 +1,8 @@
 {
   "asn": 36692,
   "metadata": {
-    "handle": "CISCO-UMBRELLA",
-    "description": "Cisco OpenDNS LLC",
+    "handle": "OPENDNS",
+    "description": "OpenDNS",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

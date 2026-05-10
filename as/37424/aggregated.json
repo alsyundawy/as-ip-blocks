@@ -1,12 +1,12 @@
 {
   "asn": 37424,
   "metadata": {
-    "handle": "SPACETEL",
-    "description": "SPACETEL BENIN SA",
+    "handle": "SPACETEL-BENIN",
+    "description": "SPACETEL Benin",
     "countryCode": "BJ",
     "country": "Benin",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

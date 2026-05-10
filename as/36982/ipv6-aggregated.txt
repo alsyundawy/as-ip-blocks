@@ -1,4 +1,4 @@
-# AS36982 (UCT)
+# AS36982 (UCT-36982)
 # University of Cape Town
 #
 2001:4200:300::/44

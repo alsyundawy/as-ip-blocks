@@ -1,8 +1,8 @@
 {
   "asn": 37211,
   "metadata": {
-    "handle": "MAX-NET-FOR-INTERNET-SERVICES",
-    "description": "MAX NET FOR INTERNET SERVICES",
+    "handle": "MAXNET-AS",
+    "description": "MaxNET Aut-Sys number",
     "countryCode": "SD",
     "country": "Sudan",
     "origin": "authoritative",

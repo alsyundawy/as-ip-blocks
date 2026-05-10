@@ -1,5 +1,5 @@
-# AS37183 (UTANDE)
-# Utande Internet Services (Pvt) Ltd
+# AS37183 (DANDEMUTANDE)
+# Utande and uMAX Networks
 #
 41.85.192.0/21
 41.85.208.0/20

@@ -1,5 +1,5 @@
 # AS31245 (ATI-ISP)
-# ATI - Agence Tunisienne Internet
+# ATI - ISP
 #
 41.225.12.0/24
 41.227.5.0/24

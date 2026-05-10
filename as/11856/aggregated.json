@@ -1,12 +1,12 @@
 {
   "asn": 11856,
   "metadata": {
-    "handle": "XCONNECT-TECH",
-    "description": "XC Technology Holdings LTD",
+    "handle": "XCONNECT",
+    "description": "XConnect auth-num",
     "countryCode": "GB",
     "country": "United Kingdom",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

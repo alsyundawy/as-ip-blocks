@@ -1,4 +1,4 @@
-# AS327845 (SAGE-PETROLEUM)
+# AS327845 (SAGE-AS)
 # Sage petroleum- Ghana
 #
 196.10.215.0/24

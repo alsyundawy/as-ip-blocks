@@ -2,11 +2,11 @@
   "asn": 327734,
   "metadata": {
     "handle": "ECONET",
-    "description": "Econet-Leo SA",
+    "description": "Econet Wireless Burundi",
     "countryCode": "BI",
     "country": "Burundi",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

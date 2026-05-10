@@ -1,12 +1,12 @@
 {
   "asn": 18882,
   "metadata": {
-    "handle": "FLEXTR-AS",
-    "description": "Flextronics International USA Inc.",
+    "handle": "FLEX-DUC-AS",
+    "description": "Flextronics International - Duesseldorf",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

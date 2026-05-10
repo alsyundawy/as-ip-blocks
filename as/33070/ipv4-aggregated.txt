@@ -1,4 +1,4 @@
-# AS33070 (RMH-14)
+# AS33070 (RACKSPACE-DFW)
 # Rackspace Hosting
 #
 23.253.64.0/18

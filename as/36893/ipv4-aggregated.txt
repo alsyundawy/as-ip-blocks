@@ -1,4 +1,4 @@
-# AS36893 (AS36893)
-# Unknown AS 36893
+# AS36893 (DURAVITEG-AS)
+# Duravit Egypt Autonomous System
 #
 196.221.1.0/24

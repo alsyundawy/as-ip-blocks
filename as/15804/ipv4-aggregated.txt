@@ -1,5 +1,5 @@
-# AS15804 (PJSC-ROSTELECOM)
-# PJSC Rostelecom
+# AS15804 (AS-OF-THE)
+# AS of The Way Out Internet Solutions
 #
 212.12.224.0/22
 212.12.229.0/24

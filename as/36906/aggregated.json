@@ -1,12 +1,12 @@
 {
   "asn": 36906,
   "metadata": {
-    "handle": "ELNG",
-    "description": "The Egyptian Operating Company for Natural Gas Liquefaction Projects SAE",
+    "handle": "ELNG-AS",
+    "description": "ELNG AS",
     "countryCode": "EG",
     "country": "Egypt",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

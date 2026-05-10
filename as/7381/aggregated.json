@@ -1,12 +1,12 @@
 {
   "asn": 7381,
   "metadata": {
-    "handle": "SRS-6-Z-7381",
-    "description": "BroadbandONE LLC",
+    "handle": "SASUSA",
+    "description": "SunGard Availability Services USA",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

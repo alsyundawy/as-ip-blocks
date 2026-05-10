@@ -1,5 +1,5 @@
 # AS37630 (EY-JHB-AS)
-# Ernst and Young Services Limited
+# EY-JHB
 #
 196.13.127.0/24
 196.13.131.0/24

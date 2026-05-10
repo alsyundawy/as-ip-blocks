@@ -1,8 +1,8 @@
 {
   "asn": 6149,
   "metadata": {
-    "handle": "TENET-2",
-    "description": "TENET (The UNINET Project)",
+    "handle": "TNET-ANYCAST-6149",
+    "description": "TNET Anycast ASN",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",

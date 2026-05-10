@@ -1,12 +1,12 @@
 {
   "asn": 37032,
   "metadata": {
-    "handle": "ALINKGHANA-AS",
-    "description": "Alink Telecom Ghana",
+    "handle": "ALINK-GHANA-AS",
+    "description": "Aut-num ALINK GHANA",
     "countryCode": "GH",
     "country": "Ghana",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

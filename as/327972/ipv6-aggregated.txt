@@ -1,4 +1,4 @@
-# AS327972 (MAWINGU-NETWORKS-LTD)
+# AS327972 (MAWINGU-ASN)
 # Mawingu Networks Ltd
 #
 2c0f:f3f8::/32

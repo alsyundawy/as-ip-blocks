@@ -2,11 +2,11 @@
   "asn": 22005,
   "metadata": {
     "handle": "VWR",
-    "description": "VWR International LLC",
+    "description": "administrative copy of ARIN registered ASN.",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

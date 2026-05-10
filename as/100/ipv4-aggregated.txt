@@ -1,4 +1,4 @@
-# AS100 (FMC-CTC)
+# AS100 (HUNDRED)
 # FMC Central Engineering Laboratories
 #
 12.30.153.0/24

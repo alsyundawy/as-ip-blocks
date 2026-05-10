@@ -1,5 +1,5 @@
-# AS6461 (ZAYO-6461)
-# Zayo Bandwidth
+# AS6461 (MFNX)
+# Zayo Group
 #
 23.139.176.0/24
 31.99.0.0/18

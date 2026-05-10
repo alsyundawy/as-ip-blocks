@@ -2,11 +2,11 @@
   "asn": 24467,
   "metadata": {
     "handle": "DB-APAC-RHO-AS",
-    "description": "Deutsche Bank Regional Head Office",
+    "description": "Deutsche Bank APAC RHO in Singapore Internet AS",
     "countryCode": "SG",
     "country": "Singapore",
     "origin": "authoritative",
-    "category": "government_admin",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 46282,
   "metadata": {
-    "handle": "AVIALL-SERVICES-INC",
-    "description": "Boeing Distribution Inc.",
+    "handle": "VIRTELA-CUST-VTXDAL1-VCOENG1-AVAILL",
+    "description": "Virtela Communications",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

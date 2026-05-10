@@ -1,12 +1,12 @@
 {
   "asn": 25973,
   "metadata": {
-    "handle": "AS-GTT-25973",
-    "description": "PacketExchange Inc",
+    "handle": "GTT",
+    "description": "Global Telecom & Technology ASN",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

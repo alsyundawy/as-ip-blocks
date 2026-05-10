@@ -2,11 +2,11 @@
   "asn": 36925,
   "metadata": {
     "handle": "ASMEDI",
-    "description": "MEDITELECOM",
+    "description": "Orange Maroc",
     "countryCode": "MA",
     "country": "Morocco",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

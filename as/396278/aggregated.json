@@ -1,12 +1,12 @@
 {
   "asn": 396278,
   "metadata": {
-    "handle": "CONNECTEDAF-01",
-    "description": "ConnectedAF Limited",
+    "handle": "TELECOMSERVICESNETWORKLIMITED",
+    "description": "Telecom Services Network Limited",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

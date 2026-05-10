@@ -1,4 +1,4 @@
-# AS327819 (AZAM-MEDIA)
-# AZAM MEDIA LIMITED
+# AS327819 (AS-AZAM)
+# Azam Tanzania
 #
 2c0f:f7b0::/32

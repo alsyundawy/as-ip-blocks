@@ -1,4 +1,4 @@
-# AS10 (CSNET-EXT-AS)
+# AS10 (EJU1-RIPE)
 # CSNET Coordination and Information Center (CSNET-CIC)
 #
 46.243.168.0/24

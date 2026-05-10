@@ -1,12 +1,12 @@
 {
   "asn": 37682,
   "metadata": {
-    "handle": "TIZETI-AS",
-    "description": "Tizeti Network Limited",
+    "handle": "TZT1-AS",
+    "description": "TZT 1 Autonomous system",
     "countryCode": "NG",
     "country": "Nigeria",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

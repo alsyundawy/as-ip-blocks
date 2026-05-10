@@ -1,4 +1,4 @@
 # AS8094 (PUKNET)
-# North West University
+# PUKNET
 #
 2001:43f8:6b0::/47

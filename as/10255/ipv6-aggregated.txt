@@ -1,4 +1,4 @@
-# AS10255 (SINISTER)
+# AS10255 (CBC)
 # Sinister and Solitary
 #
 2605:6c00:9::/48

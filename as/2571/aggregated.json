@@ -1,12 +1,12 @@
 {
   "asn": 2571,
   "metadata": {
-    "handle": "DHLNET",
-    "description": "DHL Information Services (Europe) s.r.o",
+    "handle": "DHL-AS",
+    "description": "Deutsche Post DHL",
     "countryCode": "CZ",
     "country": "Czechia",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

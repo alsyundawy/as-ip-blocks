@@ -1,12 +1,12 @@
 {
   "asn": 37663,
   "metadata": {
-    "handle": "ISPA-SA-JINX",
-    "description": "ISPA SA",
+    "handle": "CINX",
+    "description": "Cape Town Internet Exchange",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

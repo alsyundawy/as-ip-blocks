@@ -1,4 +1,4 @@
-# AS27370 (CITYOFBOSTON)
+# AS27370 (BONET-AS)
 # City of Boston
 #
 140.241.0.0/16

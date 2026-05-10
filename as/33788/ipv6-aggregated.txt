@@ -1,4 +1,4 @@
-# AS33788 (KANARTEL)
-# Kanar Telecommunication (Canar Telecom Co.Ltd)
+# AS33788 (KANARTEL-AS)
+# KANAR TELECOMMUNICATION ( KANARTEL) CO. LTD
 #
 2c0f:ff28::/32

@@ -1,5 +1,5 @@
 # AS16637 (MTNNS-AS)
-# MTN SA
+# MTN Network Solutions
 #
 2001:4218::/32
 2001:4260::/32

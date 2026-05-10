@@ -1,5 +1,5 @@
-# AS3491 (PCCWG-APAC-HK)
-# PCCW Global (HK) Limited
+# AS3491 (PCCWG-AS)
+# PCCWG
 #
 31.59.78.0/24
 41.79.244.0/22

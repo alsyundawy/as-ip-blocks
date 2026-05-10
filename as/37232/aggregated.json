@@ -2,11 +2,11 @@
   "asn": 37232,
   "metadata": {
     "handle": "CTS",
-    "description": "Certified Technology Services Ltd",
+    "description": "CTSL AS number",
     "countryCode": "GH",
     "country": "Ghana",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

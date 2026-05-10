@@ -1,12 +1,12 @@
 {
   "asn": 37588,
   "metadata": {
-    "handle": "ORLEAN-INVEST-AFRICA-LIMITED",
-    "description": "ORLEAN INVEST AFRICA LIMITED",
+    "handle": "STRATUS",
+    "description": "STRATUS-NIGERIA",
     "countryCode": "NG",
     "country": "Nigeria",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

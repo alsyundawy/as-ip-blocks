@@ -1,8 +1,8 @@
 {
   "asn": 26710,
   "metadata": {
-    "handle": "ICANN-ANYCASTED-SERVICES",
-    "description": "ICANN",
+    "handle": "ICANN-DNS-ANYCAST",
+    "description": "ICANN DNS Engineering - Anycast",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",

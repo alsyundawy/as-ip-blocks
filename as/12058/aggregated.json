@@ -1,12 +1,12 @@
 {
   "asn": 12058,
   "metadata": {
-    "handle": "HOTELS-LON",
-    "description": "EXPEDIA INC",
+    "handle": "AS12058",
+    "description": "AS for Expedia",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

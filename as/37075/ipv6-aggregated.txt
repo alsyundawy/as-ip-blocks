@@ -1,3 +1,3 @@
-# AS37075 (ZAINUGAS)
-# Airtel Uganda Limited
+# AS37075 (RS-AIRTELUG)
+# Airtel Uganda Routing Registry AS
 #

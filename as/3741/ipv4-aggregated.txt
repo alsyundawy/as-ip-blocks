@@ -1,5 +1,5 @@
-# AS3741 (NTT-DATA-INC)
-# Dimension Data
+# AS3741 (IS)
+# Internet Solutions
 #
 41.77.104.0/21
 41.86.100.0/22

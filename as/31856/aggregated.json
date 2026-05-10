@@ -1,12 +1,12 @@
 {
   "asn": 31856,
   "metadata": {
-    "handle": "CABS",
-    "description": "YoAfrica (Pvt) Ltd",
+    "handle": "YO-AS31856",
+    "description": "YoAfricaCore",
     "countryCode": "ZW",
     "country": "Zimbabwe",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

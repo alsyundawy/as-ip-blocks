@@ -1,4 +1,4 @@
 # AS37232 (CTS)
-# Certified Technology Services Ltd
+# CTSL AS number
 #
 41.78.124.0/22

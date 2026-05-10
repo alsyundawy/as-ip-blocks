@@ -1,4 +1,4 @@
-# AS36426 (ISOTRASN)
+# AS36426 (ISOTROPIC-NETWORK)
 # IsoTropic Networks Inc.
 #
 64.148.140.0/24

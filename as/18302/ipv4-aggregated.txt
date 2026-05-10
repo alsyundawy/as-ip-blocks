@@ -1,5 +1,5 @@
-# AS18302 (SKG-NW-AS)
-# SK Telecom
+# AS18302 (SKNETWORKS-NET)
+# SKNetworks Corporation in Seoul Korea
 #
 58.102.29.0/24
 58.102.96.0/22

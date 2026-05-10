@@ -1,5 +1,5 @@
-# AS131284 (ETISALATAFG-AS-AP)
-# Etisalat Afghan
+# AS131284 (ETISALAT-AF)
+# Etisalat Afghanistan
 #
 103.13.64.0/22
 103.17.60.0/22

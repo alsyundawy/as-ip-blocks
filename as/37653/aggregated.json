@@ -1,12 +1,12 @@
 {
   "asn": 37653,
   "metadata": {
-    "handle": "ZINIA-ISP-AS",
-    "description": "ZINIA ISP (PTY) LTD",
+    "handle": "PINK-SQUIRREL",
+    "description": "pink-squirrel",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

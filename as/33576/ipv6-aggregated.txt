@@ -1,4 +1,4 @@
-# AS33576 (DIG001)
-# Digicel Jamaica
+# AS33576 (DIGICEL)
+# ASN-Digicel
 #
 2605:a200::/32

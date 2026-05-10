@@ -1,4 +1,4 @@
-# AS55994 (RUISU-51IDC)
+# AS55994 (ANCHNET)
 # Shanghai ruisu Network Technology Co. Ltd
 #
 43.240.126.0/23

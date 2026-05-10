@@ -1,12 +1,12 @@
 {
   "asn": 24422,
   "metadata": {
-    "handle": "HTXX",
-    "description": "Huizhan street Renqiu city Hebei P. R. CHINA",
+    "handle": "CNNIC-HTXX-RIPE",
+    "description": "Huatong information network",
     "countryCode": "CN",
     "country": "China",
     "origin": "authoritative",
-    "category": "government_admin",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

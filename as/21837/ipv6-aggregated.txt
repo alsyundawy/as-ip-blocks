@@ -1,4 +1,4 @@
-# AS21837 (OPERASOFTWARE)
+# AS21837 (US-OPERA)
 # Opera Software Americas LLC
 #
 2620:117:c000::/48

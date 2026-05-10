@@ -1,12 +1,12 @@
 {
   "asn": 37550,
   "metadata": {
-    "handle": "AIRTELCG",
-    "description": "Airtel Congo S.A",
+    "handle": "CONGOB-AIRTEL",
+    "description": "CongoB Airtel Pointe Noire",
     "countryCode": "CG",
     "country": "Congo - Brazzaville",
     "origin": "authoritative",
-    "category": "business",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {

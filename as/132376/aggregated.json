@@ -1,12 +1,12 @@
 {
   "asn": 132376,
   "metadata": {
-    "handle": "BASKETASIA-AS-AP",
-    "description": "Basketasia Sdn. Bhd.",
+    "handle": "PERSIASYS-ULTRATONE-AS-AP",
+    "description": "administrative copy of APNIC registered ASN.",
     "countryCode": "MY",
     "country": "Malaysia",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

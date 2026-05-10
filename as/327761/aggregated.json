@@ -1,12 +1,12 @@
 {
   "asn": 327761,
   "metadata": {
-    "handle": "OXYGN-ISP",
-    "description": "Oxygn ISP (PTY) LTD",
+    "handle": "ACCESS-POINT-TECHNOLOGIES",
+    "description": "Access Point Technologies cc",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

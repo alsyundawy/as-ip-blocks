@@ -1,5 +1,5 @@
 # AS14127 (ILAND)
-# Iland Internet Solutions Corporation
+# iland Europe Ltd.
 #
 4.19.12.0/23
 43.245.228.0/22

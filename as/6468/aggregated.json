@@ -1,12 +1,12 @@
 {
   "asn": 6468,
   "metadata": {
-    "handle": "EASYLINK-AS6468",
-    "description": "Easylink Services Corporation",
+    "handle": "EASYLINK",
+    "description": "EasyLink",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

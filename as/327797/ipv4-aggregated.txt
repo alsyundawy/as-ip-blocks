@@ -1,4 +1,4 @@
 # AS327797 (COWS)
-# ITM
+# Congo Online Web Services AS
 #
 154.72.52.0/24

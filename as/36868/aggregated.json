@@ -1,12 +1,12 @@
 {
   "asn": 36868,
   "metadata": {
-    "handle": "EIS",
-    "description": "Rogers Capital Technology Services Ltd",
+    "handle": "ADB",
+    "description": "ADB Networks Limited",
     "countryCode": "MU",
     "country": "Mauritius",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "access_provider"
   },
   "prefixes": {

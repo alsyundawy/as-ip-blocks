@@ -1,5 +1,5 @@
 # AS37154 (ZAMTEL)
-# Zambia Telecommunications Company Ltd aka ZAMTEL
+# ZAMTEL
 #
 41.72.96.0/19
 165.56.0.0/13

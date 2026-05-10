@@ -1,8 +1,8 @@
 {
   "asn": 32017,
   "metadata": {
-    "handle": "SATCOM-MOZ",
-    "description": "SATCOM - Comunicacoes Satelite Limitada",
+    "handle": "SATCOM-AS",
+    "description": "Satcom Mozambique",
     "countryCode": "MZ",
     "country": "Mozambique",
     "origin": "authoritative",

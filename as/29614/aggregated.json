@@ -2,11 +2,11 @@
   "asn": 29614,
   "metadata": {
     "handle": "GHANATEL-AS",
-    "description": "Ghana Telecommunications Company Limited",
+    "description": "VODAFONE GHANA AS INTERNATIONAL TRANSIT",
     "countryCode": "GH",
     "country": "Ghana",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "hosting",
     "networkRole": "midsize_transit"
   },
   "prefixes": {

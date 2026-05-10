@@ -1,12 +1,12 @@
 {
   "asn": 33001,
   "metadata": {
-    "handle": "CSM-NY-AS",
-    "description": "Cravath Swaine & Moore LLP",
+    "handle": "CRAVATH-SWAINE-AS",
+    "description": "Cravath Swaine and Moore AS",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

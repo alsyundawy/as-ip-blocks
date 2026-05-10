@@ -2,11 +2,11 @@
   "asn": 132056,
   "metadata": {
     "handle": "SCICUBE-AS",
-    "description": "SCICUBE LIMITED",
+    "description": "RM B 2/F 88 KWAI CHEONG ROAD",
     "countryCode": "HK",
     "country": "Hong Kong SAR China",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

@@ -1,12 +1,12 @@
 {
   "asn": 38616,
   "metadata": {
-    "handle": "WORLDCALL-AS-KHI",
-    "description": "WORLDCALL TELECOM LIMITED",
+    "handle": "WORLDCALL-AS-UK",
+    "description": "Used in UK with TeleCity",
     "countryCode": "PK",
     "country": "Pakistan",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

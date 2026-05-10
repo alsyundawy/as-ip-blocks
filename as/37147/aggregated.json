@@ -1,8 +1,8 @@
 {
   "asn": 37147,
   "metadata": {
-    "handle": "BANCOBIC-AS",
-    "description": "BancoBic",
+    "handle": "ASN-BICAO",
+    "description": "ASN - Banco BIC - Angola",
     "countryCode": "AO",
     "country": "Angola",
     "origin": "authoritative",

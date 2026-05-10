@@ -1,3 +1,3 @@
 # AS15293 (ASN-ISS-ATL)
-# IBM
+# Internet Security Systems
 #

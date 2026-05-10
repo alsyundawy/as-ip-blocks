@@ -1,12 +1,12 @@
 {
   "asn": 9777,
   "metadata": {
-    "handle": "KJU-NET-AS",
-    "description": "Gyeongju University",
+    "handle": "NPIX-AS",
+    "description": "NPIX Powered by IBR",
     "countryCode": "KR",
     "country": "South Korea",
     "origin": "authoritative",
-    "category": "education_research",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

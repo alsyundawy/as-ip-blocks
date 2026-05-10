@@ -1,4 +1,4 @@
-# AS37629 (ESTREAMNETWORKS-AS)
+# AS37629 (ESTREAM-1)
 # eStream Networks
 #
 154.65.4.0/22

@@ -1,8 +1,8 @@
 {
   "asn": 37018,
   "metadata": {
-    "handle": "GALAXYBB-AS",
-    "description": "Galaxy Backbone PLC",
+    "handle": "GALAXY-ASN",
+    "description": "Galaxy Backbone",
     "countryCode": "NG",
     "country": "Nigeria",
     "origin": "authoritative",

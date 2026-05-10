@@ -1,12 +1,12 @@
 {
   "asn": 40004,
   "metadata": {
-    "handle": "CONRAD",
-    "description": "CONRADIT LLC",
+    "handle": "MOMENTAPHARMA",
+    "description": "Momenta Pharmaceuticals",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

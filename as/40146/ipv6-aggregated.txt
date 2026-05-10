@@ -1,5 +1,5 @@
-# AS40146 (RTCONN-LAS)
-# Right Connection Inc.
+# AS40146 (VIRTELA-CUST-VILCHI1-NATIONALMARINE)
+# Virtela Communications
 #
 2602:fc91:100::/48
 2602:fc91:110::/48

@@ -1,4 +1,4 @@
-# AS52224 (LACNIC-LATIN-AMERICAN)
+# AS52224 (LACNIC-SERVERS-ANYCAST2)
 # LACNIC - Latin American and Caribbean IP address
 #
 200.0.88.0/24

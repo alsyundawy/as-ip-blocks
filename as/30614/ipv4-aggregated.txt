@@ -1,5 +1,5 @@
-# AS30614 (DELL-BLK)
-# Dell Inc.
+# AS30614 (DELL)
+# DELL Incorporated
 #
 132.237.132.0/24
 132.237.139.0/24

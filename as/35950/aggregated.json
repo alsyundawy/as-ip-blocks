@@ -1,12 +1,12 @@
 {
   "asn": 35950,
   "metadata": {
-    "handle": "VITNA-GSO",
-    "description": "Volvo Group North America Inc.",
+    "handle": "VOLVO-IT-NA",
+    "description": "Volvo IT North America",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

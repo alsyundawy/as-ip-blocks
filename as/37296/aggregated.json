@@ -1,12 +1,12 @@
 {
   "asn": 37296,
   "metadata": {
-    "handle": "AFCOMSAT",
-    "description": "Afcom Satellite Networks Nigeria Limited",
+    "handle": "AFCOMSAT-AS",
+    "description": "AFCOMSAT AS",
     "countryCode": "NG",
     "country": "Nigeria",
     "origin": "authoritative",
-    "category": "isp",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

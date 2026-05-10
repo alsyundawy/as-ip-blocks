@@ -1,4 +1,4 @@
 # AS37524 (AFRICELL-GM)
-# Africell Gambia
+# AFRICELL Gambia
 #
 2c0f:140::/32

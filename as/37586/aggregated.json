@@ -1,13 +1,13 @@
 {
   "asn": 37586,
   "metadata": {
-    "handle": "AS37586",
-    "description": "Unknown AS 37586",
+    "handle": "ONATEL",
+    "description": "ONATEL",
     "countryCode": null,
     "country": null,
-    "origin": "none",
+    "origin": "authoritative",
     "category": null,
-    "networkRole": null
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "197.231.248.0/22" ],

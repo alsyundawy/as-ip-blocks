@@ -1,12 +1,12 @@
 {
   "asn": 37346,
   "metadata": {
-    "handle": "DAVIS-SHIRTLIFF",
-    "description": "Davis & Shirtliff Ltd",
+    "handle": "DAVIS-AND-SHIRTLIFF-AS",
+    "description": "Davis and Shirtliff AS Number",
     "countryCode": "KE",
     "country": "Kenya",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {

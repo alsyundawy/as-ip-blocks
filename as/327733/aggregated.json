@@ -1,8 +1,8 @@
 {
   "asn": 327733,
   "metadata": {
-    "handle": "SAICOM",
-    "description": "Saicom Voice Services",
+    "handle": "SAICOM-AS",
+    "description": "Saicom",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",

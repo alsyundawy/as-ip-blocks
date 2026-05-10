@@ -1,4 +1,4 @@
 # AS16711 (EHI-NA-AS-2)
-# Enterprise Holdings Inc.
+# EHI Origin Plano & Silicon Valley Equinix
 #
 2620:103:e008::/47

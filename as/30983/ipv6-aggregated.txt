@@ -1,4 +1,4 @@
 # AS30983 (MARWAN-AS)
-# CNRST (Centre National pour la Recherche Scientifique et Technique)
+# Moroccan Academic Network - MARWAN
 #
 2001:4310::/32

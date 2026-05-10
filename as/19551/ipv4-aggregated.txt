@@ -1,5 +1,5 @@
 # AS19551 (INCAPSULA)
-# Incapsula Inc
+# Imperva-Cloud
 #
 42.200.61.0/24
 45.60.0.0/19

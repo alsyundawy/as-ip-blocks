@@ -1,4 +1,4 @@
-# AS328169 (SWAZI-MOBILE)
+# AS328169 (AS328169)
 # Swazi Mobile Limited
 #
 102.214.160.0/22

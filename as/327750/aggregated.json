@@ -2,11 +2,11 @@
   "asn": 327750,
   "metadata": {
     "handle": "JENNY-INTERNET",
-    "description": "JENNY INTERNET (PTY) LTD",
+    "description": "Jenny Internet cc",
     "countryCode": "ZA",
     "country": "South Africa",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

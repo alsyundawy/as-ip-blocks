@@ -1,12 +1,12 @@
 {
   "asn": 46496,
   "metadata": {
-    "handle": "WTNC-INTERNAL-ISP",
-    "description": "Washoe Tribe of Nevada and California",
+    "handle": "AS-6G",
+    "description": "6G Technologies Inc",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

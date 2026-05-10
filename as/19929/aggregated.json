@@ -1,12 +1,12 @@
 {
   "asn": 19929,
   "metadata": {
-    "handle": "VASTCOMM",
-    "description": "VAST COMMUNICATIONS LLC",
+    "handle": "AS-CCTLD",
+    "description": "IPv6 address",
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "business",
+    "category": null,
     "networkRole": "stub"
   },
   "prefixes": {
