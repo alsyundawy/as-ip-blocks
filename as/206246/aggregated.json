@@ -1,14 +1,16 @@
 {
   "asn": 206246,
   "metadata": {
-    "handle": "EXPIMONT",
-    "description": "Expimont AB",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "handle": "FORMOSA",
+    "description": "FORMOSA CAPITAL LP",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ "192.189.157.0/24" ],
+    "ipv6": [ ]
   }
 }

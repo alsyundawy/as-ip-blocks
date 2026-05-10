@@ -6,11 +6,11 @@
     "countryCode": "AI",
     "country": "Anguilla",
     "origin": "authoritative",
-    "category": "hosting",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ ],
+    "ipv4": [ "104.192.93.0/24" ],
     "ipv6": [ "2602:fb92:c00::/44" ]
   }
 }

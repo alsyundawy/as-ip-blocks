@@ -1,6 +1,7 @@
 # AS58369 (FIBERNET-AS-ID)
 # PT. Fiber Networks Indonesia
 #
+2.26.232.0/22
 14.137.224.0/23
 27.123.220.0/22
 38.210.84.0/22

@@ -1,3 +1,3 @@
-# AS14107 (PCINW-PN001)
-# Preferred Connections Inc. NW
+# AS14107 (VFOREGONLLC-01)
+# VFOregon LLC
 #

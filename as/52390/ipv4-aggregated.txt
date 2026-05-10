@@ -1,6 +1,5 @@
 # AS52390 (ADMINISTRADORA-REDES)
 # Administradora de Redes S.A.
 #
-170.150.181.0/24
 190.123.24.0/21
 200.75.184.0/21

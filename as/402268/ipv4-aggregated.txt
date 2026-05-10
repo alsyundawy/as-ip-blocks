@@ -1,3 +1,4 @@
 # AS402268 (FREECONNECT)
 # YUGS Networks Ltd.
 #
+82.47.42.0/24
