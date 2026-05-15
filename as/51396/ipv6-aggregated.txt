@@ -1,6 +1,7 @@
 # AS51396 (PFCLOUD)
 # Pfcloud UG (haftungsbeschrankt)
 #
+2602:f915::/40
 2a05:b0c6:5800::/37
 2a05:b0c6:a200::/39
 2a05:b0c7:6000::/36

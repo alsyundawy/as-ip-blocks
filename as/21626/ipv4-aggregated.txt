@@ -1,4 +1,3 @@
 # AS21626 (CLEARSKYNETWORK)
 # clearskynetwork
 #
-23.140.100.0/24

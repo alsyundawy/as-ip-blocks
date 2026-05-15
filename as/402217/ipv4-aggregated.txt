@@ -1,4 +1,3 @@
 # AS402217 (COASTELECTRIC-01)
 # Coast Electric
 #
-192.65.8.0/24

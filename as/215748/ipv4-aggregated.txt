@@ -1,6 +1,7 @@
 # AS215748 (WESTEROS)
 # Westeros Communications (THAILAND) CO. LTD.
 #
+23.157.108.0/24
 46.236.199.0/24
 96.62.35.0/24
 96.62.36.0/24
