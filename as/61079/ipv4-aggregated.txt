@@ -1,4 +1,4 @@
-# AS61079 (DIGI-ITALY)
+# AS61079 (DIGI-IT)
 # Digi Italy S.R.L.
 #
 46.102.64.0/19

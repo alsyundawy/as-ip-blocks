@@ -2,4 +2,3 @@
 # Zyad Al-Astal Trading as WaveLink Trading
 #
 140.150.155.0/24
-151.244.44.0/24

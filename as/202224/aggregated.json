@@ -6,8 +6,8 @@
     "countryCode": "GR",
     "country": "Greece",
     "origin": "authoritative",
-    "category": "hosting",
-    "networkRole": "content_network"
+    "category": "education_research",
+    "networkRole": "stub"
   },
   "prefixes": {
     "ipv4": [ "44.31.176.0/24" ],

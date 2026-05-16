@@ -1,3 +1,0 @@
-# AS35628 (PIONIER-AS-TP)
-# Institute of Bioorganic Chemistry Polish Academy of Science Poznan Supercomputing and Networking Center
-#

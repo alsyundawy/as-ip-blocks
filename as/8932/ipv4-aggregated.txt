@@ -1,4 +1,3 @@
 # AS8932 (UCOMINT)
 # Ucom CJSC
 #
-185.48.240.0/22

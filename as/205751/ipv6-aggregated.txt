@@ -1,3 +1,0 @@
-# AS205751 (PMO-ZAPI)
-# Plataforma Multimedia de Operadores SL.
-#

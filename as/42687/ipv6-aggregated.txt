@@ -1,4 +1,4 @@
 # AS42687 (IZARLINK1)
-# IZARLINK SAS
+# Izarlink SAS
 #
 2a0d:25c0::/29

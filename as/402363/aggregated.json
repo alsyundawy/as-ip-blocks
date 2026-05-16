@@ -1,0 +1,16 @@
+{
+  "asn": 402363,
+  "metadata": {
+    "handle": "AEJ-01",
+    "description": "KEYSTONE NETWORKS COMMUNICATIONS INC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.157.236.0/24" ],
+    "ipv6": [ ]
+  }
+}

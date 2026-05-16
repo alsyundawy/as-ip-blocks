@@ -1,6 +1,7 @@
 # AS47583 (AS-HOSTINGER)
 # Hostinger International Limited
 #
+2.24.8.0/21
 2.24.16.0/20
 2.24.64.0/18
 2.24.128.0/20

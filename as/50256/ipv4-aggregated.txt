@@ -1,4 +1,4 @@
 # AS50256 (VIC-AS)
-# State Enterprise Agriculture Information and Rural Business Center
+# Zemes ukio duomenu centras VI
 #
 213.252.240.0/23

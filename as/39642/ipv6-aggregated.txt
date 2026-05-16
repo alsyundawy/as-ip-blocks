@@ -1,5 +1,5 @@
 # AS39642 (NORLYS-FIBERNET)
-# Norlys Digital A/S
+# Sinal A/S
 #
 2a00:1b70::/29
 2a00:1f98::/29
