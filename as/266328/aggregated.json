@@ -2,11 +2,11 @@
   "asn": 266328,
   "metadata": {
     "handle": "JP-PROVIDERS-EIRELLI",
-    "description": "JP Providers Eirelli",
+    "description": "JP PROVIDERS LTDA",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "isp",
+    "category": "business",
     "networkRole": "stub"
   },
   "prefixes": {

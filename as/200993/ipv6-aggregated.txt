@@ -1,4 +1,4 @@
-# AS200993 (NYANET)
+# AS200993 (NYARU)
 # Yanislav Basiuk
 #
 2a10:ccc1:1333::/48

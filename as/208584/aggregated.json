@@ -3,12 +3,14 @@
   "metadata": {
     "handle": "LOESBERG",
     "description": "Loesberg.com B.V.",
-    "countryCode": null,
-    "country": null,
-    "origin": "authoritative"
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [],
-    "ipv6": []
+    "ipv4": [ ],
+    "ipv6": [ "2001:678:ab4::/48", "2a0e:b107:cc3::/48" ]
   }
 }

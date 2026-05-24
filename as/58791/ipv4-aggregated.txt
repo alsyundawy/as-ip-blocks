@@ -1,5 +1,5 @@
-# AS58791 (GMOOSK-NET)
-# GMO Internet Group Inc.
+# AS58791 (GMO-I-R2)
+# GMO Internet Inc.
 #
 118.27.224.0/20
 124.110.208.0/23

@@ -1,4 +1,4 @@
 # AS52908 (JP-PROVIDERS-EIRELLI)
-# JP Providers Eirelli
+# JP PROVIDERS LTDA
 #
 2804:139c::/32
