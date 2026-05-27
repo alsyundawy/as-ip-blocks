@@ -1,4 +1,4 @@
 # AS207067 (GIGASONIC)
-# Fluency Communications Ltd
+# Commsworld Ltd
 #
 2a00:a607::/32

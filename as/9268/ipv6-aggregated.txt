@@ -1,6 +1,4 @@
 # AS9268 (OVERTHEWIRE-AS-AP)
 # Over the Wire Pty Ltd
 #
-2401:ac00::/32
-2402:c00::/32
 2406:c500:ffd2::/48

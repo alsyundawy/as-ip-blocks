@@ -1,0 +1,16 @@
+{
+  "asn": 197363,
+  "metadata": {
+    "handle": "FEDIN",
+    "description": "Fedin Vladislav Andreevich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "78.17.79.0/24" ],
+    "ipv6": [ ]
+  }
+}

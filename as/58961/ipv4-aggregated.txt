@@ -1,0 +1,4 @@
+# AS58961 (OPENIP-AS)
+# Perhimpunan Klik Indonesia
+#
+103.27.248.0/22

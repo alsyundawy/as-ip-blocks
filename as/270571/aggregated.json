@@ -2,11 +2,11 @@
   "asn": 270571,
   "metadata": {
     "handle": "E-G-MORAIS",
-    "description": "E G DE MORAIS SERVIÇOS DE INTERNET LTDA",
+    "description": "GIGANET SERVICOS DE TELECOMUNICACOES LTDA",
     "countryCode": "BR",
     "country": "Brazil",
     "origin": "authoritative",
-    "category": "business",
+    "category": "isp",
     "networkRole": "stub"
   },
   "prefixes": {

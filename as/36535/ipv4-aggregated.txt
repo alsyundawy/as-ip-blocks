@@ -1,4 +1,4 @@
 # AS36535 (SUNTRADING)
 # administrative copy of ARIN registered ASN.
 #
-204.152.180.0/23
+204.152.181.0/24

@@ -1,4 +1,4 @@
 # AS267475 (LIG-TELECOM)
-# A PEQUENINA LTDA
+# Lig Telecom
 #
 2804:4210::/32

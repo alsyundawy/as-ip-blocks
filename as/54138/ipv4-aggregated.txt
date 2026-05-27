@@ -1,4 +1,3 @@
 # AS54138 (NETPROTECT-OVP)
 # Overplay Inc
 #
-199.33.70.0/24

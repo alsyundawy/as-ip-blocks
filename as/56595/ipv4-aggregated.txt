@@ -1,5 +1,5 @@
 # AS56595 (FLUENCY)
-# Fluency Communications Ltd
+# Commsworld Ltd
 #
 45.149.252.0/22
 46.226.0.0/21

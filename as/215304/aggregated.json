@@ -1,0 +1,16 @@
+{
+  "asn": 215304,
+  "metadata": {
+    "handle": "SOLREN",
+    "description": "SOLREN LIMITED",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.60.253.0/24" ],
+    "ipv6": [ ]
+  }
+}

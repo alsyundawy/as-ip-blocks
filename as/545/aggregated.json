@@ -6,11 +6,11 @@
     "countryCode": "US",
     "country": "United States",
     "origin": "authoritative",
-    "category": "education_research",
+    "category": "hosting",
     "networkRole": "stub"
   },
   "prefixes": {
-    "ipv4": [ "65.194.67.0/24", "132.151.0.0/16" ],
+    "ipv4": [ ],
     "ipv6": [ "2602:80d:3000::/44" ]
   }
 }

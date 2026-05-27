@@ -1,4 +1,4 @@
-# AS215296 (RASERVE)
+# AS215296 (LOWPING-NL)
 # Raoul Brouns
 #
 2001:67c:e3c::/48
